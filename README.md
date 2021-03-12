@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... リム
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=potatoscript)](https://github.com/anuraghazra/github-readme-stats)
