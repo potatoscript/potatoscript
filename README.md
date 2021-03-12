@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Android and React.js
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [My HomePage](https://potatoscript.github.io/homepage/)
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... リム
 - ⚡ Fun fact: ...
 -->
