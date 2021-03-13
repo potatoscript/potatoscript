@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm KS LIM</h1>
-<h3 align="center">Web and Android Developer</h3>
+### Hi there 👋, my name is LIM
+#### I am Web and Android App Developer
+![I am Web and Android App Developer](https://github.com/potatoscript/resume/blob/master/docs/images/bruce2.jpg)
+
+I am K.S.LIM the web & android apps developer live in JAPAN since Dec 2003,
+I graduated from engineering background (Mechanical Engineering at Coventry University United Kingdom),
+but my final year's undergraduate project had led me to the world of programming.
+(Developing software to find the natural frequency and damping factor from the input data
+of some vibration measurement device using MathLab programming language.)
+It combined the fields of engineering and programming.
+The result was good and encouraged me continue to develop my programming skill until now.
+
+Skills: JAVA/ C# / JS / HTML / CSS
 
 - 🔭 I’m currently working on [XQR Scanner App](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
 
