@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is LIM
 #### I am Web and Android App Developer
 
-I am K.S.LIM the web & android apps developer live in JAPAN since Dec 2003,
 I graduated from engineering background (Mechanical Engineering at Coventry University United Kingdom),
 but my final year's undergraduate project had led me to the world of programming.
 (Developing software to find the natural frequency and damping factor from the input data
