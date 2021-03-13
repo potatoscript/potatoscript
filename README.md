@@ -1,60 +1,6 @@
 ### Hi there 👋, my name is LIM
 #### I am Web and Android App Developer
 
-<!DOCTYPE html>
-<html lang="en-US">
-<meta charset="utf-8">
-<head>
-  <link rel="icon" type="../../potato.js/images/png" href="../../potato.js/images/img-p.png">
-  <link rel="stylesheet" href="../../potato.js/css/jquery-ui.css"/>
-  <link rel="stylesheet" href="../../potato.js/css/potato.css"/>
-  <link rel="stylesheet" href="jquery.orgchart.css"/>
-
-  <link rel="stylesheet" href="index.css"/>
-  <script type="text/javascript" src="../../potato.js/js/enchant.js"></script>
-  <script type="text/javascript" src="../../potato.js/js/Chart.bundle.js"></script>
-  <script type="text/javascript" src="../../potato.js/js/Chart.utils.js"></script>
-  <script type="text/javascript" src="../../potato.js/js/jquery-3.4.1.js"></script>
-  <script type="text/javascript" src="../../potato.js/js/jquery-ui.js"></script>
-  <script type="text/javascript" src="../../potato.js/js/angular.js"></script>
-  <script type="text/javascript" src="../../potato.js/js/potato.1.5.0.js"></script>
-  <script type="text/javascript" src="chartjs-plugin-labels.js"></script>
-  <script type="text/javascript" src="jquery.mousewheel.js"></script>
-  <script type="text/javascript" src="jquery.orgchart.js"></script>
-  <!--<script type="text/javascript" src="jquery.panzoom.js"></script>-->
-  <script type="text/javascript" src="index.js"></script>
-</head>
-  <body>
-
-	<table style="margin-left:10px;margin-top:10px">
-		<tr>
-			<td style='vertical-align:top;'>
-				<table>
-					<tr>
-						<td>
-							<div class="flipPotato">
-							  <div class="front flipItem">
-								<img class="spotlight" aria-busy="true" style="width: 160px; height:200px;" alt=""  src="images/bruce1.jpg">
-								<p style="font-size:13px;margin-top:-5px">2010年～2020年 日本</p>
-							  </div>
-							  <div class="back flipItem">
-								<img class="spotlight" aria-busy="true" style="width: 130px; height:200px;" alt=""  src="images/PBook.jpg">
-								<p style="font-size:13px;margin-top:-5px">2020年4月～ ｼﾝｶﾞﾎﾟｰﾙ</p>
-							  </div>
-							</div>
-							<br>
-						</td>
-					</tr>
-				</table>
-    </td>
-  </tr>
- </table>
-</body> 
-</html>
-
-
-
-
 I graduated from engineering background (Mechanical Engineering at Coventry University United Kingdom),
 but my final year's undergraduate project had led me to the world of programming.
 (Developing software to find the natural frequency and damping factor from the input data
