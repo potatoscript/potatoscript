@@ -1,5 +1,4 @@
-### Here is what I'm working on:
-<h1 align="center">Hi 👋, I'm BRUCE LIM</h1>
+<h1 align="center">Hi 👋, I'm KS LIM</h1>
 <h3 align="center">Web and Android Developer</h3>
 
 - 🔭 I’m currently working on [XQR Scanner App](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
@@ -8,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/bruce lim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bruce lim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/potatoscript" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="30" width="40" /></a>
+<a href="https://fb.com/bruce.lim.507" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bruce lim" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/potato script" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
