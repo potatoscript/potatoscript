@@ -10,6 +10,8 @@ The result was good and encouraged me continue to develop my programming skill u
 
 Skills: JAVA/ C# / JS / HTML / CSS
 
+- 📗 I had created a JavaScript Library named [Potato.js](https://potatoscript.github.io/homepage/)
+
 - 🔭 I’m currently working on [XQR Scanner App](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
 
 - 🌱 I’m currently learning **Android and React.js**
