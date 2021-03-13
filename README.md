@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is LIM
 #### I am Web and Android App Developer
-![I am Web and Android App Developer](https://github.com/potatoscript/resume/blob/master/docs/images/bruce2.jpg)
 
 I am K.S.LIM the web & android apps developer live in JAPAN since Dec 2003,
 I graduated from engineering background (Mechanical Engineering at Coventry University United Kingdom),
