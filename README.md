@@ -18,6 +18,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
 
 <h3 align="left">My Contribution:</h3>
 - [C# Tutorial](https://github.com/potatoscript/csharp/wiki)
+- [XQR Scanner App](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
