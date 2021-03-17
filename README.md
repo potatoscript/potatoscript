@@ -1,4 +1,4 @@
-### Hi there 👋, my name is LIM
+### Hi there <img src="https://github.com/potatoscript/homepage/tree/master/docs/image/wave.gif">, my name is LIM
 #### I am a Web and Android App Developer
 
 I graduated from engineering background (Mechanical Engineering at Coventry University United Kingdom),
@@ -12,7 +12,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
 
 - 📗 I had created a JavaScript Library named [Potato.js](https://potatoscript.github.io/homepage/)
 
-- 🔭 I’m currently working on [XQR Scanner App](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
+- 🔭 I’m currently working on Android App : [XQR Scanner](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
 
 - 🌱 I’m currently learning **Android and ASP.NET MVC**
 
