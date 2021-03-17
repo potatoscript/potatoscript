@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/potatoscript/homepage/tree/master/docs/image/wave.gif">, my name is LIM
+### Hi there <img src="https://github.com/potatoscript/homepage/blob/master/docs/image/wave.gif" width="30px">, my name is LIM
 #### I am a Web and Android App Developer
 
 I graduated from engineering background (Mechanical Engineering at Coventry University United Kingdom),
