@@ -19,8 +19,9 @@ Skills: JAVA/ C# / JS / HTML / CSS
 
 <h3 align="left">My Contribution:</h3>
 
-- [C# Tutorial](https://github.com/potatoscript/csharp/wiki)
 - [JavaScript Tutorial](https://github.com/potatoscript/javascript/wiki)
+- [C# Tutorial](https://github.com/potatoscript/csharp/wiki)
+- [Android Tutorial](https://github.com/potatoscript/android/wiki)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
