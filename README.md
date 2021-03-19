@@ -1,10 +1,10 @@
 ### Hi there <img src="https://github.com/potatoscript/homepage/blob/master/docs/image/wave.gif" width="30px">, my name is LIM
 #### I am a Web and Android App Developer
 
-I graduated from engineering background (Mechanical Engineering at Coventry University United Kingdom),
+I graduated from engineering background (Graduated from Coventry University United Kingdom in 1999 and awarded Bachelor of Engineering with Honours First Class in Mechanical Engineering),
 but my final year's undergraduate project had led me to the world of programming.
 (Developing software to find the natural frequency and damping factor from the input data
-of some vibration measurement device using MathLab programming language.)
+of some vibration measurement device using <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="20" height="20"/> MathLab programming language.)
 It combined the fields of engineering and programming.
 The result was good and encouraged me continue to develop my programming skill until now.
 
