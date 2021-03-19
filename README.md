@@ -20,8 +20,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
 <h3 align="left">Contributing 寄稿:</h3>
 <table>
   <tr>
-    <th>Tutorial</th>
-    <th>Title</th>
+    <th colspan=2 style="text-align:left;padding-left:10px">Tutorial Title:</th>
   </tr>
   <tr>
     <td>1</td>
@@ -31,15 +30,27 @@ Skills: JAVA/ C# / JS / HTML / CSS
     <td>2</td>
     <td><a href="https://github.com/potatoscript/csharp/wiki">C# Tutorial</a></td>
   </tr> 
+  <tr>
+    <td>3</td>
+    <td><a href="https://github.com/potatoscript/javascript/wiki">JavaScript Tutorial</a></td>
+  </tr> 
+  <tr>
+    <td>4</td>
+    <td><a href="https://github.com/potatoscript/php/wiki">PHP Tutorial</a></td>
+  </tr> 
+  <tr>
+    <td>5</td>
+    <td><a href="https://github.com/potatoscript/potato.js/wiki">Potato.js Tutorial</a></td>
+  </tr> 
+  <tr>
+    <td>6</td>
+    <td><a href="https://github.com/potatoscript/react/wiki">React.js Tutorial</a></td>
+  </tr> 
+  <tr>
+    <td>7</td>
+    <td><a href="https://github.com/potatoscript/sql/wiki">SQL Tutorial</a></td>
+  </tr> 
 </table> 
-
-- [Android Tutorial](https://github.com/potatoscript/android/wiki)
-- [C# Tutorial](https://github.com/potatoscript/csharp/wiki)
-- [JavaScript Tutorial](https://github.com/potatoscript/javascript/wiki)
-- [PHP Tutorial](https://github.com/potatoscript/php/wiki)
-- [Potato.js Tutorial](https://github.com/potatoscript/potato.js) 
-- [React.js Tutorial](https://github.com/potatoscript/react/wiki) 
-- [SQL Tutorial](https://github.com/potatoscript/sql/wiki)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
