@@ -20,12 +20,19 @@ Skills: JAVA/ C# / JS / HTML / CSS
 <h3 align="left">Contributing 寄稿:</h3>
 <table>
   <tr>
-    <th>Tutorial</th><th>Title</th>
+    <th>Tutorial</th>
+    <th>Title</th>
   </tr>
   <tr>
-    <td>1</td><td>[Android Tutorial](https://github.com/potatoscript/android/wiki)</td>
+    <td>1</td>
+    <td><a href="https://github.com/potatoscript/android/wiki">Android Tutorial</a></td>
   </tr>  
-</table>  
+  <tr>
+    <td>2</td>
+    <td><a href="https://github.com/potatoscript/csharp/wiki">C# Tutorial</a></td>
+  </tr> 
+</table> 
+
 - [Android Tutorial](https://github.com/potatoscript/android/wiki)
 - [C# Tutorial](https://github.com/potatoscript/csharp/wiki)
 - [JavaScript Tutorial](https://github.com/potatoscript/javascript/wiki)
