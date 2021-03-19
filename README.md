@@ -22,7 +22,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
 - [Android Tutorial](https://github.com/potatoscript/android/wiki)
 - [C# Tutorial](https://github.com/potatoscript/csharp/wiki)
 - [JavaScript Tutorial](https://github.com/potatoscript/javascript/wiki)
-- [PHP Tutorial]()
+- [PHP Tutorial](https://github.com/potatoscript/php/wiki)
 - [Potato.js Tutorial](https://github.com/potatoscript/potato.js) 
 - [React.js Tutorial]() 
 - [SQL Tutorial]()
