@@ -32,22 +32,30 @@ Skills: JAVA/ C# / JS / HTML / CSS
   </tr> 
   <tr>
     <td>3</td>
-    <td><a href="https://github.com/potatoscript/javascript/wiki">JavaScript Tutorial</a></td>
+    <td><a href="https://github.com/potatoscript/css/wiki">CSS Tutorial</a></td>
   </tr> 
   <tr>
     <td>4</td>
-    <td><a href="https://github.com/potatoscript/php/wiki">PHP Tutorial</a></td>
+    <td><a href="https://github.com/potatoscript/html/wiki">HTML Tutorial</a></td>
   </tr> 
   <tr>
     <td>5</td>
-    <td><a href="https://github.com/potatoscript/potato.js/wiki">Potato.js Tutorial</a></td>
+    <td><a href="https://github.com/potatoscript/javascript/wiki">JavaScript Tutorial</a></td>
   </tr> 
   <tr>
     <td>6</td>
-    <td><a href="https://github.com/potatoscript/react/wiki">React.js Tutorial</a></td>
+    <td><a href="https://github.com/potatoscript/php/wiki">PHP Tutorial</a></td>
   </tr> 
   <tr>
     <td>7</td>
+    <td><a href="https://github.com/potatoscript/potato.js/wiki">Potato.js Tutorial</a></td>
+  </tr> 
+  <tr>
+    <td>8</td>
+    <td><a href="https://github.com/potatoscript/react/wiki">React.js Tutorial</a></td>
+  </tr> 
+  <tr>
+    <td>9</td>
     <td><a href="https://github.com/potatoscript/sql/wiki">SQL Tutorial</a></td>
   </tr> 
 </table> 
