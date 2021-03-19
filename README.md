@@ -25,7 +25,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
 - [PHP Tutorial](https://github.com/potatoscript/php/wiki)
 - [Potato.js Tutorial](https://github.com/potatoscript/potato.js) 
 - [React.js Tutorial]() 
-- [SQL Tutorial]()
+- [SQL Tutorial](https://github.com/potatoscript/sql/wiki)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
