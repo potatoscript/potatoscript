@@ -17,7 +17,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
 - 🌱 I’m currently learning **Android and ASP.NET MVC**
 
 
-<h3 align="left">My Contribution:</h3>
+<h3 align="left">Contributing 寄稿:</h3>
 
 - [JavaScript Tutorial](https://github.com/potatoscript/javascript/wiki)
 - [C# Tutorial](https://github.com/potatoscript/csharp/wiki)
