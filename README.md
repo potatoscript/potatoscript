@@ -23,7 +23,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
     <th colspan=2 style="text-align:left;padding-left:10px">Tutorial Title:</th>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></td>
     <td><a href="https://github.com/potatoscript/android/wiki">Android Tutorial</a></td>
   </tr>  
   <tr>
@@ -43,7 +43,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
     <td><a href="https://github.com/potatoscript/javascript/wiki">JavaScript Tutorial</a></td>
   </tr> 
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> </td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="35"/> </td>
     <td><a href="https://github.com/potatoscript/php/wiki">PHP Tutorial</a></td>
   </tr> 
   <tr>
