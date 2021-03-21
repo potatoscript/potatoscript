@@ -27,7 +27,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
     <td><a href="https://github.com/potatoscript/android/wiki">Android Tutorial</a></td>
   </tr>  
   <tr>
-    <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/Apache.png" alt="apache" width="30" height="30"/>       </td>
+    <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/Apache.png" alt="apache" width="30" height="30"/></td>
     <td><a href="https://github.com/potatoscript/apache/wiki">Apache Setup</a></td>
   </tr>  
   <tr>
@@ -63,7 +63,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
     <td><a href="https://github.com/potatoscript/sql/wiki">PostgreSQL Tutorial</a></td>
   </tr> 
   <tr>
-    <td></td>
+    <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/batchscript.jpg" alt="apache" width="30" height="30"/></td>
     <td><a href="https://github.com/potatoscript/batchscript/wiki">Batch Script Tutorial</a></td>
   </tr> 
 </table> 
