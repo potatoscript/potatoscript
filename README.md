@@ -62,6 +62,10 @@ Skills: JAVA/ C# / JS / HTML / CSS
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> </td>
     <td><a href="https://github.com/potatoscript/sql/wiki">PostgreSQL Tutorial</a></td>
   </tr> 
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/potatoscript/batchscript/wiki">Batch Script Tutorial</a></td>
+  </tr> 
 </table> 
 
 <h3 align="left">Connect with me:</h3>
