@@ -23,8 +23,12 @@ Skills: JAVA/ C# / JS / HTML / CSS
     <th colspan=2 style="text-align:left;padding-left:10px">Tutorial Title:</th>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/>       </td>
     <td><a href="https://github.com/potatoscript/android/wiki">Android Tutorial</a></td>
+  </tr>  
+  <tr>
+    <td><img src="src="https://github.com/potatoscript/homepage/blob/master/docs/image/Apache.png" alt="apache" width="30" height="30"/>       </td>
+    <td><a href="https://github.com/potatoscript/apache/wiki">Apache Setup</a></td>
   </tr>  
   <tr>
     <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
