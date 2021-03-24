@@ -62,7 +62,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
            <td><a href="https://github.com/potatoscript/php/wiki">PHP Tutorial</a></td>
         </tr> 
         <tr>
-           <td>P</td>
+           <td><img src="https://github.com/potatoscript/homepage/raw/master/docs/image/P.png" alt="postgresql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/potato.js/wiki">Potato.js Tutorial</a></td>
         </tr> 
         <tr>
