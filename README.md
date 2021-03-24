@@ -12,7 +12,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
 
 - 📗 I had created a JavaScript Library named [Potato.js](https://potatoscript.github.io/homepage/)
 
-- 🔭 I’m currently working on Android App : [QR Scanner　Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
+- 🔭 I’m currently working on Android App : [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
 
 - 🌱 I’m currently learning **Android and ASP.NET MVC**
 
