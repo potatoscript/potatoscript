@@ -31,7 +31,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
          </tr>  
          <tr>
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/Apache.png" alt="apache" width="30" height="30"/></td>
-           <td><a href="https://github.com/potatoscript/apache/wiki">Apache Setup</a></td>
+           <td><a href="https://github.com/potatoscript/Apache">Apache Setup</a></td>
          </tr>
         <tr>
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/batchscript.jpg" alt="apache" width="30" height="30"/></td>
