@@ -74,7 +74,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
            <td><a href="https://github.com/potatoscript/sql/wiki">PostgreSQL Tutorial</a></td>
         </tr> 
         <tr>
-           <td></td>
+           <td><img src="https://github.com/potatoscript/homepage/raw/master/docs/image/markdown.png" alt="postgresql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/markdown/wiki">Markdown cheat sheet</a></td>
         </tr> 
       </table>
