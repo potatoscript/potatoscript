@@ -43,9 +43,8 @@ Skills: JAVA/ C# / JS / HTML / CSS
          </tr> 
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/csharp-asp-net-mvc/wiki">C# ASP.NET MVC</a></td>
-         </tr> 
-         
+           <td><a href="https://github.com/potatoscript/asp.net mvc/wiki">C# ASP.NET MVC</a></td>
+         </tr>      
       </table>  
     </td>
     <td style="vertical-align:top">
