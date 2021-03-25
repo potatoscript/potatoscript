@@ -39,7 +39,11 @@ Skills: JAVA/ C# / JS / HTML / CSS
         </tr> 
          <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/csharp/wiki">C#</a></td>
+           <td><a href="https://github.com/potatoscript/csharp/wiki">C# WinForm</a></td>
+         </tr> 
+        <tr>
+           <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/csharp.wpf/wiki">C# WPF</a></td>
          </tr> 
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
@@ -84,6 +88,10 @@ Skills: JAVA/ C# / JS / HTML / CSS
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/react/wiki">React.js</a></td>
+        </tr> 
+        <tr>
+           <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/xml.png" alt="react" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/xml/wiki">XML</a></td>
         </tr> 
       </table>
     </td>
