@@ -20,14 +20,14 @@ Skills: JAVA/ C# / JS / HTML / CSS
 <h3 align="left">Contributing 寄稿:</h3>
 <table style="border:0px">
   <tr>
-     <th colspan=6 style="text-align:left;padding-left:10px">Tutorial Title:</th>
+     <th colspan=6 style="text-align:left;padding-left:10px">Cheat Sheet:</th>
   </tr>
   <tr>
     <td style="vertical-align:top">
       <table>
          <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></td>
-           <td><a href="https://github.com/potatoscript/android/wiki">Android Tutorial</a></td>
+           <td><a href="https://github.com/potatoscript/android/wiki">Android Java</a></td>
          </tr>  
          <tr>
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/Apache.png" alt="apache" width="30" height="30"/></td>
@@ -35,19 +35,19 @@ Skills: JAVA/ C# / JS / HTML / CSS
          </tr>
         <tr>
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/batchscript.jpg" alt="apache" width="30" height="30"/></td>
-           <td><a href="https://github.com/potatoscript/batchscript/wiki">Batch Script Tutorial</a></td>
+           <td><a href="https://github.com/potatoscript/batchscript/wiki">Batch Script</a></td>
         </tr> 
          <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/csharp/wiki">C# Tutorial</a></td>
+           <td><a href="https://github.com/potatoscript/csharp/wiki">C#</a></td>
          </tr> 
          <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/css/wiki">CSS Tutorial</a></td>
+           <td><a href="https://github.com/potatoscript/css/wiki">CSS</a></td>
          </tr> 
          <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>              </td>
-           <td><a href="https://github.com/potatoscript/html/wiki">HTML Tutorial</a></td>
+           <td><a href="https://github.com/potatoscript/html/wiki">HTML</a></td>
          </tr> 
       </table>  
     </td>
@@ -55,27 +55,27 @@ Skills: JAVA/ C# / JS / HTML / CSS
       <table>
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/javascript/wiki">JavaScript Tutorial</a></td>
+           <td><a href="https://github.com/potatoscript/javascript/wiki">JavaScript</a></td>
          </tr>
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="35"/> </td>
-           <td><a href="https://github.com/potatoscript/php/wiki">PHP Tutorial</a></td>
+           <td><a href="https://github.com/potatoscript/php/wiki">PHP</a></td>
         </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/homepage/raw/master/docs/image/P.png" alt="postgresql" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/potato.js/wiki">Potato.js Tutorial</a></td>
+           <td><a href="https://github.com/potatoscript/potato.js/wiki">Potato.js</a></td>
         </tr> 
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/react/wiki">React.js Tutorial</a></td>
+           <td><a href="https://github.com/potatoscript/react/wiki">React.js</a></td>
         </tr> 
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> </td>
-           <td><a href="https://github.com/potatoscript/sql/wiki">PostgreSQL Tutorial</a></td>
+           <td><a href="https://github.com/potatoscript/sql/wiki">PostgreSQL</a></td>
         </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/homepage/raw/master/docs/image/markdown2.png" alt="postgresql" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/markdown/wiki">Markdown cheat sheet</a></td>
+           <td><a href="https://github.com/potatoscript/markdown/wiki">Markdown</a></td>
         </tr> 
       </table>
     </td>
