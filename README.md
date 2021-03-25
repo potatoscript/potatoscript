@@ -57,11 +57,10 @@ Skills: JAVA/ C# / JS / HTML / CSS
     </td>
     <td style="vertical-align:top">
       <table>
-        
          <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>              </td>
            <td><a href="https://github.com/potatoscript/html/wiki">HTML</a></td>
-         </tr> 
+         </tr>
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/javascript/wiki">JavaScript</a></td>
@@ -71,11 +70,11 @@ Skills: JAVA/ C# / JS / HTML / CSS
            <td><a href="https://github.com/potatoscript/markdown/wiki">Markdown</a></td>
         </tr> 
         <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="35"/> </td>
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="35"/></td>
            <td><a href="https://github.com/potatoscript/php/wiki">PHP</a></td>
         </tr> 
         <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> </td>
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/sql/wiki">PostgreSQL</a></td>
         </tr> 
         <tr>
