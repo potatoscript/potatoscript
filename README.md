@@ -37,14 +37,6 @@ Skills: JAVA/ C# / JS / HTML / CSS
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/batchscript.jpg" alt="apache" width="30" height="30"/></td>
            <td><a href="https://github.com/potatoscript/batchscript/wiki">Batch Script</a></td>
         </tr> 
-         <tr>
-           <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/csharp/wiki">C# WinForm</a></td>
-         </tr> 
-        <tr>
-           <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/csharp.wpf/wiki">C# WPF</a></td>
-         </tr> 
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/asp.net.mvc/wiki">C# ASP.NET MVC</a></td>
@@ -52,6 +44,14 @@ Skills: JAVA/ C# / JS / HTML / CSS
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/asp.net.webform/wiki">C# ASP.NET WebForm</a></td>
+         </tr> 
+         <tr>
+           <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/csharp/wiki">C# WinForm</a></td>
+         </tr> 
+        <tr>
+           <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/csharp.wpf/wiki">C# WPF</a></td>
          </tr> 
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/></td>
