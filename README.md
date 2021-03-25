@@ -39,15 +39,15 @@ Skills: JAVA/ C# / JS / HTML / CSS
         </tr> 
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/csharp/wiki">C# (WinForm)</a></td>
+         </tr> 
+        <tr>
+           <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/asp.net.mvc/wiki">C# ASP.NET MVC</a></td>
          </tr>    
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/asp.net.webform/wiki">C# ASP.NET WebForm</a></td>
-         </tr> 
-         <tr>
-           <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/csharp/wiki">C# WinForm</a></td>
          </tr> 
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
