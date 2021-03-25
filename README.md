@@ -14,7 +14,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
 
 - 🔭 I’m currently working on Android App : [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
 
-- 🌱 I’m currently learning **Android and ASP.NET MVC**
+- 🌱 I’m currently learning **Android and ASP.NET MVC and React.js**
 
 
 <h3 align="left">Contributing 寄稿:</h3>
