@@ -90,6 +90,10 @@ Skills: JAVA/ C# / JS / HTML / CSS
            <td><a href="https://github.com/potatoscript/react/wiki">React.js</a></td>
         </tr> 
         <tr>
+           <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/vba.png" alt="react" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/vba/wiki">VBA</a></td>
+        </tr> 
+        <tr>
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/xml.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/xml/wiki">XML</a></td>
         </tr> 
