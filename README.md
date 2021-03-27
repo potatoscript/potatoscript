@@ -14,7 +14,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
 
 - 🔭 I’m currently working on Android App : [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
 
-- 🌱 I’m currently learning **Android and ASP.NET MVC and React.js**
+- 🌱 I’m currently learning **Android and ASP.NET Core MVC and React.js**
 
 
 <h3 align="left">Contributing 寄稿:</h3>
@@ -45,6 +45,10 @@ Skills: JAVA/ C# / JS / HTML / CSS
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/asp.net.mvc/wiki">C# ASP.NET MVC</a></td>
          </tr>    
+        <tr>
+           <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/asp.net.core.mvc/wiki">C# ASP.NET Core MVC</a></td>
+         </tr>  
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/asp.net.webform/wiki">C# ASP.NET WebForm</a></td>
