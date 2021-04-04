@@ -43,6 +43,10 @@ Skills: JAVA/ C# / JS / HTML / CSS
          </tr> 
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/asp.net.api/wiki">C# ASP.NET API</a></td>
+         </tr> 
+        <tr>
+           <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/asp.net.mvc/wiki">C# ASP.NET MVC</a></td>
          </tr>    
         <tr>
@@ -56,15 +60,15 @@ Skills: JAVA/ C# / JS / HTML / CSS
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/csharp.wpf/wiki">C# WPF</a></td>
-         </tr> 
-        <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/css/wiki">CSS</a></td>
-         </tr> 
+         </tr>
       </table>  
     </td>
     <td style="vertical-align:top">
       <table>
+        <tr>
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/css/wiki">CSS</a></td>
+         </tr> 
          <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>              </td>
            <td><a href="https://github.com/potatoscript/html/wiki">HTML</a></td>
