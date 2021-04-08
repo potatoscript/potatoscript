@@ -79,7 +79,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
          </tr>
         <tr>
            <td><img src="https://github.com/potatoscript/homepage/raw/master/docs/image/markdown2.png" alt="postgresql" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/markdown/wiki">Markdown</a></td>
+           <td><a href="https://github.com/potatoscript/markdown">Markdown</a></td>
         </tr> 
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="35"/></td>
