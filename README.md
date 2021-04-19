@@ -90,6 +90,10 @@ Skills: JAVA/ C# / JS / HTML / CSS
            <td><a href="https://github.com/potatoscript/sql/wiki">PostgreSQL</a></td>
         </tr> 
         <tr>
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/mysql/wiki">MySQL</a></td>
+        </tr> 
+        <tr>
            <td><img src="https://github.com/potatoscript/homepage/raw/master/docs/image/P.png" alt="postgresql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/potato.js/wiki">Potato.js</a></td>
         </tr> 
