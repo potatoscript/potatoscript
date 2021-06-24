@@ -79,7 +79,7 @@ Skills: JAVA/ C# / JS / HTML / CSS
          </tr>
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/javaswing/wiki">Java Swing</a></td>
+           <td><a href="https://github.com/potatoscript/JavaSwing/wiki">Java Swing</a></td>
          </tr>
         <tr>
            <td><img src="https://github.com/potatoscript/homepage/raw/master/docs/image/markdown2.png" alt="postgresql" width="20" height="20"/></td>
