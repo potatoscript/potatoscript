@@ -74,6 +74,10 @@ Skills: JAVA/ C# / JS / HTML / CSS
     <td style="vertical-align:top">
       <table>
         <tr>
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/git/wiki">GIT</a></td>
+         </tr>
+        <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/javascript/wiki">JavaScript</a></td>
          </tr>
