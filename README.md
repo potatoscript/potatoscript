@@ -8,7 +8,7 @@ of some vibration measurement device using <img src="https://github.com/devicons
 It combined the fields of engineering and programming.
 The result was good and encouraged me continue to develop my programming skill until now.
 
-Skills: JAVA/ C# / JS / HTML / CSS
+Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
 
 - 📗 I had created a JavaScript Library named [Potato.js](https://github.com/potatoscript/potato.js/wiki)
 
