@@ -20,7 +20,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
 <h3 align="left">Contributing 寄稿:</h3>
 <table style="border:0px">
   <tr>
-     <th colspan=6 style="text-align:left;padding-left:10px">Cheat Sheet:</th>
+     <th colspan=6 style="text-align:left;padding-left:10px">My Cheat Sheet:</th>
   </tr>
   <tr>
     <td style="vertical-align:top">
