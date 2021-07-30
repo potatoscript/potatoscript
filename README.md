@@ -31,7 +31,8 @@ Skills: JAVA/ C# / JS / HTML / CSS
          </tr>  
          <tr>
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/Apache.png" alt="apache" width="30" height="30"/></td>
-           <td><a href="https://github.com/potatoscript/Apache">Apache Setup</a></td>
+           <td><a href="https://github.com/potatoscript/Apache">Apache Setup</a>
+              <a href="https://youtu.be/Eyj2oz_Uqms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
          </tr>
         <tr>
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/batchscript.jpg" alt="apache" width="30" height="30"/></td>
@@ -39,7 +40,8 @@ Skills: JAVA/ C# / JS / HTML / CSS
         </tr> 
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/csharp/wiki">C# (WinForm)</a></td>
+           <td><a href="https://github.com/potatoscript/csharp/wiki">C# (WinForm)</a>
+              <a href="https://youtu.be/a60aGfwdWj8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
          </tr>
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
@@ -55,7 +57,8 @@ Skills: JAVA/ C# / JS / HTML / CSS
          </tr> 
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/asp.net.api/wiki">C# ASP.NET WEB API</a></td>
+           <td><a href="https://github.com/potatoscript/asp.net.api/wiki">C# ASP.NET WEB API</a>
+             <a href="https://youtu.be/YA-O7DKRvUg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
          </tr> 
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
@@ -75,7 +78,8 @@ Skills: JAVA/ C# / JS / HTML / CSS
       <table>
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/git/wiki">GIT</a></td>
+           <td><a href="https://github.com/potatoscript/git/wiki">GIT</a>
+          <a href="https://youtu.be/LK8B8m4IBSg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
          </tr>
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></td>
