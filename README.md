@@ -107,7 +107,8 @@ Skills: JAVA/ C# / JS / HTML / CSS
         </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/homepage/raw/master/docs/image/P.png" alt="postgresql" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/potato.js/wiki" target="_blank">Potato.js</a></td>
+           <td><a href="https://github.com/potatoscript/potato.js/wiki" target="_blank">Potato.js</a>
+             <a href="https://youtu.be/XrzNLFtjt8M" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
         </tr> 
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></td>
