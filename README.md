@@ -124,7 +124,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><a href="https://github.com/potatoscript/xml/wiki" target="_blank">XML</a></td>
         </tr> 
         <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original-wordmark.svg" alt="react" width="20" height="20"/>v</td>
+           <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/vue.png" alt="vue" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/vue/wiki" target="_blank">Vue.js</a></td>
         </tr> 
       </table>
