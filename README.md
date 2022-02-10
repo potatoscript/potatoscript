@@ -14,7 +14,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
 
 - 🔭 I’m currently working on Android App : [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
 
-- 🌱 I’m currently learning **Python and React.js**
+- 🌱 I’m currently learning **Vue.js**
 
 
 <h3 align="left">Contributing 寄稿:</h3>
@@ -122,6 +122,10 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
         <tr>
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/xml.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/xml/wiki" target="_blank">XML</a></td>
+        </tr> 
+        <tr>
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original-wordmark.svg" alt="react" width="20" height="20"/>v</td>
+           <td><a href="https://github.com/potatoscript/vue/wiki" target="_blank">Vue.js</a></td>
         </tr> 
       </table>
     </td>
