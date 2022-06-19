@@ -73,6 +73,10 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>              </td>
            <td><a href="https://github.com/potatoscript/html/wiki" target="_blank">HTML</a></td>
          </tr>
+         <tr>
+           <td><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://github.com/docker/for-mac/issues/3793)" alt="docker" width="20" height="20"/>              </td>
+           <td><a href="https://github.com/potatoscript/docker/wiki" target="_blank">Docker</a></td>
+         </tr>
       </table>  
     </td>
     <td style="vertical-align:top">
