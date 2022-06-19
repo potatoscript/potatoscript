@@ -131,6 +131,10 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/vue.png" alt="vue" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/vue/wiki" target="_blank">Vue.js</a></td>
         </tr> 
+        <tr>
+           <td><img src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4" alt="vue" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/vuetify/wiki" target="_blank">Vuetify.js</a></td>
+        </tr> 
       </table>
     </td>
   </tr>
