@@ -95,8 +95,8 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
           <a href="https://youtu.be/LK8B8m4IBSg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
          </tr>
         <tr>
-           <td><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="ruby" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/ruby/wiki" target="_blank">Ruby</a></td>
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/JavaScript/wiki" target="_blank">JavaScript</a></td>
          </tr>
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></td>
