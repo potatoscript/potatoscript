@@ -77,6 +77,14 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://camo.githubusercontent.com/c8df4d3ef5efa270d3cf5ca04b70d29423ae8f91a12e61f44eed78d442f1c596/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f646f776e6c6f61642f73746f726167652f76312f622f6d61636f732d69636f6e732e61707073706f742e636f6d2f6f2f69636f6e735f617070726f766564253246706e67253246313630353336343933323737385f446f636b65725f416c745f322e706e673f67656e65726174696f6e3d3136303533373936303030373430383026616c743d6d65646961" alt="docker" width="20" height="20"/>              </td>
            <td><a href="https://github.com/potatoscript/docker/wiki" target="_blank">Docker</a></td>
          </tr>
+        <tr>
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/css/wiki" target="_blank">CSS</a></td>
+         </tr> 
+         <tr>
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>              </td>
+           <td><a href="https://github.com/potatoscript/html/wiki" target="_blank">HTML</a></td>
+         </tr>
       </table>  
     </td>
     <td style="vertical-align:top">
@@ -87,8 +95,8 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
           <a href="https://youtu.be/LK8B8m4IBSg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
          </tr>
         <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/javascript/wiki" target="_blank">JavaScript</a></td>
+           <td><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="ruby" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/ruby/wiki" target="_blank">Ruby</a></td>
          </tr>
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></td>
