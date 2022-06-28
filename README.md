@@ -153,7 +153,11 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
         </tr> 
         <tr>
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="vue" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/python/wiki" target="_blank">Python.js</a></td>
+           <td><a href="https://github.com/potatoscript/python/wiki" target="_blank">Python</a></td>
+        </tr> 
+        <tr>
+           <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="vue" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/Azure/wiki" target="_blank">Azure</a></td>
         </tr> 
       </table>
     </td>
