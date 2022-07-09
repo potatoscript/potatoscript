@@ -90,10 +90,6 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
     <td style="vertical-align:top">
       <table>
         <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>              </td>
-           <td><a href="https://github.com/potatoscript/html/wiki" target="_blank">HTML</a></td>
-         </tr>
-        <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/git/wiki" target="_blank">GIT</a>
           <a href="https://youtu.be/LK8B8m4IBSg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
