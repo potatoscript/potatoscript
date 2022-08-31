@@ -83,7 +83,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
          </tr>
          <tr>
            <td><img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="html5" width="20" height="20"/>              </td>
-           <td><a href="https://github.com/potatoscript/ruby/wiki" target="_blank">Ruby</a></td>
+           <td><a href="https://github.com/potatoscript/ruby/wiki" target="_blank">Ruby on Rails</a></td>
          </tr>
       </table>  
     </td>
