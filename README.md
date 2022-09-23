@@ -26,6 +26,10 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
     <td style="vertical-align:top">
       <table>
          <tr>
+           <td>O</td>
+           <td><a href="https://github.com/potatoscript/big-o-notation/wiki" target="_blank">Big-O Notation</a></td>
+         </tr>  
+         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></td>
            <td><a href="https://github.com/potatoscript/android/wiki" target="_blank">Android Java</a></td>
          </tr>  
