@@ -89,6 +89,10 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="html5" width="20" height="20"/>              </td>
            <td><a href="https://github.com/potatoscript/ruby/wiki" target="_blank">Ruby on Rails</a></td>
          </tr>
+         <tr>
+           <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/2048px-Former_Ubuntu_logo.svg.png" alt="ubuntu" width="20" height="20"/>              </td>
+           <td><a href="https://github.com/potatoscript/ubuntu/wiki" target="_blank">Ubuntu</a></td>
+         </tr>
       </table>  
     </td>
     <td style="vertical-align:top">
