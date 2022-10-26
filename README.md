@@ -12,7 +12,9 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
 
 - 📗 I had created a JavaScript Library named [Potato.js](https://github.com/potatoscript/potato.js/wiki)
 
-- 🔭 I’m currently working on Android App : [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
+- 📗 I had created an Android App : [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
+
+- 🔭 I’m currently working a project that using Vue.js as FrontEnd and Asp.net core API as backEnd
 
 - 🌱 I’m currently learning **Azure DevOps**
 
