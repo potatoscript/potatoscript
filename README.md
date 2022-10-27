@@ -165,7 +165,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><a href="https://github.com/potatoscript/Azure/wiki" target="_blank">Azure</a></td>
         </tr> 
         <tr>
-           <td><img src="https://jmeter.apache.org/images/jmeter.png" alt="JMeter" width="20" height="20"/></td>
+           <td><img src="https://www.wizcase.com/wp-content/uploads/2022/07/jmeter-logo.png" alt="JMeter" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JMeter/wiki" target="_blank">JMeter</a></td>
         </tr>     
       </table>
