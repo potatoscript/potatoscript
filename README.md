@@ -164,6 +164,10 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="vue" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/Azure/wiki" target="_blank">Azure</a></td>
         </tr> 
+        <tr>
+           <td><img src="![image](https://user-images.githubusercontent.com/55839355/198268081-7361828b-29f9-402e-a5f7-9bf105bc8edd.png)" alt="vue" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/JMeter/wiki" target="_blank">JMeter</a></td>
+        </tr>     
       </table>
     </td>
   </tr>
