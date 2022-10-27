@@ -157,15 +157,15 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><a href="https://github.com/potatoscript/vuetify/wiki" target="_blank">Vuetify.js</a></td>
         </tr> 
         <tr>
-           <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="vue" width="20" height="20"/></td>
+           <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/python/wiki" target="_blank">Python</a></td>
         </tr> 
         <tr>
-           <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="vue" width="20" height="20"/></td>
+           <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/Azure/wiki" target="_blank">Azure</a></td>
         </tr> 
         <tr>
-           <td><img src="![image](https://user-images.githubusercontent.com/55839355/198268081-7361828b-29f9-402e-a5f7-9bf105bc8edd.png)" alt="vue" width="20" height="20"/></td>
+           <td><img src="https://jmeter.apache.org/images/jmeter.png" alt="JMeter" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JMeter/wiki" target="_blank">JMeter</a></td>
         </tr>     
       </table>
