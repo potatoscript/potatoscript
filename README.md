@@ -98,6 +98,10 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/2048px-Former_Ubuntu_logo.svg.png" alt="ubuntu" width="20" height="20"/>              </td>
            <td><a href="https://github.com/potatoscript/ubuntu/wiki" target="_blank">Ubuntu</a></td>
          </tr>
+         <tr>
+           <td><img src="https://play-lh.googleusercontent.com/CxmsLct-ExxgB8p-qyV5897AtVUL9UqKS1IQJ8AF88AMzXSQ1RMIVwtvuQfnwyxE3bIh" alt="ubuntu" width="20" height="20"/>              </td>
+           <td><a href="https://github.com/potatoscript/websocket/wiki" target="_blank">WebSocket</a></td>
+         </tr>   
       </table>  
     </td>
     <td style="vertical-align:top">
