@@ -35,9 +35,9 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><a href="https://github.com/potatoscript/big-o-notation/wiki" target="_blank">Big-O Notation</a></td>
          </tr>  
          <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></td>
-           <td><a href="https://github.com/potatoscript/android/wiki" target="_blank">Android Java</a></td>
-         </tr>  
+           <td><img src="https://static.vecteezy.com/system/resources/previews/000/337/165/non_2x/vector-server-icon.jpg" alt="server" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/server/wiki" target="_blank">Server</a></td>
+         </tr> 
          <tr>
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/Apache.png" alt="apache" width="30" height="30"/></td>
            <td><a href="https://github.com/potatoscript/Apache" target="_blank">Apache Setup</a>
@@ -107,9 +107,9 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
     <td style="vertical-align:top">
       <table>
         <tr>
-           <td><img src="https://static.vecteezy.com/system/resources/previews/000/337/165/non_2x/vector-server-icon.jpg" alt="ubuntu" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/server/wiki" target="_blank">Server</a></td>
-         </tr>  
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></td>
+           <td><a href="https://github.com/potatoscript/android/wiki" target="_blank">Android Java</a></td>
+         </tr> 
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/git/wiki" target="_blank">GIT</a>
