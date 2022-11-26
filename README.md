@@ -49,7 +49,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
         </tr> 
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/csharp/wiki" target="_blank">C# (WinForm)</a>
+           <td><a href="https://github.com/potatoscript/csharp/wiki" target="_blank">C#</a>
               <a href="https://youtu.be/a60aGfwdWj8" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
          </tr>
         <tr>
