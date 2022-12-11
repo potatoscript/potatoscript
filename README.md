@@ -100,8 +100,12 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
          <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>              </td>
            <td><a href="https://github.com/potatoscript/html/wiki" target="_blank">HTML</a></td>
-         </tr>
-         <tr>
+         </tr> 
+      </table>  
+    </td>
+    <td style="vertical-align:top">
+      <table>
+        <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JavaSwing/wiki" target="_blank">Java Swing</a></td>
          </tr>
@@ -112,11 +116,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
          <tr>
            <td><img src="https://www.wizcase.com/wp-content/uploads/2022/07/jmeter-logo.png" alt="JMeter" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JMeter/wiki" target="_blank">JMeter</a></td>
-        </tr>  
-      </table>  
-    </td>
-    <td style="vertical-align:top">
-      <table>
+        </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/homepage/raw/master/docs/image/markdown2.png" alt="postgresql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/markdown" target="_blank">Markdown</a></td>
@@ -151,7 +151,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><a href="https://github.com/potatoscript/ruby/wiki" target="_blank">Ruby on Rails</a></td>
          </tr>
          <tr>
-           <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ARust_programming_language_black_logo.svg&psig=AOvVaw0A4qS9Dte-rSV4rxI15cu_&ust=1670803736916000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICKhoyj8PsCFQAAAAAdAAAAABAE" alt="Rust" width="20" height="20"/></td>
+           <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="Rust" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/rust/wiki" target="_blank">Rust</a></td>
          </tr>
         <tr>
@@ -186,7 +186,6 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
     </td>
   </tr>
 </table>  
- 
 
 
 <h3 align="left">Connect with me:</h3>
