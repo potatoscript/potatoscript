@@ -101,11 +101,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>              </td>
            <td><a href="https://github.com/potatoscript/html/wiki" target="_blank">HTML</a></td>
          </tr> 
-      </table>  
-    </td>
-    <td style="vertical-align:top">
-      <table>
-        <tr>
+         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JavaSwing/wiki" target="_blank">Java Swing</a></td>
          </tr>
@@ -113,6 +109,10 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JavaScript/wiki" target="_blank">JavaScript</a></td>
          </tr>
+      </table>  
+    </td>
+    <td style="vertical-align:top">
+      <table>
          <tr>
            <td><img src="https://www.wizcase.com/wp-content/uploads/2022/07/jmeter-logo.png" alt="JMeter" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JMeter/wiki" target="_blank">JMeter</a></td>
@@ -159,7 +159,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><a href="https://github.com/potatoscript/server/wiki" target="_blank">Server</a></td>
          </tr> 
          <tr>
-           <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/2048px-Former_Ubuntu_logo.svg.png" alt="ubuntu" width="20" height="20"/>              </td>
+           <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/2048px-Former_Ubuntu_logo.svg.png" alt="ubuntu" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/ubuntu/wiki" target="_blank">Ubuntu</a></td>
          </tr>
         <tr>
@@ -185,8 +185,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
       </table>
     </td>
   </tr>
-</table>  
-
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
