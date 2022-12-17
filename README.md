@@ -71,6 +71,10 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><a href="https://github.com/potatoscript/asp.net.core.mvc/wiki" target="_blank">C# ASP.NET Core MVC</a>
           <a href="https://youtu.be/l6kjuRGdE9g" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
          </tr>  
+          <tr>
+           <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/asp.net.5/wiki" target="_blank">C# ASP.NET 5</a></td>
+         </tr>  
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/asp.net.webform/wiki" target="_blank">C# ASP.NET WebForm</a></td>
@@ -105,14 +109,14 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JavaSwing/wiki" target="_blank">Java Swing</a></td>
          </tr>
-         <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/JavaScript/wiki" target="_blank">JavaScript</a></td>
-         </tr>
       </table>  
     </td>
     <td style="vertical-align:top">
       <table>
+        <tr>
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/JavaScript/wiki" target="_blank">JavaScript</a></td>
+         </tr>
          <tr>
            <td><img src="https://www.wizcase.com/wp-content/uploads/2022/07/jmeter-logo.png" alt="JMeter" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JMeter/wiki" target="_blank">JMeter</a></td>
