@@ -111,7 +111,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
          </tr>
          <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/JavaWeb/wiki" target="_blank">Java Web</a></td>
+           <td><a href="https://github.com/potatoscript/JavaWeb" target="_blank">Java Web</a></td>
          </tr>
       </table>  
     </td>
