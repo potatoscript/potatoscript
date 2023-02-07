@@ -191,8 +191,8 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><a href="https://github.com/potatoscript/xml/wiki" target="_blank">XML</a></td>
         </tr> 
         <tr>
-           <td><img src="https://img.icons8.com/ios7/600/000000/kanji.png" alt="kanji" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/kanji/wiki" target="_blank">Kanji</a></td>
+           <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" alt="Japanese" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/Japanese" target="_blank">My Japanese</a></td>
         </tr> 
       </table>
     </td>
