@@ -199,9 +199,9 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
   </tr>
 </table>
 
-- 🌱 Windows Servcer:
+- 🌱 Windows Server:
   <img src="https://github.com/potatoscript/MyDocuments/blob/main/windows_server.png?raw=true" />
-- 🌱 Azure Cloud Servcer:
+- 🌱 Azure Cloud Server:
   <img src="https://github.com/potatoscript/MyDocuments/blob/main/azure_server.png?raw=true" />
 
 <h3 align="left">Connect with me:</h3>
