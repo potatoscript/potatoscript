@@ -114,7 +114,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><a href="https://github.com/potatoscript/JavaWeb" target="_blank">Java Web</a></td>
          </tr>
          <tr>
-           <td><img src="https://e7.pngegg.com/pngimages/251/949/png-clipart-computer-icons-c-others-text-logo.png" alt="C++" width="50" height="40"/></td>
+           <td><img src="https://e7.pngegg.com/pngimages/251/949/png-clipart-computer-icons-c-others-text-logo.png" alt="C++" width="30" height="20"/></td>
            <td><a href="https://github.com/potatoscript/C++" target="_blank">C++</a></td>
          </tr>
       </table>  
@@ -199,7 +199,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><a href="https://github.com/potatoscript/Japanese" target="_blank">My Japanese</a></td>
         </tr> 
         <tr>
-           <td><img src="https://cdn1.iconfinder.com/data/icons/photography-3/80/Photography-11-512.png" alt="CMOS" width="50" height="40"/></td>
+           <td><img src="https://cdn1.iconfinder.com/data/icons/photography-3/80/Photography-11-512.png" alt="CMOS" width="30" height="20"/></td>
            <td><a href="https://github.com/potatoscript/CMOS" target="_blank">CMOS Image Sensor</a></td>
          </tr>
       </table>
