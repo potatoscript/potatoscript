@@ -198,10 +198,12 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" alt="Japanese" width="40" height="40"/></td>
            <td><a href="https://github.com/potatoscript/Japanese" target="_blank">My Japanese</a></td>
         </tr> 
+        <!--
         <tr>
            <td><img src="https://cdn1.iconfinder.com/data/icons/photography-3/80/Photography-11-512.png" alt="CMOS" width="30" height="25"/></td>
            <td><a href="https://github.com/potatoscript/cmos" target="_blank">CMOS Image Sensor</a></td>
          </tr>
+         -->
       </table>
     </td>
   </tr>
