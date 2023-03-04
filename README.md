@@ -17,12 +17,14 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
 
 - 🔭 I’m currently working a project that using Vue.js as FrontEnd and Asp.net core API as backEnd
 
-- 🌱 I’m currently learning **Azure DevOps**
+- 🌱 I’m currently learning **C++**
 
+<!--
         - SaaS Platform
         - end-to-end DevOps toolchain for developing and deploying software
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHismpoeOqCS_Z26tTK70sQgdCK6fjZL3emA&usqp=CAU" />
+-->
 
 <h3 align="left">Contributing 寄稿:</h3>
 <table style="border:0px">
