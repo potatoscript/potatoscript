@@ -156,18 +156,22 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/python/wiki" target="_blank">Python</a></td>
         </tr> 
+        <!--
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/react/wiki" target="_blank">React.js</a></td>
         </tr> 
+        -->
         <tr>
            <td><img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="html5" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/ruby/wiki" target="_blank">Ruby on Rails</a></td>
          </tr>
+         <!--
          <tr>
            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="Rust" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/rust/wiki" target="_blank">Rust</a></td>
          </tr>
+         -->
         <tr>
            <td><img src="https://static.vecteezy.com/system/resources/previews/000/337/165/non_2x/vector-server-icon.jpg" alt="server" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/server/wiki" target="_blank">Server</a></td>
@@ -192,10 +196,12 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://play-lh.googleusercontent.com/CxmsLct-ExxgB8p-qyV5897AtVUL9UqKS1IQJ8AF88AMzXSQ1RMIVwtvuQfnwyxE3bIh" alt="ubuntu" width="20" height="20"/>              </td>
            <td><a href="https://github.com/potatoscript/websocket/wiki" target="_blank">WebSocket</a></td>
          </tr> 
+         <!--
          <tr>
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/xml.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/xml/wiki" target="_blank">XML</a></td>
         </tr> 
+        -->
         <tr>
            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" alt="Japanese" width="40" height="40"/></td>
            <td><a href="https://github.com/potatoscript/Japanese" target="_blank">My Japanese</a></td>
