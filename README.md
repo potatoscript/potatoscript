@@ -104,6 +104,14 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
           <a href="https://youtu.be/LK8B8m4IBSg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
          </tr>
          <tr>
+           <td><img src="https://e7.pngegg.com/pngimages/251/949/png-clipart-computer-icons-c-others-text-logo.png" alt="C++" width="30" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/cpp" target="_blank">C++</a></td>
+         </tr>
+      </table>  
+    </td>
+    <td style="vertical-align:top">
+      <table>
+        <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/html/wiki" target="_blank">HTML</a></td>
          </tr> 
@@ -115,14 +123,6 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JavaWeb" target="_blank">Java Web</a></td>
          </tr>
-         <tr>
-           <td><img src="https://e7.pngegg.com/pngimages/251/949/png-clipart-computer-icons-c-others-text-logo.png" alt="C++" width="30" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/cpp" target="_blank">C++</a></td>
-         </tr>
-      </table>  
-    </td>
-    <td style="vertical-align:top">
-      <table>
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JavaScript/wiki" target="_blank">JavaScript</a></td>
