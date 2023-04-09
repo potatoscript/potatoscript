@@ -154,7 +154,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
         </tr> 
         <tr>
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/python/wiki" target="_blank">Python</a></td>
+           <td><a href="https://github.com/potatoscript/python" target="_blank">Python</a></td>
         </tr> 
         <!--
         <tr>
