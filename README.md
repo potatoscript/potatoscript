@@ -196,12 +196,12 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
            <td><img src="https://play-lh.googleusercontent.com/CxmsLct-ExxgB8p-qyV5897AtVUL9UqKS1IQJ8AF88AMzXSQ1RMIVwtvuQfnwyxE3bIh" alt="ubuntu" width="20" height="20"/>              </td>
            <td><a href="https://github.com/potatoscript/websocket/wiki" target="_blank">WebSocket</a></td>
          </tr> 
-         <!--
+         
          <tr>
            <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/xml.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/xml/wiki" target="_blank">XML</a></td>
         </tr> 
-        -->
+        
         <tr>
            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" alt="Japanese" width="40" height="40"/></td>
            <td><a href="https://github.com/potatoscript/Japanese" target="_blank">My Japanese</a></td>
