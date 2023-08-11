@@ -2,7 +2,7 @@
 
 #### I am a Web and Android App Developer
 
-I graduated from engineering background (Graduated from Coventry University United Kingdom in 1999 and awarded Bachelor of Engineering with Honours First Class in Mechanical Engineering),
+I graduated from engineering background (Graduated from Coventry University United Kingdom and awarded Bachelor of Engineering with Honours First Class in Mechanical Engineering),
 but my final year's undergraduate project had led me to the world of programming.
 (Developing software to find the natural frequency and damping factor from the input data
 of some vibration measurement device using <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="20" height="20"/> MathLab programming language.)
