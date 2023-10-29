@@ -1,13 +1,25 @@
-### Hi there <img src="https://github.com/potatoscript/homepage/blob/master/docs/image/wave.gif" width="30px">, my name is LIM
+**Greetings**<img src="https://github.com/potatoscript/homepage/blob/master/docs/image/wave.gif" width="30px">,
 
-#### I am a Web and Android App Developer
+I am LIM, a skilled Web and Android App Developer. My academic journey began in Mechanical Engineering at Coventry University, United Kingdom, culminating in the prestigious award of a Bachelor of Engineering with Honors, First Class. However, during the final year of my undergraduate program, a transformative project exposed me to the realm of programming.
 
-I graduated from engineering background (Graduated from Coventry University United Kingdom and awarded Bachelor of Engineering with Honours First Class in Mechanical Engineering),
-but my final year's undergraduate project had led me to the world of programming.
-(Developing software to find the natural frequency and damping factor from the input data
-of some vibration measurement device using <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="20" height="20"/> MathLab programming language.)
-It combined the fields of engineering and programming.
-The result was good and encouraged me continue to develop my programming skill until now.
+This project focused on the development of software for analyzing natural frequency and damping factors using input data from vibration measurement devices, employing the MathLab programming language. This unique fusion of engineering and programming catalyzed my enduring passion for software development.
+
+My programming skills encompass an array of languages and technologies, including JAVA, C#, JS, HTML, CSS, PHP, SQL, and GIT. Notable achievements include the creation of a JavaScript Library called [Potato.js](https://github.com/potatoscript/potato.js/wiki) and the development of an Android App: [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner).
+
+Currently, I am immersed in a project that employs Vue.js for the frontend and Asp.net Core API for the backend. This dynamic endeavor reflects my dedication to staying at the forefront of web development.
+
+Moreover, my quest for knowledge persists, as I am currently mastering **Python** to enhance my skill set. In addition to my technical skills, I have experience with Windows Server and Azure Cloud Server.
+
+Feel free to explore my contributions on various platforms and connect with me through my social media channels:
+
+- [Facebook](https://fb.com/bruce.lim.507)
+- [YouTube](https://www.youtube.com/channel/UCSvc1mfBihTH_qfkAs7Iy4g)
+
+Thank you for visiting, and if you have any questions or collaboration opportunities, do not hesitate to get in touch.
+
+Best regards,
+
+LIM
 
 Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
 
@@ -17,7 +29,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
 
 - 🔭 I’m currently working a project that using Vue.js as FrontEnd and Asp.net core API as backEnd
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python**
 
 <!--
         - SaaS Platform
