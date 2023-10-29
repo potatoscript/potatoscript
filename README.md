@@ -51,6 +51,35 @@ BRUCE LIM
 
 BRUCE LIM
 </details>
+<details>
+  <summary>点击以查看中文版本</summary>
+
+  **问候**<img src="https://github.com/potatoscript/homepage/blob/master/docs/image/wave.gif" width="30px">
+
+  我是林，一名经验丰富的Web和Android应用程序开发人员。我的学术之旅始于英国考文垂大学的机械工程专业，最终荣获一等荣誉学士工程学位。然而，在本科最后一年，一个变革性的项目让我接触了编程领域。
+
+这个项目侧重于使用振动测量设备的输入数据，利用MathLab编程语言分析自然频率和阻尼因子，是一个开发软件的焦点。工程学和编程的独特融合催化了我对软件开发的持久热情。
+
+我的编程技能涵盖了多种语言和技术，包括JAVA、C＃、JS、HTML、CSS、PHP、SQL和GIT。显著的成就包括创建名为[Potato.js](https://github.com/potatoscript/potato.js/wiki)的JavaScript库，以及开发Android应用程序：[QR扫描整理器](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)。
+
+几年前，我深度参与了一个项目，该项目利用了Vue.js作为前端和Asp.net Core API作为后端。这一充满活力的倡议强调了我保持在Web开发前沿的承诺。我还具有管理Windows服务器和Azure云服务器环境的经验。
+
+此外，我对知识的追求仍在继续，我目前正在提高我的Python专业知识，以进一步增强我的技能。除了我的技术能力之外，我目前的专业参与是与一家半导体公司合作，负责将每日大约100万块晶圆数据记录处理成数据库。在我的角色中，我负责使用Python管理和转换这些CSV数据。
+
+为了保持代码版本控制并促进与团队成员的协作，我们使用了Git。我们利用Bitbucket进行代码共享和协作，Microsoft SharePoint工具在团队内部共享项目文档方面也发挥了关键作用。
+
+请随时探索我在各个平台上的贡献，并通过我的社交媒体渠道与我联系：
+
+- [Facebook](https://fb.com/bruce.lim.507)
+- [YouTube](https://www.youtube.com/channel/UCSvc1mfBihTH_qfkAs7Iy4g)
+
+感谢您的访问，如果您有任何问题或合作机会，请随时与我联系。
+
+致以诚挚的问候，
+
+林　建成
+</details>
+
 
 
 Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
