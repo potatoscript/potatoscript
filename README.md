@@ -6,9 +6,11 @@ This project focused on the development of software for analyzing natural freque
 
 My programming skills encompass an array of languages and technologies, including JAVA, C#, JS, HTML, CSS, PHP, SQL, and GIT. Notable achievements include the creation of a JavaScript Library called [Potato.js](https://github.com/potatoscript/potato.js/wiki) and the development of an Android App: [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner).
 
-Currently, I am immersed in a project that employs Vue.js for the frontend and Asp.net Core API for the backend. This dynamic endeavor reflects my dedication to staying at the forefront of web development.
+A few years ago, I was deeply involved in a project that leveraged Vue.js for the frontend and Asp.net Core API for the backend. This dynamic initiative underscores my commitment to remaining at the forefront of web development. I also possess experience in managing Windows Server and Azure Cloud Server environments.
 
-Moreover, my quest for knowledge persists, as I am currently mastering **Python** to enhance my skill set. In addition to my technical skills, I have experience with Windows Server and Azure Cloud Server.
+Furthermore, my pursuit of knowledge is ongoing, as I am presently advancing my expertise in Python to further augment my skill set. Beyond my technical proficiencies, my current professional engagement is with a semiconductor company that handles the processing of approximately 1,000,000 wafer data records in CSV format on a daily basis. In my role, I am responsible for the management and transformation of this CSV data into a database using Python.
+
+To maintain code version control and facilitate collaborative work with my team members, Git was employed. We utilized Bitbucket for code sharing and collaboration, and Microsoft SharePoint tools were also instrumental in sharing project documentation internally within the team.
 
 Feel free to explore my contributions on various platforms and connect with me through my social media channels:
 
