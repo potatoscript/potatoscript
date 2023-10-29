@@ -21,15 +21,15 @@ Thank you for visiting, and if you have any questions or collaboration opportuni
 
 Best regards,
 
-LIM
+BRUCE LIM
 
-Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / GIT
+Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
 
 - 📗 I had created a JavaScript Library named [Potato.js](https://github.com/potatoscript/potato.js/wiki)
 
 - 📗 I had created an Android App : [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
 
-- 🔭 I’m currently working a project that using Vue.js as FrontEnd and Asp.net core API as backEnd
+- 🔭 I have been working on a project that uses Vue.js as the frontend and Asp.net Core API as the backend.
 
 - 🌱 I’m currently learning **Python**
 
