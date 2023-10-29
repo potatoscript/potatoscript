@@ -1,4 +1,4 @@
-**Greetings**<img src="https://github.com/potatoscript/homepage/blob/master/docs/image/wave.gif" width="30px">,
+**Greetings**<img src="https://github.com/potatoscript/homepage/blob/master/docs/image/wave.gif" width="30px">
 
 I am LIM, a skilled Web and Android App Developer. My academic journey began in Mechanical Engineering at Coventry University, United Kingdom, culminating in the prestigious award of a Bachelor of Engineering with Honors, First Class. However, during the final year of my undergraduate program, a transformative project exposed me to the realm of programming.
 
@@ -22,6 +22,36 @@ Thank you for visiting, and if you have any questions or collaboration opportuni
 Best regards,
 
 BRUCE LIM
+
+<details>
+  <summary>クリックして日本語バージョンを表示</summary>
+  
+  **ご挨拶**<img src="https://github.com/potatoscript/homepage/blob/master/docs/image/wave.gif" width="30px">
+
+  私はLIM、熟練したWebおよびAndroidアプリケーション開発者です。私の学術的な旅は、イギリスのコヴェントリー大学での機械工学から始まり、優等評議会、ファーストクラスでの工学学士号の受賞で終わりました。しかし、私の学士課程の最後の年に、変革的なプロジェクトが私にプログラミングの世界を紹介しました。
+
+このプロジェクトは、振動計測装置からの入力データを使用して自然振動数と減衰因子を分析するソフトウェアの開発に焦点を当て、MathLabプログラミング言語を使用していました。この工学とプログラミングのユニークな融合が、ソフトウェア開発への私の情熱を触媒化しました。
+
+私のプログラミングスキルには、JAVA、C＃、JS、HTML、CSS、PHP、SQL、およびGITなど、さまざまな言語とテクノロジーが含まれています。顕著な実績には、[Potato.js](https://github.com/potatoscript/potato.js/wiki)というJavaScriptライブラリの作成、およびAndroidアプリ「[QRスキャナーオーガナイザー](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)」の開発が含まれます。
+
+数年前、私はVue.jsをフロントエンドに、Asp.net Core APIをバックエンドに利用したプロジェクトに深く関与しました。このダイナミックな取り組みは、Web開発の最前線にとどまるという私のコミットメントを裏付けています。また、Windows ServerとAzure Cloud Server環境の管理経験もあります。
+
+さらに、私の知識の追求は継続中で、現在、Pythonの専門知識を高めています。私の技術的な能力に加え、現在のプロの取り組みは、1日に約100万枚のウエハーデータレコードの処理を担当している半導体会社とのものです。私の役割は、このCSVデータをPythonを使用してデータベースに管理および変換することです。
+
+チームメンバーとの共同作業をサポートし、コードのバージョン管理を維持するために、私たちはGitを使用しました。コード共有と協力のためにBitbucketを活用し、プロジェクト文書をチーム内で共有するのにMicrosoft SharePointツールも重要な役割を果たしました。
+
+さまざまなプラットフォームでの私の貢献を探索し、私のソーシャルメディアチャンネルを介して私と連絡を取ることをお勧めします：
+
+- [Facebook](https://fb.com/bruce.lim.507)
+- [YouTube](https://www.youtube.com/channel/UCSvc1mfBihTH_qfkAs7Iy4g)
+
+訪問いただき、質問やコラボレーションの機会がある場合は、お気軽にご連絡いただければ幸いです。
+
+よろしくお願い申し上げます。
+
+BRUCE LIM
+</details>
+
 
 Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
 
