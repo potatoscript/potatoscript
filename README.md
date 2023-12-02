@@ -84,13 +84,13 @@ BRUCE LIM
 
 Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
 
-- 📗 I had created a JavaScript Library named [Potato.js](https://github.com/potatoscript/potato.js/wiki)
+- 📗 I had created a JavaScript Library and Python Library
 
 - 📗 I had created an Android App : [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
 
 - 🔭 I have been working on a project that uses Vue.js as the frontend and Asp.net Core API as the backend.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Django Python RestFramework**
 
 <!--
         - SaaS Platform
