@@ -100,6 +100,34 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
 -->
 
 <h3 align="left">Contributing 寄稿:</h3>
+
+<table style="border:0px;">
+  <tr>
+     <th style="text-align:left;padding-left:10px;">My Projects:</th>
+  </tr>
+  <tr>
+    <td style="vertical-align:top;" width="520">
+      <table>
+        <tr>
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/></td>
+           <td width="420"><a href="https://github.com/potatoscript/potato.js/wiki" target="_blank">My JavaScript Library: potatoscript</a></td>
+         </tr> 
+         <tr>
+           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
+           <td width="420"><a href="https://github.com/potatoscript/system-vuejs" target="_blank">My VueJS + ASP.NET CORE: Web Application</a></td>
+         </tr> 
+         <tr>
+           <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
+           <td width="420"><a href="https://github.com/potatoscript/codepython123" target="_blank">My Python Library: codepython123</a></td>
+         </tr> 
+         <tr>
+         </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
 <table style="border:0px">
   <tr>
      <th colspan=6 style="text-align:left;padding-left:10px">My Cheat Sheet:</th>
