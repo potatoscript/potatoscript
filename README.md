@@ -110,15 +110,19 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
       <table>
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/potato.js/wiki" target="_blank">My JavaScript Library: potatoscript</a></td>
+           <td width="420"><a href="https://github.com/potatoscript/potato.js/wiki" target="_blank">potatoscript (JavaScript Library)</a><a href="https://youtu.be/XrzNLFtjt8M" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
          </tr> 
          <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/system-vuejs" target="_blank">My VueJS + ASP.NET CORE: Web Application</a></td>
+           <td width="420"><a href="https://github.com/potatoscript/system-vuejs" target="_blank">Web Application (VueJS + ASP.NET CORE)</a></td>
          </tr> 
          <tr>
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/codepython123" target="_blank">My Python Library: codepython123</a></td>
+           <td width="420"><a href="https://github.com/potatoscript/codepython123" target="_blank">codepython123 (Python Library)</a></td>
+         </tr> 
+        <tr>
+           <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
+           <td width="420"><a href="https://github.com/potatoscript/Django_RestFramework" target="_blank">RestFramework (Python Django)</a></td>
          </tr> 
          <tr>
          </tr>
@@ -247,11 +251,6 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/sql/wiki" target="_blank">PostgreSQL</a></td>
-        </tr> 
-        <tr>
-           <td><img src="https://github.com/potatoscript/homepage/raw/master/docs/image/P.png" alt="postgresql" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/potato.js/wiki" target="_blank">Potato.js</a>
-             <a href="https://youtu.be/XrzNLFtjt8M" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
         </tr> 
         <tr>
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
