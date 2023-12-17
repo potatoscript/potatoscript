@@ -122,7 +122,11 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
          </tr> 
         <tr>
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/Django_RestFramework" target="_blank">RestFramework (Python Django)</a></td>
+           <td width="420"><a href="https://github.com/potatoscript/office-email" target="_blank">Python GUI</a></td>
+         </tr>
+        <tr>
+           <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
+           <td width="420"><a href="https://github.com/potatoscript/Django-CRM" target="_blank">Python Django</a></td>
          </tr> 
          <tr>
          </tr>
