@@ -4,7 +4,7 @@ I am LIM, a skilled Web and Android App Developer. My academic journey began in 
 
 This project focused on the development of software for analyzing natural frequency and damping factors using input data from vibration measurement devices, employing the MathLab programming language. This unique fusion of engineering and programming catalyzed my enduring passion for software development.
 
-My programming skills encompass an array of languages and technologies, including JAVA, C#, JS, HTML, CSS, PHP, SQL, and GIT. Notable achievements include the creation of a JavaScript Library called [Potato.js](https://github.com/potatoscript/potato.js/wiki) and the development of an Android App: [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner).
+My programming skills encompass an array of languages and technologies, including JAVA, C#, Python, JS, HTML, CSS, PHP, SQL, and GIT. Notable achievements include the creation of a JavaScript Library called [Potato.js](https://github.com/potatoscript/potato.js/wiki) and the development of an Android App: [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner).
 
 A few years ago, I was deeply involved in a project that leveraged Vue.js for the frontend and Asp.net Core API for the backend. This dynamic initiative underscores my commitment to remaining at the forefront of web development. I also possess experience in managing Windows Server and Azure Cloud Server environments.
 
