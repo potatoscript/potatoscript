@@ -148,7 +148,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
            <td><a href="https://github.com/potatoscript/android/wiki" target="_blank">Android Java</a></td>
          </tr> 
          <tr>
-           <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/Apache.png" alt="apache" width="30" height="30"/></td>
+           <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_logo_icon_168630.png" alt="apache" width="30" height="30"/></td>
            <td><a href="https://github.com/potatoscript/Apache" target="_blank">Apache Setup</a>
               <a href="https://youtu.be/Eyj2oz_Uqms" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
          </tr>
@@ -157,7 +157,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
            <td><a href="https://github.com/potatoscript/Azure/wiki" target="_blank">Azure</a></td>
         </tr> 
         <tr>
-           <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/batchscript.jpg" alt="apache" width="30" height="30"/></td>
+           <td><img src="https://cdn-icons-png.flaticon.com/512/5261/5261229.png" alt="apache" width="30" height="30"/></td>
            <td><a href="https://github.com/potatoscript/batchscript/wiki" target="_blank">Batch Script</a></td>
         </tr> 
         <tr>
@@ -165,7 +165,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
            <td><a href="https://github.com/potatoscript/big-o-notation/wiki" target="_blank">Big-O Notation</a></td>
          </tr>  
         <tr>
-           <td><img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="boostrap" width="20" height="20"/></td>
+           <td><img src="https://cdn.icon-icons.com/icons2/3245/PNG/512/bootstrap_icon_198286.png" alt="boostrap" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/bootstrap/wiki" target="_blank">Bootstrap</a></td>
         </tr> 
         <tr>
@@ -204,7 +204,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
            <td><a href="https://github.com/potatoscript/css/wiki" target="_blank">CSS</a></td>
          </tr> 
         <tr>
-           <td><img src="https://camo.githubusercontent.com/c8df4d3ef5efa270d3cf5ca04b70d29423ae8f91a12e61f44eed78d442f1c596/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f646f776e6c6f61642f73746f726167652f76312f622f6d61636f732d69636f6e732e61707073706f742e636f6d2f6f2f69636f6e735f617070726f766564253246706e67253246313630353336343933323737385f446f636b65725f416c745f322e706e673f67656e65726174696f6e3d3136303533373936303030373430383026616c743d6d65646961" alt="docker" width="20" height="20"/>              </td>
+           <td><img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" alt="docker" width="20" height="20"/>              </td>
            <td><a href="https://github.com/potatoscript/docker/wiki" target="_blank">Docker</a></td>
          </tr>
          <tr>
@@ -241,7 +241,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
            <td><a href="https://github.com/potatoscript/JMeter/wiki" target="_blank">JMeter</a></td>
         </tr> 
         <tr>
-           <td><img src="https://github.com/potatoscript/homepage/raw/master/docs/image/markdown2.png" alt="postgresql" width="20" height="20"/></td>
+           <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" alt="postgresql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/markdown" target="_blank">Markdown</a></td>
         </tr> 
         <tr>
@@ -285,11 +285,11 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
            <td><a href="https://github.com/potatoscript/ubuntu/wiki" target="_blank">Ubuntu</a></td>
          </tr>
         <tr>
-           <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/vba.png" alt="react" width="20" height="20"/></td>
+           <td><img src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/vba/wiki" target="_blank">VBA</a></td>
         </tr> 
         <tr>
-           <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/vue.png" alt="vue" width="20" height="20"/></td>
+           <td><img src="https://static-00.iconduck.com/assets.00/vue-js-icon-2048x1766-btrgkrhi.png" alt="vue" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/vue/wiki" target="_blank">Vue.js</a></td>
         </tr> 
         <tr>
@@ -301,7 +301,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
            <td><a href="https://github.com/potatoscript/websocket/wiki" target="_blank">WebSocket</a></td>
          </tr> 
          <tr>
-           <td><img src="https://github.com/potatoscript/homepage/blob/master/docs/image/xml.png" alt="react" width="20" height="20"/></td>
+           <td><img src="https://cdn-icons-png.flaticon.com/512/29/29611.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/xml" target="_blank">XML</a></td>
         </tr> 
         <tr>
