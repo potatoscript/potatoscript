@@ -80,13 +80,13 @@ BRUCE LIM
 林　建成
 </details>
 
-
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/Potato_Road_Map.png?raw=true" />
 
 Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
 
 - 📗 I had created a JavaScript Library and Python Library
 
-- 📗 I had created an Android App : [QR Scanner Organizer](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)
+- 📗 I had created an Android App : [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)
 
 - 🔭 I have been working on a project that uses Vue.js as the frontend and Asp.net Core API as the backend.
 
