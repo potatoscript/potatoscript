@@ -116,6 +116,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT / Django Python Re
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td width="420"><a href="https://github.com/potatoscript/system-vuejs" target="_blank">Web Application (VueJS + ASP.NET CORE)</a></td>
          </tr> 
+        <!--
          <tr>
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
            <td width="420"><a href="https://github.com/potatoscript/codepython123" target="_blank">codepython123 (Python Library)</a></td>
@@ -127,7 +128,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT / Django Python Re
         <tr>
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
            <td width="420"><a href="https://github.com/potatoscript/Django-CRM" target="_blank">Python Django</a></td>
-         </tr> 
+         </tr> -->
          <tr>
          </tr>
       </table>
