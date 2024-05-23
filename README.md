@@ -82,7 +82,7 @@ BRUCE LIM
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/Potato_Road_Map.png?raw=true" />
 
-Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
+Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT / Django Python RestFramework
 
 - 📗 I had created a JavaScript Library and Python Library
 
@@ -90,7 +90,7 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT
 
 - 🔭 I have been working on a project that uses Vue.js as the frontend and Asp.net Core API as the backend.
 
-- 🌱 I’m currently learning **Django Python RestFramework**
+- 🌱 I’m currently learning **CICD**
 
 <!--
         - SaaS Platform
