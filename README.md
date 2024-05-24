@@ -4,6 +4,8 @@ I am LIM, a skilled Web and Android App Developer. My academic journey began in 
 
 This project focused on the development of software for analyzing natural frequency and damping factors using input data from vibration measurement devices, employing the MathLab programming language. This unique fusion of engineering and programming catalyzed my enduring passion for software development.
 
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/Potato_Road_Map.png?raw=true" />
+
 My programming skills encompass an array of languages and technologies, including JAVA, C#, Python, JS, HTML, CSS, PHP, SQL, and GIT. Notable achievements include the creation of a JavaScript Library called [Potato.js](https://potatoscript.github.io/homepage/) and the development of an Android App: [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0).
 
 A few years ago, I was deeply involved in a project that leveraged Vue.js for the frontend and Asp.net Core API for the backend. This dynamic initiative underscores my commitment to remaining at the forefront of web development. I also possess experience in managing Windows Server and Azure Cloud Server environments.
@@ -11,11 +13,6 @@ A few years ago, I was deeply involved in a project that leveraged Vue.js for th
 Furthermore, my pursuit of knowledge is ongoing, as I am presently advancing my expertise in Python to further augment my skill set. Beyond my technical proficiencies, my current professional engagement is with a semiconductor company that handles the processing of approximately 1,000,000 wafer data records in CSV format on a daily basis. In my role, I am responsible for the management and transformation of this CSV data into a database using Python.
 
 To maintain code version control and facilitate collaborative work with my team members, Git was employed. We utilized Bitbucket for code sharing and collaboration, and Microsoft SharePoint tools were also instrumental in sharing project documentation internally within the team.
-
-Feel free to explore my contributions on various platforms and connect with me through my social media channels:
-
-- [Facebook](https://fb.com/bruce.lim.507)
-- [YouTube](https://www.youtube.com/channel/UCSvc1mfBihTH_qfkAs7Iy4g)
 
 Thank you for visiting, and if you have any questions or collaboration opportunities, do not hesitate to get in touch.
 
@@ -32,18 +29,13 @@ BRUCE LIM
 
 このプロジェクトは、振動計測装置からの入力データを使用して自然振動数と減衰因子を分析するソフトウェアの開発に焦点を当て、MathLabプログラミング言語を使用していました。この工学とプログラミングのユニークな融合が、ソフトウェア開発への私の情熱を触媒化しました。
 
-私のプログラミングスキルには、JAVA、C＃、JS、HTML、CSS、PHP、SQL、およびGITなど、さまざまな言語とテクノロジーが含まれています。顕著な実績には、[Potato.js](https://github.com/potatoscript/potato.js/wiki)というJavaScriptライブラリの作成、およびAndroidアプリ「[QRスキャナーオーガナイザー](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)」の開発が含まれます。
+私のプログラミングスキルには、JAVA、C＃、JS、HTML、CSS、PHP、SQL、およびGITなど、さまざまな言語とテクノロジーが含まれています。顕著な実績には、[Potato.js](https://github.com/potatoscript/potato.js/wiki)というJavaScriptライブラリの作成、およびAndroidアプリ「[QRスキャナーオーガナイザー](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)」の開発が含まれます。
 
 数年前、私はVue.jsをフロントエンドに、Asp.net Core APIをバックエンドに利用したプロジェクトに深く関与しました。このダイナミックな取り組みは、Web開発の最前線にとどまるという私のコミットメントを裏付けています。また、Windows ServerとAzure Cloud Server環境の管理経験もあります。
 
 さらに、私の知識の追求は継続中で、現在、Pythonの専門知識を高めています。私の技術的な能力に加え、現在のプロの取り組みは、1日に約100万枚のウエハーデータレコードの処理を担当している半導体会社とのものです。私の役割は、このCSVデータをPythonを使用してデータベースに管理および変換することです。
 
 チームメンバーとの共同作業をサポートし、コードのバージョン管理を維持するために、私たちはGitを使用しました。コード共有と協力のためにBitbucketを活用し、プロジェクト文書をチーム内で共有するのにMicrosoft SharePointツールも重要な役割を果たしました。
-
-さまざまなプラットフォームでの私の貢献を探索し、私のソーシャルメディアチャンネルを介して私と連絡を取ることをお勧めします：
-
-- [Facebook](https://fb.com/bruce.lim.507)
-- [YouTube](https://www.youtube.com/channel/UCSvc1mfBihTH_qfkAs7Iy4g)
 
 訪問いただき、質問やコラボレーションの機会がある場合は、お気軽にご連絡いただければ幸いです。
 
@@ -60,18 +52,13 @@ BRUCE LIM
 
 这个项目侧重于使用振动测量设备的输入数据，利用MathLab编程语言分析自然频率和阻尼因子，是一个开发软件的焦点。工程学和编程的独特融合催化了我对软件开发的持久热情。
 
-我的编程技能涵盖了多种语言和技术，包括JAVA、C＃、JS、HTML、CSS、PHP、SQL和GIT。显著的成就包括创建名为[Potato.js](https://github.com/potatoscript/potato.js/wiki)的JavaScript库，以及开发Android应用程序：[QR扫描整理器](https://play.google.com/store/apps/details?id=com.potato.barcodescanner)。
+我的编程技能涵盖了多种语言和技术，包括JAVA、C＃、JS、HTML、CSS、PHP、SQL和GIT。显著的成就包括创建名为[Potato.js](https://github.com/potatoscript/potato.js/wiki)的JavaScript库，以及开发Android应用程序：[QR扫描整理器](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)。
 
 几年前，我深度参与了一个项目，该项目利用了Vue.js作为前端和Asp.net Core API作为后端。这一充满活力的倡议强调了我保持在Web开发前沿的承诺。我还具有管理Windows服务器和Azure云服务器环境的经验。
 
 此外，我对知识的追求仍在继续，我目前正在提高我的Python专业知识，以进一步增强我的技能。除了我的技术能力之外，我目前的专业参与是与一家半导体公司合作，负责将每日大约100万块晶圆数据记录处理成数据库。在我的角色中，我负责使用Python管理和转换这些CSV数据。
 
 为了保持代码版本控制并促进与团队成员的协作，我们使用了Git。我们利用Bitbucket进行代码共享和协作，Microsoft SharePoint工具在团队内部共享项目文档方面也发挥了关键作用。
-
-请随时探索我在各个平台上的贡献，并通过我的社交媒体渠道与我联系：
-
-- [Facebook](https://fb.com/bruce.lim.507)
-- [YouTube](https://www.youtube.com/channel/UCSvc1mfBihTH_qfkAs7Iy4g)
 
 感谢您的访问，如果您有任何问题或合作机会，请随时与我联系。
 
@@ -80,15 +67,15 @@ BRUCE LIM
 林　建成
 </details>
 
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/Potato_Road_Map.png?raw=true" />
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" />
 
-Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT / Django Python RestFramework
+
 
 - 📗 I had created a JavaScript Library and Python Library
 
 - 📗 I had created an Android App : [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)
 
-- 🔭 I have been working on a project that uses Vue.js as the frontend and Asp.net Core API as the backend.
+- 🔭 I have been working on a project that uses Vue.js as the frontend and Asp.net Core API as the backend.: [Web Application](https://potatoscript.github.io/system-vuejs)
 
 - 🌱 I’m currently learning **CICD**
 
@@ -328,14 +315,28 @@ Skills: JAVA/ C# / JS / HTML / CSS / PHP / SQL / PYTHON / GIT / Django Python Re
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/bruce.lim.507" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bruce lim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCSvc1mfBihTH_qfkAs7Iy4g" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@PotatoTutorial" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="30" width="40" /></a>
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=potatoscript.potatoscript)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  </a> <a href="https://pypi.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
+<h3 align="left">My Skills:</h3>
+<p> MATLAB / HTML / CSS / JavaScript / React / Vue / C# /  PYTHON / JAVA  / ANDROID  / MYSQL  / PostgreSQL / GIT </p>
+<p align="left"> 
+  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a>  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a>  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a>  </a>
+  <a href="https://react.dev/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="react.js" width="40" height="40"/></a><a>  </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="vue.js" width="40" height="40"/></a><a>  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a><a>  </a>
+  <a href="https://pypi.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/></a><a>  </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a>  </a>
+  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a><a>  </a> 
+  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><a>  </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a>  </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><a>  </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/git.png" alt="git" width="40" height="40"/></a><a>  </a>
 </p>
 
 [![](https://github-readme-stats.vercel.app/api?username=potatoscript)](https://github.com/potatoscript)
