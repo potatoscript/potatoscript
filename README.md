@@ -90,11 +90,15 @@ BRUCE LIM
      <th style="text-align:left;padding-left:10px;">My Projects:</th>
   </tr>
   <tr>
-    <td style="vertical-align:top;" width="520">
+    <td style="vertical-align:top;" width="720">
       <table>
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" alt="JavaScript" width="30" height="30"/></td>
            <td width="420"><a href="https://potatoscript.github.io/homepage/" target="_blank">potatoscript (JavaScript Library)</a><a href="https://youtu.be/XrzNLFtjt8M" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
+         </tr> 
+        <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/asp.net.core.png" alt="ASP.NET CORE" width="30" height="30"/></td>
+           <td width="420"><a href="https://youtu.be/l6kjuRGdE9g?si=ZvcerMOhOQRrBZMA" target="_blank">Task Management System (Web App with ASP.NET CORE)</a><a href="https://youtu.be/l6kjuRGdE9g?si=ZvcerMOhOQRrBZMA" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr> 
          <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="csharp" width="20" height="20"/>
@@ -102,11 +106,11 @@ BRUCE LIM
            <td width="420"><a href="https://github.com/potatoscript/system-vuejs" target="_blank">Web Application (VueJS + ASP.NET CORE)</a></td>
          </tr> 
         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="JAVA" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="JAVA" width="30" height="30"/></td>
            <td width="420"><a href="https://youtu.be/u2oacxGapfE?si=6-qOBZ1pPkioI34A" target="_blank">Java Swing Tutorial</a><a href="https://youtu.be/u2oacxGapfE?si=6-qOBZ1pPkioI34A" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr>
          <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="30" height="30"/></td>
            <td width="420"><a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank">QR Scanner Organizer (Android App)</a><a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr> 
         <!--
