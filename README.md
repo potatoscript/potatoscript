@@ -69,17 +69,14 @@ BRUCE LIM
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" />
 
-
-
-- 📗 I had created a JavaScript Library and Python Library
+<!--
+ - 📗 I had created a JavaScript Library and Python Library
 
 - 📗 I had created an Android App : [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)
 
 - 🔭 I have been working on a project that uses Vue.js as the frontend and Asp.net Core API as the backend.: [Web Application](https://potatoscript.github.io/system-vuejs)
 
 - 🌱 I’m currently learning **CICD**
-
-<!--
         - SaaS Platform
         - end-to-end DevOps toolchain for developing and deploying software
 
@@ -96,13 +93,24 @@ BRUCE LIM
     <td style="vertical-align:top;" width="520">
       <table>
         <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/potato.js/wiki" target="_blank">potatoscript (JavaScript Library)</a><a href="https://youtu.be/XrzNLFtjt8M" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" alt="JavaScript" width="30" height="30"/></td>
+           <td width="420"><a href="https://potatoscript.github.io/homepage/" target="_blank">potatoscript (JavaScript Library)</a><a href="https://youtu.be/XrzNLFtjt8M" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr> 
          <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="csharp" width="20" height="20"/>
+               <img src="https://github.com/potatoscript/MyDocuments/blob/main/c-sharp.png" alt="csharp" width="20" height="20"/></td>
            <td width="420"><a href="https://github.com/potatoscript/system-vuejs" target="_blank">Web Application (VueJS + ASP.NET CORE)</a></td>
          </tr> 
+        <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="JAVA" width="20" height="20"/></td>
+           <td width="420"><a href="https://youtu.be/u2oacxGapfE?si=6-qOBZ1pPkioI34A" target="_blank">Java Swing Tutorial</a><a href="https://youtu.be/u2oacxGapfE?si=6-qOBZ1pPkioI34A" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
+         </tr>
+         <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="20" height="20"/></td>
+           <td width="420"><a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank">QR Scanner Organizer (Android App)</a><a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
+         </tr> 
+
+      
         <!--
          <tr>
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
@@ -321,16 +329,18 @@ BRUCE LIM
 ![](https://visitor-badge.laobi.icu/badge?page_id=potatoscript.potatoscript)
 
 <h3 align="left">My Skills:</h3>
-<p> MATLAB / HTML / CSS / JavaScript / React / Vue / C# /  PYTHON / JAVA  / ANDROID  / MYSQL  / PostgreSQL / GIT </p>
+<p> MATLAB / HTML / CSS3 / Bootstrap / JavaScript / TypeScript / React / Vue / C# /  PYTHON / JAVA  / ANDROID / PHP / MYSQL  / PostgreSQL / GIT </p>
 <p align="left"> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a>  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a>  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a>  </a>
+  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/matlab.png" alt="matlab" width="40" height="40"/>  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/html5.png" alt="html5" width="40" height="40"/></a><a>  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/css3.png" alt="css3" width="40" height="40"/></a><a>  </a>
+  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/bootstrap.png" alt="Bootstrap" width="40" height="40"/></a><a>  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/javascript.png" alt="javascript" width="40" height="40"/> </a><a>  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/typescript.png" alt="Typescript" width="40" height="40"/> </a><a>  </a>
   <a href="https://react.dev/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="react.js" width="40" height="40"/></a><a>  </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="vue.js" width="40" height="40"/></a><a>  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a><a>  </a>
-  <a href="https://pypi.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/></a><a>  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/c-sharp.png" alt="csharp" width="40" height="40"/></a><a>  </a>
+  <a href="https://pypi.org/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.png" alt="python" width="40" height="40"/></a><a>  </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a>  </a>
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a><a>  </a> 
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><a>  </a> 
