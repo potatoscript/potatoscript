@@ -103,7 +103,7 @@ BRUCE LIM
          <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="csharp" width="20" height="20"/>
                <img src="https://github.com/potatoscript/MyDocuments/blob/main/c-sharp.png" alt="csharp" width="20" height="20"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/system-vuejs" target="_blank">Web Application (VueJS + ASP.NET CORE)</a></td>
+           <td width="420"><a href="https://github.com/potatoscript/system-vuejs" target="_blank">Web Application (VueJS + ASP.NET CORE)</a><a href="https://potatoscript.github.io/system-vuejs" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="JAVA" width="30" height="30"/></td>
@@ -345,7 +345,7 @@ BRUCE LIM
   <a href="https://pypi.org/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.png" alt="python" width="40" height="40"/></a><a>  </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="java" width="40" height="40"/></a><a>  </a>
   <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="android" width="40" height="40"/></a><a>  </a> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><a>  </a> 
+  <a href="https://www.php.net" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/php.png" alt="php" width="40" height="40"/></a><a>  </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a>  </a> 
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><a>  </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/git.png" alt="git" width="40" height="40"/></a><a>  </a>
