@@ -12,7 +12,11 @@ A few years ago, I was deeply involved in a project that leveraged Vue.js for th
 
 Furthermore, my pursuit of knowledge is ongoing, as I am presently advancing my expertise in Python to further augment my skill set. Beyond my technical proficiencies, my current professional engagement is with a semiconductor company that handles the processing of approximately 1,000,000 wafer data records in CSV format on a daily basis. In my role, I am responsible for the management and transformation of this CSV data into a database using Python.
 
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" />
+
 To maintain code version control and facilitate collaborative work with my team members, Git was employed. We utilized GitLab for code sharing and collaboration, and Microsoft SharePoint tools were also instrumental in sharing project documentation internally within the team.
+
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/system_dev_process.png?raw=true" />
 
 Thank you for visiting, and if you have any questions or collaboration opportunities, do not hesitate to get in touch.
 
@@ -66,8 +70,6 @@ BRUCE LIM
 
 林　建成
 </details>
-
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" />
 
 <!--
  - 📗 I had created a JavaScript Library and Python Library
