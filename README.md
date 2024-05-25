@@ -18,6 +18,8 @@ To maintain code version control and facilitate collaborative work with my team 
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/system_dev_process.png?raw=true" />
 
+- 🌱 I’m currently learning **CICD** to automate the above process in the future
+
 Thank you for visiting, and if you have any questions or collaboration opportunities, do not hesitate to get in touch.
 
 Best regards,
