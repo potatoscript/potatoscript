@@ -35,7 +35,7 @@ BRUCE LIM
 
 このプロジェクトは、振動計測装置からの入力データを使用して共有振動数と減衰因子を分析するソフトウェアの開発に焦点を当て、MathLabプログラミング言語を使用していました。この工学とプログラミングのユニークな融合が、ソフトウェア開発への私の情熱を触媒化しました。
 
-私のプログラミングスキルには、JAVA、C＃、JS、HTML、CSS、PHP、SQL、およびGITなど、さまざまな言語とテクノロジーが含まれています。顕著な実績には、[Potato.js](https://github.com/potatoscript/potato.js/wiki)というJavaScriptライブラリの作成、およびAndroidアプリ「[QRスキャナーオーガナイザー](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)」の開発が含まれます。
+私のプログラミングスキルには、JAVA、C＃、JS、HTML、CSS、PHP、SQL、およびGITなど、さまざまな言語とテクノロジーが含まれています。顕著な実績には、[Potato.js](https://potatoscript.github.io/homepage/)というJavaScriptライブラリの作成、およびAndroidアプリ「[QRスキャナーオーガナイザー](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)」の開発が含まれます。
 
 数年前、私はVue.jsをフロントエンドに、Asp.net Core APIをバックエンドに利用したプロジェクトに深く関与しました。このダイナミックな取り組みは、Web開発の最前線にとどまるという私のコミットメントを裏付けています。また、Windows ServerとAzure Cloud Server環境の管理経験もあります。
 
@@ -58,7 +58,7 @@ BRUCE LIM
 
 这个项目侧重于使用振动测量设备的输入数据，利用MathLab编程语言分析共有振動数和阻尼因子，是一个开发软件的焦点。工程学和编程的独特融合催化了我对软件开发的持久热情。
 
-我的编程技能涵盖了多种语言和技术，包括JAVA、C＃、JS、HTML、CSS、PHP、SQL和GIT。显著的成就包括创建名为[Potato.js](https://github.com/potatoscript/potato.js/wiki)的JavaScript库，以及开发Android应用程序：[QR扫描整理器](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)。
+我的编程技能涵盖了多种语言和技术，包括JAVA、C＃、JS、HTML、CSS、PHP、SQL和GIT。显著的成就包括创建名为[Potato.js](https://potatoscript.github.io/homepage/)的JavaScript库，以及开发Android应用程序：[QR扫描整理器](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)。
 
 几年前，我深度参与了一个项目，该项目利用了Vue.js作为前端和Asp.net Core API作为后端。这一充满活力的倡议强调了我保持在Web开发前沿的承诺。我还具有管理Windows服务器和Azure云服务器环境的经验。
 
@@ -98,7 +98,7 @@ BRUCE LIM
       <table>
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" alt="potatoscript" width="30" height="30"/></td>
-           <td width="480"><a href="https://github.com/potatoscript/potato.js" target="_blank">potatoscript (JavaScript Library)</a>　<a href="https://potatoscript.github.io/homepage/" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="potatoscript" height="30" width="30" /></a></td>
+           <td width="480"><a href="https://github.com/potatoscript/potatojs" target="_blank">potatoscript (JavaScript Library)</a>　<a href="https://potatoscript.github.io/potatojs/" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/asp.net.core.png" alt="ASP.NET CORE" width="30" height="30"/></td>
@@ -306,11 +306,11 @@ BRUCE LIM
            <td><img src="https://cdn-icons-png.flaticon.com/512/29/29611.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/xml" target="_blank">XML</a></td>
         </tr> 
+        <!--
         <tr>
            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" alt="Japanese" width="40" height="40"/></td>
            <td><a href="https://github.com/potatoscript/Japanese" target="_blank">My Japanese</a></td>
         </tr> 
-        <!--
         <tr>
            <td><img src="https://cdn1.iconfinder.com/data/icons/photography-3/80/Photography-11-512.png" alt="CMOS" width="30" height="25"/></td>
            <td><a href="https://github.com/potatoscript/cmos" target="_blank">CMOS Image Sensor</a></td>
