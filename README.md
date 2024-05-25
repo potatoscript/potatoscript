@@ -1,6 +1,6 @@
 **Greetings**<img src="https://github.com/potatoscript/homepage/blob/master/docs/image/wave.gif" width="30px">
 
-I am LIM, a skilled Web and Android App Developer. My academic journey began in Mechanical Engineering at Coventry University, United Kingdom, culminating in the prestigious award of a Bachelor of Engineering with Honors, First Class. However, during the final year of my undergraduate program, a transformative project exposed me to the realm of programming.
+I am LIM, a skilled Web and Desktop App Developer. My academic journey began in Mechanical Engineering at Coventry University, United Kingdom, culminating in the prestigious award of a Bachelor of Engineering with Honors, First Class. However, during the final year of my undergraduate program, a transformative project exposed me to the realm of programming.
 
 This project focused on the development of software for analyzing natural frequency and damping factors using input data from vibration measurement devices, employing the MathLab programming language. This unique fusion of engineering and programming catalyzed my enduring passion for software development.
 
