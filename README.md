@@ -1,62 +1,45 @@
-**Greetings**<img src="https://github.com/potatoscript/homepage/blob/master/docs/image/wave.gif" width="30px">
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" width="30px"> **～Hi**
 
 I am LIM, a skilled Web and Desktop App Developer. My academic journey began in Mechanical Engineering at Coventry University, United Kingdom, culminating in the prestigious award of a Bachelor of Engineering with Honors, First Class. However, during the final year of my undergraduate program, a transformative project exposed me to the realm of programming.
+<p>リムと申します。ウェブおよびデスクトップアプリ開発のスキルを持つ開発者です。私の学術的な旅は、イギリスのコヴェントリー大学で機械工学を専攻することから始まり、最終的に一級優等学位の工学士を取得しました。しかし、学部課程の最終年に行ったプロジェクトがきっかけで、プログラミングの世界に魅了されました。</p>
 
 This project focused on the development of software for analyzing natural frequency and damping factors using input data from vibration measurement devices, employing the MathLab programming language. This unique fusion of engineering and programming catalyzed my enduring passion for software development.
+<p>このプロジェクトは、振動計測デバイスからの入力データを使用して、固有振動数と減衰係数を解析するソフトウェアの開発に焦点を当てており、MathLabプログラミング言語を使用しました。この工学とプログラミングのユニークな融合が、ソフトウェア開発に対する私の持続的な情熱を引き起こしました。</p>
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/Potato_Road_Map.png?raw=true" />
 
 My programming skills encompass an array of languages and technologies, including JAVA, C#, Python, JS, HTML, CSS, PHP, SQL, and GIT. Notable achievements include the creation of a JavaScript Library called [Potato.js](https://potatoscript.github.io/homepage/) and the development of an Android App: [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0).
+<p>私のプログラミングスキルには、JAVA、C＃、Python、JS、HTML、CSS、PHP、SQL、およびGITなど、さまざまな言語や技術が含まれています。顕著な業績には、JavaScriptライブラリ[Potato.js](https://potatoscript.github.io/homepage/)の作成とAndroidアプリ[QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)の開発があります。</p>
 
 A few years ago, I was deeply involved in a project that leveraged Vue.js for the frontend and Asp.net Core API for the backend. This dynamic initiative underscores my commitment to remaining at the forefront of web development. I also possess experience in managing Windows Server and Azure Cloud Server environments.
+<p>数年前、私はVue.jsをフロントエンドに、Asp.net Core APIをバックエンドに活用したプロジェクトに深く関与していました。このダイナミックな取り組みは、私がウェブ開発の最先端にとどまることへのコミットメントを示しています。また、Windows ServerやAzure Cloud Server環境の管理経験も持っています。</p>
 
 Furthermore, my pursuit of knowledge is ongoing, as I am presently advancing my expertise in Python to further augment my skill set. Beyond my technical proficiencies, my current professional engagement is with a semiconductor company that handles the processing of approximately 1,000,000 wafer data records in CSV format on a daily basis. In my role, I am responsible for the management and transformation of this CSV data into a database using Python.
+<p>さらに、知識の追求は継続中であり、現在はPythonの専門知識を向上させ、スキルセットをさらに強化しています。技術的な能力に加えて、私の現在の職務は、1日に約100万枚のウェハーデータレコードをCSV形式で処理する半導体企業との関わりです。私の役割は、このCSVデータをPythonを使用してデータベースに管理および変換することです。</p>
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" />
 
 To maintain code version control and facilitate collaborative work with my team members, Git was employed. We utilized GitLab for code sharing and collaboration, and Microsoft SharePoint tools were also instrumental in sharing project documentation internally within the team.
+<p>コードのバージョン管理を維持し、チームメンバーとの共同作業を容易にするために、Gitを利用しました。コードの共有と協力のために、GitLabを使用し、Microsoft SharePointツールもチーム内でのプロジェクト文書の共有に重要な役割を果たしました。</p>
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/system_dev_process.png?raw=true" />
 
-- 🌱 I’m currently learning **CICD** to automate the above process in the future
-
 I am proficient in using **pip** and **npm** for package management and have successfully developed and published 
 the Python library **potatopython.py** to **PyPI** and the JavaScript library **potato.js** to **npm**.
+<p>私は、パッケージ管理のために **pip** と **npm** を熟達しており、Pythonライブラリ **potatopython.py** を **PyPI** に、JavaScriptライブラリ **potato.js** を **npm** に成功裏に開発して公開しました。</p>
+
+- 🌱 I’m currently learning **CICD** to automate the above process in the future
+<p>- 🌱 現在は、上記のプロセスを自動化するために **CI/CD** を学んでいます。</p>
 
 Thank you for visiting, and if you have any questions or collaboration opportunities, do not hesitate to get in touch.
+<p>閲覧していただき、ありがとうございます。何か質問やコラボレーションの機会がありましたら、お気軽にお問い合わせください。</p>
 
 Best regards,
 
 BRUCE LIM
 
 <details>
-  <summary>クリックして日本語バージョンを表示</summary>
-  
-  **ご挨拶**<img src="https://github.com/potatoscript/homepage/blob/master/docs/image/wave.gif" width="30px">
-
-  私はLIM、熟練したWebおよびAndroidアプリケーション開発者です。私の学術的な旅は、イギリスのコヴェントリー大学での機械工学から始まり、優等評議会、ファーストクラスでの工学学士号の受賞で終わりました。しかし、私の学士課程の最後の年に、変革的なプロジェクトが私にプログラミングの世界を紹介しました。
-
-このプロジェクトは、振動計測装置からの入力データを使用して共有振動数と減衰因子を分析するソフトウェアの開発に焦点を当て、MathLabプログラミング言語を使用していました。この工学とプログラミングのユニークな融合が、ソフトウェア開発への私の情熱を触媒化しました。
-
-私のプログラミングスキルには、JAVA、C＃、JS、HTML、CSS、PHP、SQL、およびGITなど、さまざまな言語とテクノロジーが含まれています。顕著な実績には、[Potato.js](https://potatoscript.github.io/homepage/)というJavaScriptライブラリの作成、およびAndroidアプリ「[QRスキャナーオーガナイザー](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)」の開発が含まれます。
-
-数年前、私はVue.jsをフロントエンドに、Asp.net Core APIをバックエンドに利用したプロジェクトに深く関与しました。このダイナミックな取り組みは、Web開発の最前線にとどまるという私のコミットメントを裏付けています。また、Windows ServerとAzure Cloud Server環境の管理経験もあります。
-
-さらに、私の知識の追求は継続中で、現在、Pythonの専門知識を高めています。私の技術的な能力に加え、現在のプロの取り組みは、1日に約100万枚のウエハーデータレコードの処理を担当している半導体会社とのものです。私の役割は、このCSVデータをPythonを使用してデータベースに管理および変換することです。
-
-チームメンバーとの共同作業をサポートし、コードのバージョン管理を維持するために、私たちはGitを使用しました。コード共有と協力のためにGitLabを活用し、プロジェクト文書をチーム内で共有するのにMicrosoft SharePointツールも重要な役割を果たしました。
-
-訪問いただき、質問やコラボレーションの機会がある場合は、お気軽にご連絡いただければ幸いです。
-
-よろしくお願い申し上げます。
-
-BRUCE LIM
-</details>
-<details>
   <summary>点击以查看中文版本</summary>
-
-  **问候**<img src="https://github.com/potatoscript/homepage/blob/master/docs/image/wave.gif" width="30px">
-
   我是林，一名经验丰富的Web和Android应用程序开发人员。我的学术之旅始于英国考文垂大学的机械工程专业，最终荣获一等荣誉学士工程学位。然而，在本科最后一年，一个变革性的项目让我接触了编程领域。
 
 这个项目侧重于使用振动测量设备的输入数据，利用MathLab编程语言分析共有振動数和阻尼因子，是一个开发软件的焦点。工程学和编程的独特融合催化了我对软件开发的持久热情。
