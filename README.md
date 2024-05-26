@@ -31,6 +31,7 @@ the Python library **potatopython.py** to **PyPI** and the JavaScript library **
 
 - 🌱 I’m currently learning **CICD** to automate the above process in the future
 - 🌱 現在は、上記のプロセスを自動化するために **CI/CD** を学んでいます。
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD.png?raw=true" />
 
 Thank you for visiting, and if you have any questions or collaboration opportunities, do not hesitate to get in touch.
 <p>閲覧していただき、ありがとうございます。何か質問やコラボレーションの機会がありましたら、お気軽にお問い合わせください。</p>
