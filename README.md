@@ -146,7 +146,7 @@ BRUCE LIM
     <td style="vertical-align:top">
       <table>
          <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="android" width="30" height="30"/></td>
            <td><a href="https://github.com/potatoscript/android/wiki" target="_blank">Android Java</a></td>
          </tr> 
          <tr>
@@ -159,7 +159,7 @@ BRUCE LIM
            <td><a href="https://github.com/potatoscript/Azure/wiki" target="_blank">Azure</a></td>
         </tr> 
         <tr>
-           <td><img src="https://cdn-icons-png.flaticon.com/512/5261/5261229.png" alt="apache" width="30" height="30"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/bat.png" alt="apache" width="30" height="30"/></td>
            <td><a href="https://github.com/potatoscript/batchscript/wiki" target="_blank">Batch Script</a></td>
         </tr> 
         <tr>
@@ -206,7 +206,7 @@ BRUCE LIM
            <td><a href="https://github.com/potatoscript/css/wiki" target="_blank">CSS</a></td>
          </tr> 
         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/docker.png" alt="docker" width="20" height="20"/>              </td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/docker.png" alt="docker" width="30" height="30"/>              </td>
            <td><a href="https://github.com/potatoscript/docker/wiki" target="_blank">Docker</a></td>
          </tr>
          <tr>
@@ -251,7 +251,7 @@ BRUCE LIM
            <td><a href="https://github.com/potatoscript/mysql/wiki" target="_blank">MySQL</a></td>
         </tr> 
         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/php.png" alt="php" width="30" height="35"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/php.png" alt="php" width="25" height="25"/></td>
            <td><a href="https://github.com/potatoscript/php/wiki" target="_blank">PHP</a></td>
         </tr> 
         <tr>
@@ -303,11 +303,11 @@ BRUCE LIM
            <td><a href="https://github.com/potatoscript/websocket/wiki" target="_blank">WebSocket</a></td>
          </tr> 
          <tr>
-           <td><img src="https://cdn-icons-png.flaticon.com/512/29/29611.png" alt="react" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/xml.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/xml" target="_blank">XML</a></td>
         </tr> 
         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/npm.png" alt="npm" width="40" height="30"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/npm.png" alt="npm" width="23" height="25"/></td>
            <td><a href="https://github.com/potatoscript/npm" target="_blank">npm</a></td>
         </tr> 
         <!--
