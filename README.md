@@ -9,7 +9,8 @@ This project focused on the development of software for analyzing natural freque
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/Potato_Road_Map.png?raw=true" />
 
 My programming skills encompass an array of languages and technologies, including JAVA, C#, Python, JS, HTML, CSS, PHP, SQL, and GIT. Notable achievements include the creation of a JavaScript Library called [Potato.js](https://potatoscript.github.io/homepage/) and the development of an Android App: [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0).
-<p>私のプログラミングスキルには、JAVA、C＃、Python、JS、HTML、CSS、PHP、SQL、およびGITなど、さまざまな言語や技術が含まれています。顕著な業績には、JavaScriptライブラリ[Potato.js](https://potatoscript.github.io/homepage/)の作成とAndroidアプリ[QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)の開発があります。</p>
+
+私のプログラミングスキルには、JAVA、C＃、Python、JS、HTML、CSS、PHP、SQL、およびGITなど、さまざまな言語や技術が含まれています。顕著な業績には、JavaScriptライブラリ [Potato.js](https://potatoscript.github.io/homepage/) の作成とAndroidアプリ[QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)の開発があります。
 
 A few years ago, I was deeply involved in a project that leveraged Vue.js for the frontend and Asp.net Core API for the backend. This dynamic initiative underscores my commitment to remaining at the forefront of web development. I also possess experience in managing Windows Server and Azure Cloud Server environments.
 <p>数年前、私はVue.jsをフロントエンドに、Asp.net Core APIをバックエンドに活用したプロジェクトに深く関与していました。このダイナミックな取り組みは、私がウェブ開発の最先端にとどまることへのコミットメントを示しています。また、Windows ServerやAzure Cloud Server環境の管理経験も持っています。</p>
@@ -29,7 +30,7 @@ the Python library **potatopython.py** to **PyPI** and the JavaScript library **
 <p>私は、パッケージ管理のために **pip** と **npm** を熟達しており、Pythonライブラリ **potatopython.py** を **PyPI** に、JavaScriptライブラリ **potato.js** を **npm** に成功裏に開発して公開しました。</p>
 
 - 🌱 I’m currently learning **CICD** to automate the above process in the future
-<p>- 🌱 現在は、上記のプロセスを自動化するために **CI/CD** を学んでいます。</p>
+- 🌱 現在は、上記のプロセスを自動化するために **CI/CD** を学んでいます。
 
 Thank you for visiting, and if you have any questions or collaboration opportunities, do not hesitate to get in touch.
 <p>閲覧していただき、ありがとうございます。何か質問やコラボレーションの機会がありましたら、お気軽にお問い合わせください。</p>
