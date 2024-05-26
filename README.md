@@ -81,7 +81,7 @@ BRUCE LIM
      <th style="text-align:left;">My Projects:</th>
   </tr>
   <tr>
-    <td style="vertical-align:top;" width="500">
+    <td style="vertical-align:top;" width="520">
       <table>
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" alt="potatoscript" width="30" height="30"/></td>
