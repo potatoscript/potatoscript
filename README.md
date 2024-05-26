@@ -152,7 +152,7 @@ BRUCE LIM
          <tr>
            <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_logo_icon_168630.png" alt="apache" width="30" height="30"/></td>
            <td><a href="https://github.com/potatoscript/Apache" target="_blank">Apache Setup</a>
-              <a href="https://youtu.be/Eyj2oz_Uqms" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
+              <a href="https://youtu.be/Eyj2oz_Uqms" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr>
          <tr>
            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="20" height="20"/></td>
@@ -171,9 +171,17 @@ BRUCE LIM
            <td><a href="https://github.com/potatoscript/bootstrap/wiki" target="_blank">Bootstrap</a></td>
         </tr> 
         <tr>
+           <td><img src="https://e7.pngegg.com/pngimages/251/949/png-clipart-computer-icons-c-others-text-logo.png" alt="C++" width="30" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/cpp" target="_blank">C++</a></td>
+         </tr>
+        <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/csharp/wiki" target="_blank">C#</a>
-              <a href="https://youtu.be/a60aGfwdWj8" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
+              <a href="https://youtu.be/a60aGfwdWj8" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
+         </tr>
+        <tr>
+           <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/csharp.wpf/wiki" target="_blank">C# WPF</a></td>
          </tr>
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
@@ -182,7 +190,7 @@ BRUCE LIM
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/asp.net.core.mvc/wiki" target="_blank">C# ASP.NET Core MVC</a>
-          <a href="https://youtu.be/l6kjuRGdE9g" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
+          <a href="https://youtu.be/l6kjuRGdE9g" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr>  
           <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
@@ -195,11 +203,7 @@ BRUCE LIM
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/asp.net.api/wiki" target="_blank">C# ASP.NET WEB API</a>
-             <a href="https://youtu.be/YA-O7DKRvUg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
-         </tr> 
-        <tr>
-           <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/csharp.wpf/wiki" target="_blank">C# WPF</a></td>
+             <a href="https://youtu.be/YA-O7DKRvUg" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr>
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/></td>
@@ -212,15 +216,11 @@ BRUCE LIM
          <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/git.png" alt="git" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/git/wiki" target="_blank">GIT</a>
-          <a href="https://youtu.be/LK8B8m4IBSg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
+          <a href="https://youtu.be/LK8B8m4IBSg" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr>
          <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/html5.png" alt="html5" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/html/wiki" target="_blank">HTML</a></td>
-         </tr> 
-         <tr>
-           <td><img src="https://e7.pngegg.com/pngimages/251/949/png-clipart-computer-icons-c-others-text-logo.png" alt="C++" width="30" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/cpp" target="_blank">C++</a></td>
          </tr>
       </table>  
     </td>
