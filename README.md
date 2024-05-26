@@ -309,7 +309,7 @@ BRUCE LIM
            <td><a href="https://github.com/potatoscript/websocket/wiki" target="_blank">WebSocket</a></td>
          </tr> 
          <tr>
-           <td> <ＸＭＬ> </td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/xml.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/xml" target="_blank">XML</a></td>
         </tr>
         <!--
