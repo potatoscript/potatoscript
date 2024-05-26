@@ -127,7 +127,7 @@ BRUCE LIM
            <td width="420"><a href="https://github.com/potatoscript/office-email" target="_blank">Python GUI</a></td>
          </tr>
         <tr>
-           <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/python.png" alt="Python" width="20" height="20"/></td>
            <td width="420"><a href="https://github.com/potatoscript/Django-CRM" target="_blank">Python Django</a></td>
          </tr> -->
          <tr>
@@ -206,16 +206,16 @@ BRUCE LIM
            <td><a href="https://github.com/potatoscript/css/wiki" target="_blank">CSS</a></td>
          </tr> 
         <tr>
-           <td><img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" alt="docker" width="20" height="20"/>              </td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/docker.png" alt="docker" width="20" height="20"/>              </td>
            <td><a href="https://github.com/potatoscript/docker/wiki" target="_blank">Docker</a></td>
          </tr>
          <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/git.png" alt="git" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/git/wiki" target="_blank">GIT</a>
           <a href="https://youtu.be/LK8B8m4IBSg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="20" width="30" /></a></td>
          </tr>
          <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/html5.png" alt="html5" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/html/wiki" target="_blank">HTML</a></td>
          </tr> 
          <tr>
@@ -227,15 +227,15 @@ BRUCE LIM
     <td style="vertical-align:top">
       <table>
          <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java swing" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="java swing" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JavaSwing/wiki" target="_blank">Java Swing</a></td>
          </tr>
          <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="java" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JavaWeb" target="_blank">Java Web</a></td>
          </tr>
         <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/javascript.png" alt="JavaScript" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JavaScript/wiki" target="_blank">JavaScript</a></td>
          </tr>
          <tr>
@@ -251,20 +251,20 @@ BRUCE LIM
            <td><a href="https://github.com/potatoscript/mysql/wiki" target="_blank">MySQL</a></td>
         </tr> 
         <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="35"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/php.png" alt="php" width="30" height="35"/></td>
            <td><a href="https://github.com/potatoscript/php/wiki" target="_blank">PHP</a></td>
         </tr> 
         <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/postgresql.png" alt="postgresql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/sql/wiki" target="_blank">PostgreSQL</a></td>
         </tr> 
         <tr>
-           <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/python.png" alt="Python" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/python" target="_blank">Python</a></td>
         </tr> 
         <!--
         <tr>
-           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/react/wiki" target="_blank">React.js</a></td>
         </tr> 
         -->
@@ -287,11 +287,11 @@ BRUCE LIM
            <td><a href="https://github.com/potatoscript/ubuntu/wiki" target="_blank">Ubuntu</a></td>
          </tr>
         <tr>
-           <td><img src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png" alt="react" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/vba.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/vba/wiki" target="_blank">VBA</a></td>
         </tr> 
         <tr>
-           <td><img src="https://static-00.iconduck.com/assets.00/vue-js-icon-2048x1766-btrgkrhi.png" alt="vue" width="20" height="20"/></td>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="vue" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/vue/wiki" target="_blank">Vue.js</a></td>
         </tr> 
         <tr>
@@ -305,6 +305,10 @@ BRUCE LIM
          <tr>
            <td><img src="https://cdn-icons-png.flaticon.com/512/29/29611.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/xml" target="_blank">XML</a></td>
+        </tr> 
+        <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/npm.png" alt="npm" width="40" height="30"/></td>
+           <td><a href="https://github.com/potatoscript/npm" target="_blank">npm</a></td>
         </tr> 
         <!--
         <tr>
