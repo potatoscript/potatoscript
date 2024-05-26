@@ -20,6 +20,9 @@ To maintain code version control and facilitate collaborative work with my team 
 
 - 🌱 I’m currently learning **CICD** to automate the above process in the future
 
+I am proficient in using **pip** and **npm** for package management and have successfully developed and published 
+the Python library **potatopython.py** to **PyPI** and the JavaScript library **potato.js** to **npm**.
+
 Thank you for visiting, and if you have any questions or collaboration opportunities, do not hesitate to get in touch.
 
 Best regards,
