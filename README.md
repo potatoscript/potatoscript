@@ -20,7 +20,7 @@ During this period, I also developed ideas to automate the production process by
 主な仕事内容は製品図面を作成し、必要な工具や情報（生産仕様など）を準備することでした。私が設計したものが生産ラインで問題なく製造されるようにするためです。<br>
 製品の仕様に合わせて生産ラインの各プロセスが適切に行われるように確認する必要がありました。そのため、最終的には製品情報管理システムを開発し、製品の情報フローを管理することができました。<br>
 
-タイの支社での3年間の配属中、主な仕事は生産性の向上とコストダウン活動でした。この期間中、生産プロセスを自動化するためのアイデアをいくつか考案し、プロセスの設計を行い、ベンダーを見つけて彼らのために工具や機械を製作しました。<br>
+タイの支社での3年間の配属中、主な仕事は生産性の向上とコストダウン活動でした。この期間中、プロセスを設計し、必要な工具や機械を作成するベンダーを見つけることで、生産プロセスを自動化するアイデアも開発しました。<br>
 
 
 My programming skills encompass an array of languages and technologies, including JAVA, C#, Python, JS, HTML, CSS, PHP, SQL, and GIT. Notable achievements include the creation of a JavaScript Library called [Potato.js](https://potatoscript.github.io/homepage/) and the development of an Android App: [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0).
