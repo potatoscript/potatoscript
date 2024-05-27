@@ -26,8 +26,8 @@ To maintain code version control and facilitate collaborative work with my team 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/system_dev_process.png?raw=true" />
 
 I am proficient in using **pip** and **npm** for package management and have successfully developed and published 
-the Python library **potatopython.py** to **PyPI** and the JavaScript library **potato.js** to **npm**.
-<p>私は、パッケージ管理のために **pip** と **npm** を熟達しており、Pythonライブラリ **potatopython.py** を **PyPI** に、JavaScriptライブラリ **potato.js** を **npm** に成功裏に開発して公開しました。</p>
+the Python library **potatoscript.py** to **PyPI** and the JavaScript library **potato.js** to **npm**.
+<p>私は、パッケージ管理のために **pip** と **npm** を熟達しており、Pythonライブラリ **potatoscript.py** を **PyPI** に、JavaScriptライブラリ **potato.js** を **npm** に成功裏に開発して公開しました。</p>
 
 - 🌱 I’m currently learning **CICD** to automate the above process in the future
 - 🌱 現在は、上記のプロセスを自動化するために **CI/CD** を学んでいます。
