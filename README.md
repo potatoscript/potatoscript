@@ -1,7 +1,7 @@
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" width="30px"> **～Hi**
 
-I am LIM, a skilled Web and Desktop App Developer. My academic journey began in Mechanical Engineering at Coventry University, United Kingdom, culminating in the prestigious award of a Bachelor of Engineering with Honors, First Class. However, during the final year of my undergraduate program, a transformative project exposed me to the realm of programming.
-<p>リムと申します。ウェブおよびデスクトップアプリ開発のスキルを持つ開発者です。私の学術的な旅は、イギリスのコヴェントリー大学で機械工学を専攻することから始まり、最終的に一級優等学位の工学士を取得しました。しかし、学部課程の最終年に行ったプロジェクトがきっかけで、プログラミングの世界に魅了されました。</p>
+I am potatoscript, a skilled Web and Desktop App Developer. My academic journey began in Mechanical Engineering at Coventry University, United Kingdom, culminating in the prestigious award of a Bachelor of Engineering with Honors, First Class. However, during the final year of my undergraduate program, a transformative project exposed me to the realm of programming.
+<p>potatoscriptと申します。ウェブおよびデスクトップアプリ開発のスキルを持つ開発者です。私の学術的な旅は、イギリスのコヴェントリー大学で機械工学を専攻することから始まり、最終的に一級優等学位の工学士を取得しました。しかし、学部課程の最終年に行ったプロジェクトがきっかけで、プログラミングの世界に魅了されました。</p>
 
 This project focused on the development of software for analyzing natural frequency and damping factors using input data from vibration measurement devices, employing the MathLab programming language. This unique fusion of engineering and programming catalyzed my enduring passion for software development.
 <p>このプロジェクトは、振動計測デバイスからの入力データを使用して、固有振動数と減衰係数を解析するソフトウェアの開発に焦点を当てており、MathLabプログラミング言語を使用しました。この工学とプログラミングのユニークな融合が、ソフトウェア開発に対する私の持続的な情熱を引き起こしました。</p>
