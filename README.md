@@ -8,7 +8,9 @@ This project focused on the development of software for analyzing natural freque
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/Potato_Road_Map.png?raw=true" />
 
-After graduation, I joined my first company in Singapore as an Oilseal product designer and production engineer. <br>
+<details>
+  <summary>Click to continue（続きを読む）...</summary>
+  After graduation, I joined my first company in Singapore as an Oilseal product designer and production engineer. <br>
 My primary responsibilities included creating product drawings and preparing the necessary tooling and information (such as production specifications) to ensure that the products I designed could be manufactured on the production line without any issues.<br> 
 I had to ensure that every process in the production line matched the specifications of the product I created.<br> 
 Therefore, I eventually developed a production information management system to control the flow of information for the product.<br> 
@@ -55,25 +57,6 @@ Best regards,
 
 BRUCE LIM
 
-<details>
-  <summary>点击以查看中文版本</summary>
-  我是林，一名经验丰富的Web和Android应用程序开发人员。我的学术之旅始于英国考文垂大学的机械工程专业，最终荣获一等荣誉学士工程学位。然而，在本科最后一年，一个变革性的项目让我接触了编程领域。
-
-这个项目侧重于使用振动测量设备的输入数据，利用MathLab编程语言分析共有振動数和阻尼因子，是一个开发软件的焦点。工程学和编程的独特融合催化了我对软件开发的持久热情。
-
-我的编程技能涵盖了多种语言和技术，包括JAVA、C＃、JS、HTML、CSS、PHP、SQL和GIT。显著的成就包括创建名为[Potato.js](https://potatoscript.github.io/homepage/)的JavaScript库，以及开发Android应用程序：[QR扫描整理器](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)。
-
-几年前，我深度参与了一个项目，该项目利用了Vue.js作为前端和Asp.net Core API作为后端。这一充满活力的倡议强调了我保持在Web开发前沿的承诺。我还具有管理Windows服务器和Azure云服务器环境的经验。
-
-此外，我对知识的追求仍在继续，我目前正在提高我的Python专业知识，以进一步增强我的技能。除了我的技术能力之外，我目前的专业参与是与一家半导体公司合作，负责将每日大约100万块晶圆数据记录处理成数据库。在我的角色中，我负责使用Python管理和转换这些CSV数据。
-
-为了保持代码版本控制并促进与团队成员的协作，我们使用了Git。我们利用GitLab进行代码共享和协作，Microsoft SharePoint工具在团队内部共享项目文档方面也发挥了关键作用。
-
-感谢您的访问，如果您有任何问题或合作机会，请随时与我联系。
-
-致以诚挚的问候，
-
-林　建成
 </details>
 
 <!--
@@ -119,6 +102,10 @@ BRUCE LIM
          <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="30" height="30"/></td>
            <td width="420"><a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank">QR Scanner Organizer (Android App)</a>　<a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
+         </tr> 
+        <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="React" width="30" height="30"/></td>
+           <td width="420"><a href="https://github.com/potatoscript/ReactMastery" target="_blank">ReactMastery (React.js App)</a>　</td>
          </tr> 
         <!--
          <tr>
