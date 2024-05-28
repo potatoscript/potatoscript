@@ -10,7 +10,8 @@ This project focused on the development of software for analyzing natural freque
 
 <details>
   <summary>Click to continue（続きを読む）...</summary>
-  After graduation, I joined my first company in Singapore as an Oilseal product designer and production engineer. <br>
+  <br>
+After graduation, I joined my first company in Singapore as an Oilseal product designer and production engineer. <br>
 My primary responsibilities included creating product drawings and preparing the necessary tooling and information (such as production specifications) to ensure that the products I designed could be manufactured on the production line without any issues.<br> 
 I had to ensure that every process in the production line matched the specifications of the product I created.<br> 
 Therefore, I eventually developed a production information management system to control the flow of information for the product.<br> 
