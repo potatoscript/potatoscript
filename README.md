@@ -55,8 +55,7 @@ Thank you for visiting, and if you have any questions or collaboration opportuni
 <p>閲覧していただき、ありがとうございます。何か質問やコラボレーションの機会がありましたら、お気軽にお問い合わせください。</p>
 
 Best regards,
-
-BRUCE LIM
+potatoscript
 
 </details>
 
