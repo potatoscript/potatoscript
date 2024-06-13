@@ -233,11 +233,7 @@ potatoscript
          <tr>
            <td><img src="https://www.wizcase.com/wp-content/uploads/2022/07/jmeter-logo.png" alt="JMeter" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JMeter/wiki" target="_blank">JMeter</a></td>
-        </tr> 
-        <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/npm.png" alt="npm" width="23" height="25"/></td>
-           <td><a href="https://github.com/potatoscript/npm" target="_blank">npm</a></td>
-        </tr> 
+        </tr>
         <tr>
            <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" alt="postgresql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/markdown" target="_blank">Markdown</a></td>
@@ -245,6 +241,14 @@ potatoscript
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/mysql/wiki" target="_blank">MySQL</a></td>
+        </tr> 
+        <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/NLB.png" alt="npm" width="23" height="25"/></td>
+           <td><a href="https://github.com/potatoscript/Network-Load-Balancer" target="_blank">NLB</a></td>
+        </tr> 
+        <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/npm.png" alt="npm" width="23" height="25"/></td>
+           <td><a href="https://github.com/potatoscript/npm" target="_blank">npm</a></td>
         </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/php.png" alt="php" width="25" height="25"/></td>
