@@ -262,6 +262,10 @@ potatoscript
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/python.png" alt="Python" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/python" target="_blank">Python</a></td>
         </tr> 
+        <tr>
+           <td>DJ</td>
+           <td><a href="https://github.com/potatoscript/DjangoMastery" target="_blank">Python Django</a></td>
+        </tr> 
         <!--
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="react" width="20" height="20"/></td>
