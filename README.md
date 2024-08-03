@@ -5,9 +5,9 @@ I am potatoscript, a skilled Web and Desktop App Developer. My academic journey 
 
 This project focused on the development of software for analyzing natural frequency and damping factors using input data from vibration measurement devices, employing the MathLab programming language. This unique fusion of engineering and programming catalyzed my enduring passion for software development.
 <p>このプロジェクトは、振動計測デバイスからの入力データを使用して、固有振動数と減衰係数を解析するソフトウェアの開発に焦点を当てており、MathLabプログラミング言語を使用しました。この工学とプログラミングのユニークな融合が、ソフトウェア開発に対する私の持続的な情熱を引き起こしました。</p>
-
+<!--
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/Potato_Road_Map.png?raw=true" />
-
+-->
 <details>
   <summary>Click to continue（続きを読む）...</summary>
   <br>
@@ -18,7 +18,9 @@ Therefore, I eventually developed a production information management system to 
 
 During my three-year assignment at the Thailand branch company, my main focus was on improving productivity and cost reduction activities.<br> 
 During this period, I also developed ideas to automate the production process by designing processes and finding vendors to create the necessary tooling or machinery.
+<!--
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/Design_Engineer_Jobs.png?raw=true" />
+-->
 卒業後、シンガポールの初めての会社に入社しました。オイルシール製品のデザイナーおよび生産エンジニアとして、<br>
 主な仕事内容は製品図面を作成し、必要な工具や情報（生産仕様など）を準備することでした。私が設計したものが生産ラインで問題なく製造されるようにするためです。<br>
 製品の仕様に合わせて生産ラインの各プロセスが適切に行われるように確認する必要がありました。そのため、最終的には製品情報管理システムを開発し、製品の情報フローを管理することができました。<br>
@@ -35,22 +37,24 @@ A few years ago, I was deeply involved in a project that leveraged Vue.js for th
 
 Furthermore, my pursuit of knowledge is ongoing, as I am presently advancing my expertise in Python to further augment my skill set. Beyond my technical proficiencies, my current professional engagement is with a semiconductor company that handles the processing of approximately 1,000,000 wafer data records in CSV format on a daily basis. In my role, I am responsible for the management and transformation of this CSV data into a database using Python.
 <p>さらに、知識の追求は継続中であり、現在はPythonの専門知識を向上させ、スキルセットをさらに強化しています。技術的な能力に加えて、私の現在の職務は、1日に約100万枚のウェハーデータレコードをCSV形式で処理する半導体企業との関わりです。私の役割は、このCSVデータをPythonを使用してデータベースに管理および変換することです。</p>
-
+<!--
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" />
+-->
 
 To maintain code version control and facilitate collaborative work with my team members, Git was employed. We utilized GitLab for code sharing and collaboration, and Microsoft SharePoint tools were also instrumental in sharing project documentation internally within the team.
 <p>コードのバージョン管理を維持し、チームメンバーとの共同作業を容易にするために、Gitを利用しました。コードの共有と協力のために、GitLabを使用し、Microsoft SharePointツールもチーム内でのプロジェクト文書の共有に重要な役割を果たしました。</p>
-
+<!--
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/system_dev_process.png?raw=true" />
-
+-->
 I am proficient in using **pip** and **npm** for package management and have successfully developed and published 
 the Python library **potatoscript.py** to **PyPI** and the JavaScript library **potato.js** to **npm**.
 <p>私は、パッケージ管理のために **pip** と **npm** を熟達しており、Pythonライブラリ **potatoscript.py** を **PyPI** に、JavaScriptライブラリ **potato.js** を **npm** に成功裏に開発して公開しました。</p>
 
 - 🌱 I’m currently learning **CICD** to automate the above process in the future
 - 🌱 現在は、上記のプロセスを自動化するために **CI/CD** を学んでいます。
+  <!--
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD.png?raw=true" />
-
+-->
 Thank you for visiting, and if you have any questions or collaboration opportunities, do not hesitate to get in touch.
 <p>閲覧していただき、ありがとうございます。何か質問やコラボレーションの機会がありましたら、お気軽にお問い合わせください。</p>
 
