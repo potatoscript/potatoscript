@@ -25,8 +25,6 @@ I was responsible for verifying that every process on the production line adhere
 During my three-year assignment at the Thailand branch, I focused on productivity improvement and cost reduction initiatives.
 I also spearheaded automation efforts by designing processes and collaborating with vendors to create the necessary tooling and machinery. These contributions enhanced operational efficiency and optimized resource utilization.
 
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/Design_Engineer_Jobs.png?raw=true" />
-
 🗾卒業後、シンガポールでオイルシール製品のデザイナーおよび生産エンジニアとしてキャリアをスタートしました。
 主な業務内容は、製品図面の設計や、工具や生産仕様書などの必要な情報を準備し、設計した製品が問題なく生産ラインで製造できるようにすることでした。
 また、製品の仕様に従い、生産ラインの各プロセスが適切に実施されていることを確認する責任がありました。この業務を効率化するために、製品情報の流れを管理するための製品情報管理システムを開発しました。
@@ -34,6 +32,7 @@ I also spearheaded automation efforts by designing processes and collaborating w
 その後、タイの支社での3年間の配属中、主な業務は生産性の向上およびコスト削減活動に取り組むことでした。
 また、生産プロセスを自動化するアイデアを開発し、プロセスを設計するとともに、必要な工具や機械を製作するベンダーとの連携も行いました。これにより、業務効率が向上し、資源の最適化が実現しました。<br>
 
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/Design_Engineer_Jobs.png?raw=true" />
 ---
 
 💻My programming skills encompass a wide range of languages and technologies, including **JAVA**, **C#**, **Python**, **JavaScript**, **HTML**, **CSS**, **PHP**, **SQL**, and **GIT**. Among my notable achievements are the creation of a **JavaScript library**, [Potato.js](https://potatoscript.github.io/homepage/), and the development of an **Android app**, [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0).  
