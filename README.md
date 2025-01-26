@@ -17,7 +17,7 @@ This unique experience ignited a lasting passion for software development, leadi
 -->
 
 <details>
-  <summary>Click to continue（続きを読む）...</summary>
+  <summary>Click to continue（続きを読む）📖➡️...</summary>
 <br>
   
 🎓After graduating, I began my career in Singapore as an Oilseal Product Designer and Production Engineer.
