@@ -18,16 +18,16 @@ This unique experience ignited a lasting passion for software development, leadi
 
 <details>
   <summary>Click to continue（続きを読む）...</summary>
-
+<br>
   
-After graduating, I began my career in Singapore as an Oilseal Product Designer and Production Engineer.
+🎓After graduating, I began my career in Singapore as an Oilseal Product Designer and Production Engineer.
 My primary responsibilities included designing product drawings and preparing the necessary tooling and production information, such as specifications, to ensure seamless manufacturing of the products I designed.
 I was responsible for verifying that every process on the production line adhered to the specifications of my designs. To streamline this, I developed a Production Information Management System to control the flow of product-related information efficiently.
 
 During my three-year assignment at the Thailand branch, I focused on productivity improvement and cost reduction initiatives.
 I also spearheaded automation efforts by designing processes and collaborating with vendors to create the necessary tooling and machinery. These contributions enhanced operational efficiency and optimized resource utilization.
 
-> 卒業後、シンガポールでオイルシール製品のデザイナーおよび生産エンジニアとしてキャリアをスタートしました。
+> 🎓卒業後、シンガポールでオイルシール製品のデザイナーおよび生産エンジニアとしてキャリアをスタートしました。
 > 主な業務内容は、製品図面の設計や、工具や生産仕様書などの必要な情報を準備し、設計した製品が問題なく生産ラインで製造できるようにすることでした。
 > また、製品の仕様に従い、生産ラインの各プロセスが適切に実施されていることを確認する責任がありました。この業務を効率化するために、製品情報の流れを管理するための製品情報管理シス> テムを開発しました。
 > 
@@ -50,7 +50,7 @@ Currently, I am working on an exciting new project to develop a **CAD system** u
 Continuous learning remains a cornerstone of my professional growth, and I am always eager to expand my expertise to take on new challenges and innovate in the field of system and application development.
 
 
-> 私のプログラミングスキルには、**JAVA**、**C＃**、**Python**、**JavaScript**、**HTML**、**CSS**、**PHP**、**SQL**、および**GIT**など、多岐にわたる言語や技術が含まれてい> ます。顕著な業績として、**JavaScriptライブラリ** [Potato.js](https://potatoscript.github.io/homepage/) の作成や、**Androidアプリ** [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0) の開発があります。  
+> 💻私のプログラミングスキルには、**JAVA**、**C＃**、**Python**、**JavaScript**、**HTML**、**CSS**、**PHP**、**SQL**、および**GIT**など、多岐にわたる言語や技術が含まれてい> ます。顕著な業績として、**JavaScriptライブラリ** [Potato.js](https://potatoscript.github.io/homepage/) の作成や、**Androidアプリ** [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0) の開発があります。  
 > 
 > 数年前、**Vue.js**をフロントエンドに、**ASP.NET Core API**をバックエンドに活用したプロジェクトに深く関与しました。この経験は、ウェブ開発の最前線で学び続ける姿勢を示しています。また、**Windows Server**や**Azure Cloud Server**環境の管理経験も有しています。  
 > 
@@ -65,13 +65,13 @@ Continuous learning remains a cornerstone of my professional growth, and I am al
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" />
 
 
-To maintain code version control and facilitate collaborative work with my team members, **Git** was employed. We utilized **GitLab** for code sharing and collaboration, and **Microsoft SharePoint** tools were also instrumental in sharing project documentation internally within the team.  
+⚙️To maintain code version control and facilitate collaborative work with my team members, **Git** was employed. We utilized **GitLab** for code sharing and collaboration, and **Microsoft SharePoint** tools were also instrumental in sharing project documentation internally within the team.  
 
 I am also highly skilled in **web application development**, with strong expertise in both **UI design** and **backend database design**. My ability to create seamless and user-friendly interfaces, coupled with robust backend architecture, ensures that web applications are both intuitive and efficient.  
 
 In terms of package management, I am proficient in using **pip** and **npm**. I have successfully developed and published the **Python library** <!--[**potatoscript.py**](https://pypi.org/project/potatoscript.py/)--> to **PyPI** and the **JavaScript library** <!--[**potato.js**](https://www.npmjs.com/package/potato.js)--> to **npm**, and I also created the NuGet package for my C# project [**Potato.SQLite**](https://www.nuget.org/packages/Potato.SQLite).
 
-> コードのバージョン管理を維持し、チームメンバーとの共同作業を容易にするために、**Git**を利用しました。コードの共有と協力のために、**GitLab**を使用し、**Microsoft SharePoint**ツールもチーム内でのプロジェクト文書の共有に重要な役割を果たしました。  
+> ⚙️コードのバージョン管理を維持し、チームメンバーとの共同作業を容易にするために、**Git**を利用しました。コードの共有と協力のために、**GitLab**を使用し、**Microsoft SharePoint**ツールもチーム内でのプロジェクト文書の共有に重要な役割を果たしました。  
 > 
 > また、私は**ウェブアプリケーション開発**において、**UIデザイン**と**バックエンドデータベース設計**の両方に優れたスキルを持っています。直感的で効率的なインターフェイスの作成> に加え、堅牢なバックエンドアーキテクチャを構築する能力があり、ウェブアプリケーションを使いやすく、かつ効率的にしています。  
 > 
@@ -85,14 +85,14 @@ In terms of package management, I am proficient in using **pip** and **npm**. I 
 - 🌱 I am passionate about automating workflows and deploying continuous integration and delivery pipelines to streamline development.  
 - 🌱 I am also learning **OPEN CASCADE**, a C++ library for creating CAD systems. It has been a challenging but fun journey, starting from scratch and working my way up from zero to hero.  
 
-I am the type of person who loves to challenge myself and learn new things. I constantly strive to improve my skills and push the boundaries of what I can achieve.
+📚I am the type of person who loves to challenge myself and learn new things. I constantly strive to improve my skills and push the boundaries of what I can achieve.
 
 
 > - 🌱 現在は、上記のプロセスを自動化するために **CI/CD** を学んでいます。  
 > - 🌱 ワークフローを自動化し、開発を効率化するために継続的インテグレーションとデリバリーパイプラインを導入することに情熱を持っています。  
 > - 🌱 また、CADシステムを作成するためのC++ライブラリである **OPEN CASCADE** を学んでいます。非常に難しいですが楽しい旅で、ゼロからヒーローまで進んでいる最中です。  
 > 
-> 私は新しいことに挑戦し、学ぶことが大好きな人間です。常に自分のスキルを向上させ、達成できる限界を押し広げることを目指しています。
+> 📚私は新しいことに挑戦し、学ぶことが大好きな人間です。常に自分のスキルを向上させ、達成できる限界を押し広げることを目指しています。
 
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD.png?raw=true" />
