@@ -52,7 +52,7 @@ Continuous learning remains a cornerstone of my professional growth, and I am al
 
 > 私のプログラミングスキルには、**JAVA**、**C＃**、**Python**、**JavaScript**、**HTML**、**CSS**、**PHP**、**SQL**、および**GIT**など、多岐にわたる言語や技術が含まれてい> ます。顕著な業績として、**JavaScriptライブラリ** [Potato.js](https://potatoscript.github.io/homepage/) の作成や、**Androidアプリ** [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0) の開発があります。  
 > 
-> 数年前、**Vue.js**をフロントエンドに、**ASP.NET Core API**をバックエンドに活用したプロジェクトに深く関与しました。この経験は、ウェブ開発の最前線で学び続ける姿勢を示していま> す。また、**Windows Server**や**Azure Cloud Server**環境の管理経験も有しています。  
+> 数年前、**Vue.js**をフロントエンドに、**ASP.NET Core API**をバックエンドに活用したプロジェクトに深く関与しました。この経験は、ウェブ開発の最前線で学び続ける姿勢を示しています。また、**Windows Server**や**Azure Cloud Server**環境の管理経験も有しています。  
 > 
 > 私のキャリアは、**製品設計エンジニア**としてスタートしました。この経験を通じて、工学の基本原理と課題解決能力を習得しました。しかし、業務中にしばしば目にした生産ワークフローの> 非効率性が、私のオートメーションとソフトウェア開発への興味を引き出しました。特に、**製品情報管理システム**やその他の自動化ソリューションを開発したことで、プログラミングがプロ> セスを最適化し、現実世界の問題を解決する可能性を強く実感しました。この情熱が、最終的に私のキャリアを**システム開発エンジニアリング**へと転向させるきっかけとなりました。  
 > 
