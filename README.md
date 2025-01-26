@@ -87,12 +87,16 @@ In terms of package management, I am proficient in using **pip** and **npm**. I 
 
 📚I am the type of person who loves to challenge myself and learn new things. I constantly strive to improve my skills and push the boundaries of what I can achieve.
 
+My next step in my career is to enhance my software management skills, particularly in areas such as upstream processes, requirements definition, and project scheduling, to ensure smooth project execution and successful delivery.
+
 
 > - 🌱 現在は、上記のプロセスを自動化するために **CI/CD** を学んでいます。  
 > - 🌱 ワークフローを自動化し、開発を効率化するために継続的インテグレーションとデリバリーパイプラインを導入することに情熱を持っています。  
 > - 🌱 また、CADシステムを作成するためのC++ライブラリである **OPEN CASCADE** を学んでいます。非常に難しいですが楽しい旅で、ゼロからヒーローまで進んでいる最中です。  
 > 
 > 📚私は新しいことに挑戦し、学ぶことが大好きな人間です。常に自分のスキルを向上させ、達成できる限界を押し広げることを目指しています。
+> 
+> 今後のキャリアの次のステップは、ソフトウェア管理スキルを強化し、特に上流工程を中心に取り組んでいきたいと考えています。
 
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD.png?raw=true" />
