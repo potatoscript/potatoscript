@@ -136,7 +136,7 @@ Best regards,
       <table>
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/asp.net.core.png" alt="ASP.NET CORE" width="30" height="30"/></td>
-           <td width="480"><a href="https://github.com/potatoscript/PotatoSQLite" target="_blank">C# SQLite DBHelper (SQLite Database Library)</a>　<a href="https://github.com/potatoscript/PotatoSQLite" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/github.png" alt="react.js" height="30" width="30" /></a>　</td>
+           <td width="480"><a href="https://www.nuget.org/packages/Potato.SQLite" target="_blank">C# SQLite DBHelper (SQLite Database Library)</a>　<a href="https://github.com/potatoscript/PotatoSQLite" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/github.png" alt="react.js" height="30" width="30" /></a>　</td>
          </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="React" width="30" height="30"/></td>
