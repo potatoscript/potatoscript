@@ -67,11 +67,16 @@ Continuous learning remains a cornerstone of my professional growth, and I am al
 
 ⚙️To maintain code version control and facilitate collaborative work with my team members, **Git** was employed. We utilized **GitLab** for code sharing and collaboration, and **Microsoft SharePoint** tools were also instrumental in sharing project documentation internally within the team.  
 
+Additionally, I made effective use of GitHub's Projects feature to manage our team project within the team members. This feature helped us track tasks, organize workflows, and improve team productivity.
+
 I am also highly skilled in **web application development**, with strong expertise in both **UI design** and **backend database design**. My ability to create seamless and user-friendly interfaces, coupled with robust backend architecture, ensures that web applications are both intuitive and efficient.  
 
 In terms of package management, I am proficient in using **pip** and **npm**. I have successfully developed and published the **Python library** <!--[**potatoscript.py**](https://pypi.org/project/potatoscript.py/)--> to **PyPI** and the **JavaScript library** <!--[**potato.js**](https://www.npmjs.com/package/potato.js)--> to **npm**, and I also created the NuGet package for my C# project [**Potato.SQLite**](https://www.nuget.org/packages/Potato.SQLite).
 
-> ⚙️コードのバージョン管理を維持し、チームメンバーとの共同作業を容易にするために、**Git**を利用しました。コードの共有と協力のために、**GitLab**を使用し、**Microsoft SharePoint**ツールもチーム内でのプロジェクト文書の共有に重要な役割を果たしました。  
+> ⚙️コードのバージョン管理を維持し、チームメンバーとの共同作業を容易にするために、**Git**を利用しました。コードの共有と協力のために、**GitLab**を使用し、**Microsoft SharePoint**ツールもチーム内でのプロジェクト文書の共有に重要な役割を果たしました。
+> 
+>さらに、GitHubのProjects機能を活用し、チームメンバーと共にプロジェクトを管理しました。
+> この機能により、タスクの追跡、ワークフローの整理、チームの生産性向上が可能になりました。
 > 
 > また、私は**ウェブアプリケーション開発**において、**UIデザイン**と**バックエンドデータベース設計**の両方に優れたスキルを持っています。直感的で効率的なインターフェイスの作成> に加え、堅牢なバックエンドアーキテクチャを構築する能力があり、ウェブアプリケーションを使いやすく、かつ効率的にしています。  
 > 
