@@ -232,7 +232,7 @@ Best regards,
          </tr>
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/csharp.wpf/wiki" target="_blank">C# WPF</a></td>
+           <td><a href="https://github.com/potatoscript/csharp.wpf" target="_blank">C# WPF</a></td>
          </tr>
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
