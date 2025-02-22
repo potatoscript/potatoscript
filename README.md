@@ -196,6 +196,10 @@ Best regards,
   <tr>
     <td style="vertical-align:top">
       <table>
+        <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="android" width="30" height="30"/></td>
+           <td><a href="https://github.com/potatoscript/gameboy/wiki" target="_blank">Game Boy</a></td>
+         </tr> 
          <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="android" width="30" height="30"/></td>
            <td><a href="https://github.com/potatoscript/android/wiki" target="_blank">Android Java</a></td>
