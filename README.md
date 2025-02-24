@@ -191,7 +191,7 @@ Best regards,
 
 <table style="border:0px">
   <tr>
-     <th colspan=6 style="text-align:left;padding-left:10px">My Cheat Sheet:</th>
+     <th colspan=6 style="text-align:left;padding-left:10px">MY SKILLS:</th>
   </tr>
   <tr>
     <td style="vertical-align:top">
