@@ -159,15 +159,15 @@ Best regards,
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="csharp" width="20" height="20"/>
                <img src="https://github.com/potatoscript/MyDocuments/blob/main/c-sharp.png" alt="csharp" width="20" height="20"/></td>
            <td width="420"><a href="https://github.com/potatoscript/system-vuejs" target="_blank">Web Application (VueJS + ASP.NET CORE)</a>　<a href="https://potatoscript.github.io/system-vuejs" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="potatoscript" height="30" width="30" /></a></td>
-         </tr> 
-        <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="JAVA" width="30" height="30"/></td>
-           <td width="420"><a href="https://youtu.be/u2oacxGapfE?si=6-qOBZ1pPkioI34A" target="_blank">Java Swing Tutorial</a>　<a href="https://youtu.be/u2oacxGapfE?si=6-qOBZ1pPkioI34A" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr>
          <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="30" height="30"/></td>
            <td width="420"><a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank">QR Scanner Organizer (Android App)</a>　<a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr> 
+        <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/gameboy.png" alt="JAVA" width="30" height="30"/></td>
+           <td width="420"><a href="https://youtu.be/u2oacxGapfE?si=6-qOBZ1pPkioI34A" target="_blank">Game Boy game</a>　<a href="https://github.com/potatoscript/gameboy/wiki" target="_blank"></a></td>
+         </tr>
         <!--
          <tr>
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
@@ -196,10 +196,6 @@ Best regards,
   <tr>
     <td style="vertical-align:top">
       <table>
-        <tr>
-           <td>🎮 </td>
-           <td><a href="https://github.com/potatoscript/gameboy/wiki" target="_blank">Game Boy</a></td>
-         </tr> 
          <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="android" width="30" height="30"/></td>
            <td><a href="https://github.com/potatoscript/android/wiki" target="_blank">Android Java</a></td>
