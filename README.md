@@ -273,6 +273,10 @@ Best regards,
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/html5.png" alt="html5" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/html/wiki" target="_blank">HTML</a></td>
          </tr>
+        <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/javascript.png" alt="JavaScript" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/JavaScript/wiki" target="_blank">JavaScript</a></td>
+         </tr>
       </table>  
     </td>
     <td style="vertical-align:top">
@@ -286,10 +290,6 @@ Best regards,
          <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="java" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JavaWeb" target="_blank">Java Web</a></td>
-         </tr>
-        <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/javascript.png" alt="JavaScript" width="20" height="20"/></td>
-           <td><a href="https://github.com/potatoscript/JavaScript/wiki" target="_blank">JavaScript</a></td>
          </tr>
          <tr>
            <td><img src="https://www.wizcase.com/wp-content/uploads/2022/07/jmeter-logo.png" alt="JMeter" width="20" height="20"/></td>
