@@ -326,13 +326,11 @@ Best regards,
         <tr>
            <td>DJ</td>
            <td><a href="https://github.com/potatoscript/DjangoMastery" target="_blank">Python Django</a></td>
-        </tr> 
-        <!--
+        </tr>
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/react/wiki" target="_blank">React.js</a></td>
         </tr> 
-        -->
         <tr>
            <td><img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="html5" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/ruby/wiki" target="_blank">Ruby on Rails</a></td>
