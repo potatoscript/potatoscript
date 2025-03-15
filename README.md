@@ -230,6 +230,7 @@ Best regards,
            <td><a href="https://github.com/potatoscript/csharp/wiki" target="_blank">C#</a>
               <a href="https://youtu.be/a60aGfwdWj8" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr>
+        <!--
         <tr>
            <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/csharp.wpf" target="_blank">C# WPF</a></td>
@@ -256,6 +257,7 @@ Best regards,
            <td><a href="https://github.com/potatoscript/asp.net.api/wiki" target="_blank">C# ASP.NET WEB API</a>
              <a href="https://youtu.be/YA-O7DKRvUg" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr>
+        -->
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/css/wiki" target="_blank">CSS</a></td>
