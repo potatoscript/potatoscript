@@ -279,11 +279,7 @@ Best regards,
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/javascript.png" alt="JavaScript" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JavaScript/wiki" target="_blank">JavaScript</a></td>
          </tr>
-      </table>  
-    </td>
-    <td style="vertical-align:top">
-      <table>
-         <tr>
+        <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="java swing" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/JavaSwing/wiki" target="_blank">Java Swing</a>
              <a href="https://youtu.be/u2oacxGapfE?si=2F61kkiwhQibqbFN" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a>
@@ -301,6 +297,10 @@ Best regards,
            <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" alt="postgresql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/markdown" target="_blank">Markdown</a></td>
         </tr> 
+      </table>  
+    </td>
+    <td style="vertical-align:top">
+      <table>
         <tr>
            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/mysql/wiki" target="_blank">MySQL</a></td>
