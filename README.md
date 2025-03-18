@@ -71,7 +71,7 @@ Additionally, I made effective use of GitHub's Projects feature to manage our te
 
 I am also highly skilled in **web application development**, with strong expertise in both **UI design** and **backend database design**. My ability to create seamless and user-friendly interfaces, coupled with robust backend architecture, ensures that web applications are both intuitive and efficient.  
 
-In terms of package management, I am proficient in using **pip** and **npm**. I have successfully developed and published the **Python library** <!--[**potatoscript.py**](https://pypi.org/project/potatoscript.py/)--> to **PyPI** and the **JavaScript library** <!--[**potato.js**](https://www.npmjs.com/package/potato.js)--> to **npm**, and I also created the NuGet package for my C# project [**Potato.SQLite**](https://www.nuget.org/packages/Potato.SQLite).
+In terms of package management, I am proficient in using **pip** and **npm**. I have successfully developed and published the **Python library** [**potato.py**](https://pypi.org/project/potatopython) to **PyPI** and the **JavaScript library** <!--[**potato.js**](https://www.npmjs.com/package/potato.js)--> to **npm**, and I also created the NuGet package for my C# project [**Potato.SQLite**](https://www.nuget.org/packages/Potato.SQLite).
 
 > ⚙️コードのバージョン管理を維持し、チームメンバーとの共同作業を容易にするために、**Git**を利用しました。コードの共有と協力のために、**GitLab**を使用し、**Microsoft SharePoint**ツールもチーム内でのプロジェクト文書の共有に重要な役割を果たしました。
 > 
@@ -117,7 +117,7 @@ Best regards,
 </details>
 
 <!--
- - 📗 I had created a JavaScript Library and Python Library
+ - 📗 I had created a JavaScript Library, Python Library and c# SQLite Database Library
 
 - 📗 I had created an Android App : [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)
 
@@ -144,12 +144,16 @@ Best regards,
            <td width="480"><a href="https://www.nuget.org/packages/Potato.SQLite" target="_blank">C# SQLite DBHelper (SQLite Database Library)</a>　<a href="https://github.com/potatoscript/PotatoSQLite" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/github.png" alt="react.js" height="30" width="30" /></a>　</td>
          </tr> 
         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="React" width="30" height="30"/></td>
-           <td width="480"><a href="https://github.com/potatoscript/ReactMastery" target="_blank">ReactMastery (React.js App)</a>　<a href="https://potatoscript.github.io/ReactMastery/" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="react.js" height="30" width="30" /></a></td>
+           <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
+           <td width="420"><a href="https://github.com/potatoscript/potatopython" target="_blank">potato.py (Python Library)</a></td>
          </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" alt="potatoscript" width="30" height="30"/></td>
            <td width="480"><a href="https://github.com/potatoscript/potatojs" target="_blank">potatoscript (JavaScript Library)</a>　<a href="https://potatoscript.github.io/potatojs/" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="potatoscript" height="30" width="30" /></a></td>
+         </tr> 
+         <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="React" width="30" height="30"/></td>
+           <td width="480"><a href="https://github.com/potatoscript/ReactMastery" target="_blank">ReactMastery (React.js App)</a>　<a href="https://potatoscript.github.io/ReactMastery/" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="react.js" height="30" width="30" /></a></td>
          </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/asp.net.core.png" alt="ASP.NET CORE" width="30" height="30"/></td>
@@ -169,10 +173,7 @@ Best regards,
            <td width="420"><a href="https://github.com/potatoscript/gameboy/wiki" target="_blank">Game Boy game</a>　<a href="https://github.com/potatoscript/gameboy/wiki" target="_blank"></a></td>
          </tr>
         <!--
-         <tr>
-           <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/codepython123" target="_blank">codepython123 (Python Library)</a></td>
-         </tr> 
+         
         <tr>
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
            <td width="420"><a href="https://github.com/potatoscript/office-email" target="_blank">Python GUI</a></td>
