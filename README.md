@@ -80,7 +80,7 @@ In terms of package management, I am proficient in using **pip** and **npm**. I 
 > 
 > また、私は**ウェブアプリケーション開発**において、**UIデザイン**と**バックエンドデータベース設計**の両方に優れたスキルを持っています。直感的で効率的なインターフェイスの作成> に加え、堅牢なバックエンドアーキテクチャを構築する能力があり、ウェブアプリケーションを使いやすく、かつ効率的にしています。  
 > 
-> パッケージ管理に関しては、**pip**と**npm**の使用に熟練しており、**Pythonライブラリ** [**potatoscript.py**](https://pypi.org/project/potatopython/) を**PyPI**に、**JavaScriptライブラリ** <!--[**potato.js**](https://www.npmjs.com/package/potato.js)--> を**npm**に成功裏に開発して公開しました。  
+> パッケージ管理に関しては、**pip**と**npm**の使用に熟練しており、**Pythonライブラリ** [**potato.py**](https://pypi.org/project/potatopython/) を**PyPI**に、**JavaScriptライブラリ** <!--[**potato.js**](https://www.npmjs.com/package/potato.js)--> を**npm**に成功裏に開発して公開しました。  
 > また、C#プロジェクト [**Potato.SQLite**](https://www.nuget.org/packages/Potato.SQLite) のためにNuGetパッケージも作成しました。
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/system_dev_process.png?raw=true" />
