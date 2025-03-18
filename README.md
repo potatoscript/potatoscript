@@ -173,7 +173,6 @@ Best regards,
            <td width="420"><a href="https://github.com/potatoscript/gameboy/wiki" target="_blank">Game Boy game</a>　<a href="https://github.com/potatoscript/gameboy/wiki" target="_blank"></a></td>
          </tr>
         <!--
-         
         <tr>
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
            <td width="420"><a href="https://github.com/potatoscript/office-email" target="_blank">Python GUI</a></td>
@@ -181,7 +180,8 @@ Best regards,
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/python.png" alt="Python" width="20" height="20"/></td>
            <td width="420"><a href="https://github.com/potatoscript/Django-CRM" target="_blank">Python Django</a></td>
-         </tr> -->
+         </tr> 
+        -->
          <tr>
          </tr>
       </table>
@@ -189,6 +189,7 @@ Best regards,
   </tr>
 </table>
 
+---
 
 <table style="border:0px">
   <tr>
