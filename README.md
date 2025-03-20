@@ -299,6 +299,10 @@ Best regards,
            <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" alt="postgresql" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/markdown" target="_blank">Markdown</a></td>
         </tr> 
+        <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD_icon2.png" alt="Continuous Integration (CI) and Continuous Delivery (CD) " width="40" height="40"/></td>
+           <td><a href="https://github.com/potatoscript/CICD" target="_blank">CICD</a></td>
+        </tr> 
       </table>  
     </td>
     <td style="vertical-align:top">
@@ -372,6 +376,10 @@ Best regards,
          <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/xml.png" alt="react" width="20" height="20"/></td>
            <td><a href="https://github.com/potatoscript/xml" target="_blank">XML</a></td>
+        </tr>
+        <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/json.png" alt="JSON" width="20" height="20"/></td>
+           <td><a href="https://github.com/potatoscript/json" target="_blank">JSON</a></td>
         </tr>
         <tr>
            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" alt="Japanese" width="40" height="40"/></td>
