@@ -169,6 +169,10 @@ Best regards,
            <td width="420"><a href="https://github.com/potatoscript/XQR-Scanner" target="_blank">QR Scanner Organizer (Android App)</a>　<a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr> 
         <tr>
+           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="30" height="30"/></td>
+           <td width="420"><a href="https://github.com/potatoscript/Ali-Adventure-Android-Game" target="_blank">Adventure Puzzles Game (Android App)</a>　<a href="https://youtu.be/StOMRz5UMhk?si=UyT4rdag-P9pY5EB" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
+         </tr> 
+        <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/gameboy.png" alt="JAVA" width="30" height="30"/></td>
            <td width="420"><a href="https://github.com/potatoscript/gameboy/wiki" target="_blank">Game Boy game</a>　<a href="https://github.com/potatoscript/gameboy/wiki" target="_blank"></a></td>
          </tr>
