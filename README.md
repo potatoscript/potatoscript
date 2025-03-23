@@ -166,7 +166,7 @@ Best regards,
          </tr>
          <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="30" height="30"/></td>
-           <td width="420"><a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank">QR Scanner Organizer (Android App)</a>　<a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
+           <td width="420"><a href="https://github.com/potatoscript/XQR-Scanner" target="_blank">QR Scanner Organizer (Android App)</a>　<a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
          </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/gameboy.png" alt="JAVA" width="30" height="30"/></td>
