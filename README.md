@@ -174,7 +174,7 @@ Best regards,
          </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/gameboy.png" alt="JAVA" width="30" height="30"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/gameboy/wiki" target="_blank">Game Boy game</a>　<a href="https://github.com/potatoscript/gameboy/wiki" target="_blank"></a></td>
+           <td width="420"><a href="https://github.com/potatoscript/gameboy/wiki" target="_blank">Game Boy game (Under Development)</a>　<a href="https://github.com/potatoscript/gameboy/wiki" target="_blank"></a></td>
          </tr>
         <!--
         <tr>
