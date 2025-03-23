@@ -71,7 +71,7 @@ Additionally, I made effective use of GitHub's Projects feature to manage our te
 
 I am also highly skilled in **web application development**, with strong expertise in both **UI design** and **backend database design**. My ability to create seamless and user-friendly interfaces, coupled with robust backend architecture, ensures that web applications are both intuitive and efficient.  
 
-In terms of package management, I am proficient in using **pip** and **npm**. I have successfully developed and published the **Python library** [**potato.py**](https://pypi.org/project/potatopython) to **PyPI** and the **JavaScript library** <!--[**potato.js**](https://www.npmjs.com/package/potato.js)--> to **npm**, and I also created the NuGet package for my C# project [**Potato.SQLite**](https://www.nuget.org/packages/Potato.SQLite).
+In terms of package management, I am proficient in using **pip** and **npm**. I have successfully developed and published the **Python library** [**potato.py**](https://pypi.org/project/potatopy) to **PyPI** and the **JavaScript library** <!--[**potato.js**](https://www.npmjs.com/package/potato.js)--> to **npm**, and I also created the NuGet package for my C# project [**Potato.SQLite**](https://www.nuget.org/packages/Potato.SQLite).
 
 > ⚙️コードのバージョン管理を維持し、チームメンバーとの共同作業を容易にするために、**Git**を利用しました。コードの共有と協力のために、**GitLab**を使用し、**Microsoft SharePoint**ツールもチーム内でのプロジェクト文書の共有に重要な役割を果たしました。
 > 
@@ -80,7 +80,7 @@ In terms of package management, I am proficient in using **pip** and **npm**. I 
 > 
 > また、私は**ウェブアプリケーション開発**において、**UIデザイン**と**バックエンドデータベース設計**の両方に優れたスキルを持っています。直感的で効率的なインターフェイスの作成> に加え、堅牢なバックエンドアーキテクチャを構築する能力があり、ウェブアプリケーションを使いやすく、かつ効率的にしています。  
 > 
-> パッケージ管理に関しては、**pip**と**npm**の使用に熟練しており、**Pythonライブラリ** [**potato.py**](https://pypi.org/project/potatopython/) を**PyPI**に、**JavaScriptライブラリ** <!--[**potato.js**](https://www.npmjs.com/package/potato.js)--> を**npm**に成功裏に開発して公開しました。  
+> パッケージ管理に関しては、**pip**と**npm**の使用に熟練しており、**Pythonライブラリ** [**potato.py**](https://pypi.org/project/potatopy) を**PyPI**に、**JavaScriptライブラリ** <!--[**potato.js**](https://www.npmjs.com/package/potato.js)--> を**npm**に成功裏に開発して公開しました。  
 > また、C#プロジェクト [**Potato.SQLite**](https://www.nuget.org/packages/Potato.SQLite) のためにNuGetパッケージも作成しました。
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/system_dev_process.png?raw=true" />
@@ -145,7 +145,7 @@ Best regards,
          </tr> 
         <tr>
            <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/potatopython" target="_blank">potato.py (Python Library)</a></td>
+           <td width="420"><a href="https://github.com/potatoscript/potatopy" target="_blank">potato.py (Python Library)</a></td>
          </tr> 
         <tr>
            <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" alt="potatoscript" width="30" height="30"/></td>
