@@ -166,7 +166,7 @@ Best regards,
         </tr>
         <tr>
           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/asp.net.core.png" alt="ASP.NET CORE" width="30" height="30"/></td>
-          <td><a href="https://youtu.be/l6kjuRGdE9g?si=ZvcerMOhOQRrBZMA" target="_blank">Task Management System (Web App with ASP.NET CORE)</a> <a href="https://youtu.be/l6kjuRGdE9g?si=ZvcerMOhOQRrBZMA" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="YouTube" height="30" width="30" /></a></td>
+          <td><a href="https://github.com/potatoscript/TaskManagementSystem" target="_blank">Task Management System (Web App with ASP.NET CORE)</a> <a href="https://youtu.be/l6kjuRGdE9g?si=ZvcerMOhOQRrBZMA" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="YouTube" height="30" width="30" /></a></td>
           <td>A task management web application built using ASP.NET CORE.</td>
         </tr>
         <tr>
