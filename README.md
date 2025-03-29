@@ -363,7 +363,9 @@ Best regards,
       <a href="https://github.com/potatoscript/websocket/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/WebSocket.png" width="20" height="20"> WebSocket
       </a><br>
-      <br>
+      <a href="https://github.com/potatoscript/npm" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/npm.png" alt="npm" width="23" height="25"/> npm
+      </a><br>
       <br>
     </td>
   </tr>
