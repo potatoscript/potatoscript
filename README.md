@@ -134,64 +134,67 @@ Best regards,
 
 <table style="border:0px;">
   <tr>
-     <th style="text-align:left;">My Projects:</th>
+    <th style="text-align:left;">My Projects:</th>
   </tr>
   <tr>
-    <td style="vertical-align:top;" width="520">
-      <table>
+    <td style="vertical-align:top;" width="700">
+      <table style="width:100%; border-collapse:collapse;">
         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/asp.net.core.png" alt="ASP.NET CORE" width="30" height="30"/></td>
-           <td width="480"><a href="https://www.nuget.org/packages/Potato.SQLite" target="_blank">C# SQLite DBHelper (SQLite Database Library)</a>　<a href="https://github.com/potatoscript/PotatoSQLite" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/github.png" alt="react.js" height="30" width="30" /></a>　</td>
-         </tr> 
+          <th style="text-align:left; width:40px;">Icon</th>
+          <th style="text-align:left; width:350px;">Project Name</th>
+          <th style="text-align:left;">Remark</th>
+        </tr>
         <tr>
-           <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/potatopy" target="_blank">potato.py (Python Library)</a></td>
-         </tr> 
+          <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/asp.net.core.png" alt="ASP.NET CORE" width="30" height="30"/></td>
+          <td><a href="https://www.nuget.org/packages/Potato.SQLite" target="_blank">C# SQLite DBHelper (SQLite Database Library)</a> <a href="https://github.com/potatoscript/PotatoSQLite" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/github.png" alt="GitHub" height="30" width="30" /></a></td>
+          <td>A powerful C# library to simplify SQLite database operations.</td>
+        </tr>
         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" alt="potatoscript" width="30" height="30"/></td>
-           <td width="480"><a href="https://github.com/potatoscript/potatojs" target="_blank">potatoscript (JavaScript Library)</a>　<a href="https://potatoscript.github.io/potatojs/" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="potatoscript" height="30" width="30" /></a></td>
-         </tr> 
-         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="React" width="30" height="30"/></td>
-           <td width="480"><a href="https://github.com/potatoscript/ReactMastery" target="_blank">ReactMastery (React.js App)</a>　<a href="https://potatoscript.github.io/ReactMastery/" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="react.js" height="30" width="30" /></a></td>
-         </tr> 
+          <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
+          <td><a href="https://github.com/potatoscript/potatopy" target="_blank">potato.py (Python Library)</a></td>
+          <td>A versatile Python utility library for data processing and automation.</td>
+        </tr>
         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/asp.net.core.png" alt="ASP.NET CORE" width="30" height="30"/></td>
-           <td width="480"><a href="https://youtu.be/l6kjuRGdE9g?si=ZvcerMOhOQRrBZMA" target="_blank">Task Management System (Web App with ASP.NET CORE)</a>　<a href="https://youtu.be/l6kjuRGdE9g?si=ZvcerMOhOQRrBZMA" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
-         </tr> 
-         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="csharp" width="20" height="20"/>
-               <img src="https://github.com/potatoscript/MyDocuments/blob/main/c-sharp.png" alt="csharp" width="20" height="20"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/system-vuejs" target="_blank">Web Application (VueJS + ASP.NET CORE)</a>　<a href="https://potatoscript.github.io/system-vuejs" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="potatoscript" height="30" width="30" /></a></td>
-         </tr>
-         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="30" height="30"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/XQR-Scanner" target="_blank">QR Scanner Organizer (Android App)</a>　<a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
-         </tr> 
+          <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" alt="potatoscript" width="30" height="30"/></td>
+          <td><a href="https://github.com/potatoscript/potatojs" target="_blank">potatoscript (JavaScript Library)</a> <a href="https://potatoscript.github.io/potatojs/" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="Demo" height="30" width="30" /></a></td>
+          <td>A JavaScript library for enhancing web applications with ease.</td>
+        </tr>
         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="30" height="30"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/Ali-Adventure-Android-Game" target="_blank">Adventure Puzzles Game (Android App)</a>　<a href="https://youtu.be/StOMRz5UMhk?si=UyT4rdag-P9pY5EB" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a></td>
-         </tr> 
+          <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="React" width="30" height="30"/></td>
+          <td><a href="https://github.com/potatoscript/ReactMastery" target="_blank">ReactMastery (React.js App)</a> <a href="https://potatoscript.github.io/ReactMastery/" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="Demo" height="30" width="30" /></a></td>
+          <td>A comprehensive React.js application demonstrating advanced concepts.</td>
+        </tr>
         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/gameboy.png" alt="JAVA" width="30" height="30"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/gameboy/wiki" target="_blank">Game Boy game (Under Development)</a>　<a href="https://github.com/potatoscript/gameboy/wiki" target="_blank"></a></td>
-         </tr>
-        <!--
+          <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/asp.net.core.png" alt="ASP.NET CORE" width="30" height="30"/></td>
+          <td><a href="https://youtu.be/l6kjuRGdE9g?si=ZvcerMOhOQRrBZMA" target="_blank">Task Management System (Web App with ASP.NET CORE)</a> <a href="https://youtu.be/l6kjuRGdE9g?si=ZvcerMOhOQRrBZMA" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="YouTube" height="30" width="30" /></a></td>
+          <td>A task management web application built using ASP.NET CORE.</td>
+        </tr>
         <tr>
-           <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="20" height="20"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/office-email" target="_blank">Python GUI</a></td>
-         </tr>
+          <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="VueJS" width="20" height="20"/>
+              <img src="https://github.com/potatoscript/MyDocuments/blob/main/c-sharp.png" alt="C#" width="20" height="20"/></td>
+          <td><a href="https://github.com/potatoscript/system-vuejs" target="_blank">Web Application (VueJS + ASP.NET CORE)</a> <a href="https://potatoscript.github.io/system-vuejs" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="Demo" height="30" width="30" /></a></td>
+          <td>A full-stack web application with VueJS frontend and ASP.NET CORE backend.</td>
+        </tr>
         <tr>
-           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/python.png" alt="Python" width="20" height="20"/></td>
-           <td width="420"><a href="https://github.com/potatoscript/Django-CRM" target="_blank">Python Django</a></td>
-         </tr> 
-        -->
-         <tr>
-         </tr>
+          <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="30" height="30"/></td>
+          <td><a href="https://github.com/potatoscript/XQR-Scanner" target="_blank">QR Scanner Organizer (Android App)</a> <a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="YouTube" height="30" width="30" /></a></td>
+          <td>An Android application for scanning and managing QR codes.</td>
+        </tr>
+        <tr>
+          <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="30" height="30"/></td>
+          <td><a href="https://github.com/potatoscript/Ali-Adventure-Android-Game" target="_blank">Adventure Puzzles Game (Android App)</a> <a href="https://youtu.be/StOMRz5UMhk?si=UyT4rdag-P9pY5EB" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="YouTube" height="30" width="30" /></a></td>
+          <td>An exciting Android puzzle game with multiple challenging levels.</td>
+        </tr>
+        <tr>
+          <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/gameboy.png" alt="Game Boy" width="30" height="30"/></td>
+          <td><a href="https://github.com/potatoscript/gameboy/wiki" target="_blank">Game Boy game (Under Development)</a></td>
+          <td>A retro Game Boy game project currently in development.</td>
+        </tr>
       </table>
     </td>
   </tr>
 </table>
+
 
 ---
 
