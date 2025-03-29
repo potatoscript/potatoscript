@@ -245,7 +245,8 @@ Best regards,
       </a><br>
       <a href="https://github.com/potatoscript/JavaSwing/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" width="20" height="20"> Java Swing
-      </a><br>
+      </a> 
+      <a href="https://youtu.be/u2oacxGapfE?si=2F61kkiwhQibqbFN" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /><br>
       <br>
     </td>
     <td>
