@@ -228,7 +228,6 @@ Best regards,
       <a href="https://github.com/potatoscript/JavaWeb" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" width="20" height="20"> Java Web
       </a><br>
-      <br>
     </td>
     <td>
       <a href="https://github.com/potatoscript/csharp/wiki" target="_blank">
@@ -247,6 +246,7 @@ Best regards,
       <a href="https://github.com/potatoscript/JavaSwing/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" width="20" height="20"> Java Swing
       </a><br>
+      <br>
     </td>
     <td>
       <a href="https://github.com/potatoscript/android/wiki" target="_blank">
