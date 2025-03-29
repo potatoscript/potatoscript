@@ -216,6 +216,9 @@ Best regards,
       <a href="https://github.com/potatoscript/css/wiki" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20"> CSS
       </a><br>
+      <a href="https://github.com/potatoscript/bootstrap/wiki" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/Bootstrap.png" width="20" height="20"> Bootstrap
+      </a><br>
       <a href="https://github.com/potatoscript/JavaScript/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/javascript.png" width="20" height="20"> JavaScript
       </a><br>
@@ -285,7 +288,8 @@ Best regards,
       </a><br>
       <a href="https://github.com/potatoscript/git/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/git.png" width="20" height="20"> Git
-      </a><br>
+      </a>
+      <a href="https://youtu.be/LK8B8m4IBSg" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a><br>
       <a href="https://github.com/potatoscript/Network-Load-Balancer" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/NLB.png" width="20" height="20"> NLB
       </a><br>
@@ -293,10 +297,10 @@ Best regards,
   </tr>
   <tr>
     <th>🐍 Scripting</th>
-    <th>🧰 Tools/Other</th>
     <th>📚 Frameworks</th>
     <th>📝 Languages</th>
     <th>🌐 Operating Systems</th>
+    <th>🧰 Tools/Other</th>
   </tr>
   <tr>
     <td>
@@ -312,16 +316,6 @@ Best regards,
       <a href="https://github.com/potatoscript/markdown" target="_blank">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" width="20" height="20"> Markdown
       </a><br>
-      <br>
-    </td>
-    <td>
-      <a href="https://github.com/potatoscript/JMeter/wiki" target="_blank">
-        <img src="https://www.wizcase.com/wp-content/uploads/2022/07/jmeter-logo.png" width="20" height="20"> JMeter
-      </a><br>
-      <a href="https://github.com/potatoscript/big-o-notation/wiki" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/big-o.png" width="20" height="20"> Big-O Notation</a><br>
-      <br>
-      <br>
       <br>
     </td>
     <td>
@@ -343,10 +337,10 @@ Best regards,
     </td>
     <td>
       <a href="https://github.com/potatoscript/MyDocuments/blob/main/potatoTOIEC.png" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/English.png" width="20" height="20"> English
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/English.png" width="40" height="30"> English
       </a><br>
       <a href="https://github.com/potatoscript/Japanese" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" width="20" height="20"> 日本語
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" width="40" height="35"> 日本語
       </a><br>
       <br>
       <br>
@@ -358,6 +352,18 @@ Best regards,
       </a><br>
       <br>
       <br>
+      <br>
+      <br>
+    </td>
+    <td>
+      <a href="https://github.com/potatoscript/big-o-notation/wiki" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/big-o.png" width="20" height="20"> Big-O Notation</a><br>
+      <a href="https://github.com/potatoscript/JMeter/wiki" target="_blank">
+        <img src="https://www.wizcase.com/wp-content/uploads/2022/07/jmeter-logo.png" width="20" height="20"> JMeter
+      </a><br>
+      <a href="https://github.com/potatoscript/websocket/wiki" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/WebSocket.png" width="20" height="20"> WebSocket
+      </a><br>
       <br>
       <br>
     </td>
