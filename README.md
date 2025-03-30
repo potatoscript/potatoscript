@@ -346,10 +346,10 @@ Best regards,
     </td>
     <td>
       <a href="https://github.com/potatoscript/MyDocuments/blob/main/potatoTOEIC.png" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/English.png" width="40" height="30"> English
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/English.png" width="35" height="30"> English
       </a><br>
       <a href="https://github.com/potatoscript/Japanese" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" width="40" height="35"> 日本語
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" width="35" height="35"> 日本語
       </a><br>
       <br>
       <br>
@@ -357,7 +357,7 @@ Best regards,
     </td>
     <td>
       <a href="https://github.com/potatoscript/ubuntu/wiki" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/Ubuntu.png" width="20" height="20"> Ubuntu
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/Ubuntu.png" width="35" height="30"> Ubuntu
       </a><br>
       <a href="https://github.com/potatoscript/linux/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/linux.png" width="35" height="30"> LINUX
