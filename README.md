@@ -357,10 +357,10 @@ Best regards,
     </td>
     <td>
       <a href="https://github.com/potatoscript/ubuntu/wiki" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/2048px-Former_Ubuntu_logo.svg.png" width="20" height="20"> Ubuntu
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/Ubuntu.png" width="20" height="20"> Ubuntu
       </a><br>
       <a href="https://github.com/potatoscript/linux/wiki" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/linux.png" width="20" height="20"> LINUX
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/linux.png" width="35" height="30"> LINUX
       </a><br>
       <br>
       <br>
