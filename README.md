@@ -228,6 +228,7 @@ Best regards,
       <a href="https://github.com/potatoscript/JavaWeb" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" width="20" height="20"> Java Web
       </a><br>
+      <br>
     </td>
     <td>
       <a href="https://github.com/potatoscript/csharp/wiki" target="_blank">
@@ -248,6 +249,7 @@ Best regards,
       </a> 
       <a href="https://youtu.be/u2oacxGapfE?si=2F61kkiwhQibqbFN" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /><br>
       <br>
+      <br>
     </td>
     <td>
       <a href="https://github.com/potatoscript/android/wiki" target="_blank">
@@ -260,6 +262,8 @@ Best regards,
       <br>
       <br>
       <br>
+      <br>
+      <br>
     </td>
     <td>
       <a href="https://github.com/potatoscript/mysql/wiki" target="_blank">
@@ -268,6 +272,8 @@ Best regards,
       <a href="https://github.com/potatoscript/sql/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/postgresql.png" width="20" height="20"> PostgreSQL
       </a><br>
+      <br>
+      <br>
       <br>
       <br>
       <br>
@@ -353,7 +359,9 @@ Best regards,
       <a href="https://github.com/potatoscript/ubuntu/wiki" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/2048px-Former_Ubuntu_logo.svg.png" width="20" height="20"> Ubuntu
       </a><br>
-      <br>
+      <a href="https://github.com/potatoscript/linux/wiki" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/linux.png" width="20" height="20"> LINUX
+      </a><br>
       <br>
       <br>
       <br>
