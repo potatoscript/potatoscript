@@ -266,13 +266,15 @@ Best regards,
       <br>
     </td>
     <td>
-      <a href="https://github.com/potatoscript/mysql/wiki" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="20" height="20"> MySQL
-      </a><br>
       <a href="https://github.com/potatoscript/sql/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/postgresql.png" width="20" height="20"> PostgreSQL
       </a><br>
-      <br>
+      <a href="https://github.com/potatoscript/sqlite/wiki" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/sqlite.png" width="20" height="20"> SQLite
+      </a><br>
+      <a href="https://github.com/potatoscript/mysql/wiki" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="20" height="20"> MySQL
+      </a><br>
       <br>
       <br>
       <br>
