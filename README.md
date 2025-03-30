@@ -1,12 +1,12 @@
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" width="30px"> **～Hi**
 
-🥔I am PotatoScript, a versatile Web and Desktop Application Developer🧑‍💻 with a strong foundation in engineering and programming. My academic journey began at Coventry University, United Kingdom, where I earned a Bachelor of Engineering with Honors (First Class) in Mechanical Engineering.
+🥔I am PotatoScript, a versatile Web and Desktop Application Developer🧑‍💻 with over 15 years of experience in system development, backed by a strong foundation in engineering and programming. My academic journey began at Coventry University, United Kingdom, where I earned a Bachelor of Engineering with Honors (First Class) in Mechanical Engineering.
 
 During the final year of my undergraduate program, I undertook a transformative project that introduced me to the exciting world of programming. This project involved developing software to analyze natural frequency and damping factors using input data from vibration measurement devices. The application was built using the MATLAB programming language and required a seamless integration of engineering principles with programming expertise.
 
 This unique experience ignited a lasting passion for software development, leading me to pursue a career where I can leverage both my engineering background and programming skills to build innovative solutions.
 
-> 🥔PotatoScriptと申します。ウェブおよびデスクトップアプリケーションの開発に精通したエンジニア兼プログラマーです。私の学術的な旅は、イギリスのコヴェントリー大学で機械工学を専> 攻することから始まり、一級優等学位の工学士を取得しました。
+> 🥔私はPotatoScript、システム開発において15年以上の経験を持つ、汎用的なWebおよびデスクトップアプリケーション開発者🧑‍💻です。工学とプログラミングの強固な基盤を持ち、学問的に> はイギリスのコヴェントリー大学で機械工学の優等（ファーストクラス）学士号を取得しました。
 > 
 > 学部課程の最終年には、プログラミングの世界に触れるきっかけとなった重要なプロジェクトに取り組みました。このプロジェクトでは、振動計測デバイスから取得したデータを使用して、固有> 振動数と減衰係数を解析するソフトウェアを開発しました。MathLabプログラミング言語を活用したこの取り組みは、工学的な知識とプログラミングのスキルを融合させたものでした。
 > 
