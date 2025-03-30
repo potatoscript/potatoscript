@@ -206,7 +206,7 @@ Best regards,
     <th>💻 Desktop Dev</th>
     <th>📱 Mobile Dev</th>
     <th>🗄️ Databases</th>
-    <th>☁️ Server & Cloud & DevOps</th>
+    <th>☁️ Server/DevOps</th>
   </tr>
   <tr>
     <td>
@@ -310,7 +310,7 @@ Best regards,
     <th>🐍 Scripting</th>
     <th>📚 Frameworks</th>
     <th>📝 Languages</th>
-    <th>🌐 Operating Systems</th>
+    <th>🌐 OS</th>
     <th>🧰 Tools/Other</th>
   </tr>
   <tr>
