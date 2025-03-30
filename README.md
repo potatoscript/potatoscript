@@ -222,6 +222,9 @@ Best regards,
       <a href="https://github.com/potatoscript/JavaScript/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/javascript.png" width="20" height="20"> JavaScript
       </a><br>
+      <a href="https://github.com/potatoscript/TypeScript/wiki" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/typescript.png" width="20" height="20"> TypeScript
+      </a><br>
       <a href="https://github.com/potatoscript/php/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/php.png" width="20" height="20"> PHP
       </a><br>
