@@ -213,7 +213,7 @@ Best regards,
       <a href="https://github.com/potatoscript/html/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/html5.png" width="20" height="20"> HTML
       </a><br>
-      <a href="https://github.com/potatoscript/css/wiki" target="_blank">
+      <a href="https://github.com/potatoscript/css3/wiki" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20"> CSS
       </a><br>
       <a href="https://github.com/potatoscript/bootstrap/wiki" target="_blank">
