@@ -379,8 +379,8 @@ Best regards,
       <br>
     </td>
     <td>
-      <a href="https://github.com/potatoscript/big-o-notation/wiki" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/big-o.png" width="20" height="20"> Big-O Notation</a><br>
+      <a href="https://github.com/potatoscript/dsa/wiki" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/big-o.png" width="20" height="20"> Data Structures and Algorithms (DSA)</a><br>
       <a href="https://github.com/potatoscript/JMeter/wiki" target="_blank">
         <img src="https://www.wizcase.com/wp-content/uploads/2022/07/jmeter-logo.png" width="20" height="20"> JMeter
       </a><br>
