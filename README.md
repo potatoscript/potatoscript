@@ -301,7 +301,7 @@ Best regards,
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/docker.png" width="20" height="20"> Docker
       </a><br>
       <a href="https://github.com/potatoscript/CICD" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD_icon2.png" width="20" height="20"> CICD
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD_icon2.png" width="20" height="20"> CICD (GitHub Action)
       </a><br>
       <a href="https://github.com/potatoscript/git/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/git.png" width="20" height="20"> Git
