@@ -234,23 +234,26 @@ Best regards,
       <br>
     </td>
     <td>
-      <a href="https://github.com/potatoscript/csharp/wiki" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" height="20"> C#
-      </a>
-      <a href="https://youtu.be/a60aGfwdWj8" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a><br>
-      <a href="https://github.com/potatoscript/python" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.png" width="20" height="20"> Python
+      <a href="https://github.com/potatoscript/c" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/gameboy.png" alt="Game Boy" width="20" height="20"/> C (Game Boy)
       </a><br>
       <a href="https://github.com/potatoscript/cpp" target="_blank">
         <img src="https://e7.pngegg.com/pngimages/251/949/png-clipart-computer-icons-c-others-text-logo.png" width="20" height="20"> C++
       </a><br>
-      <a href="https://github.com/potatoscript/vba/wiki" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/vba.png" width="20" height="20"> VBA
-      </a><br>
+      <a href="https://github.com/potatoscript/csharp/wiki" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" height="20"> C#
+      </a>
+      <a href="https://youtu.be/a60aGfwdWj8" target="_blank"> <img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /></a><br>
       <a href="https://github.com/potatoscript/JavaSwing/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" width="20" height="20"> Java Swing
       </a> 
       <a href="https://youtu.be/u2oacxGapfE?si=2F61kkiwhQibqbFN" target="_blank"><img align="center" src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="potatoscript" height="30" width="30" /><br>
+      <a href="https://github.com/potatoscript/python" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.png" width="20" height="20"> Python
+      </a><br>
+      <a href="https://github.com/potatoscript/vba/wiki" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/vba.png" width="20" height="20"> VBA
+      </a><br>
       <br>
       <br>
     </td>
@@ -383,7 +386,9 @@ Best regards,
       <a href="https://github.com/potatoscript/npm" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/npm.png" alt="npm" width="23" height="25"/> npm
       </a><br>
-      <br>
+      <a href="https://github.com/potatoscript/ai" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/AI.png" alt="npm" width="23" height="25"/> AI
+      </a>
     </td>
   </tr>
 </table>
