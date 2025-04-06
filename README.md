@@ -367,13 +367,13 @@ Best regards,
     </td>
     <td>
       <a href="https://github.com/potatoscript/window/wiki" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/window.png" width="35" height="30"> WINDOW
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/window.png" width="25" height="20"> WINDOW
       </a><br>
       <a href="https://github.com/potatoscript/linux/wiki" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/linux.png" width="35" height="30"> LINUX
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/linux.png" width="30" height="25"> LINUX
       </a><br>
       <a href="https://github.com/potatoscript/ubuntu/wiki" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/Ubuntu.png" width="35" height="30"> Ubuntu
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/Ubuntu.png" width="30" height="25"> Ubuntu
       </a><br>
       <br>
       <br>
