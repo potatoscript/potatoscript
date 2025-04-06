@@ -366,7 +366,7 @@ Best regards,
       <br>
     </td>
     <td>
-      <a href="https://github.com/potatoscript/window/wiki" target="_blank">
+      <a href="https://github.com/potatoscript/windows-os/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/window.png" width="25" height="20"> WINDOW
       </a><br>
       <a href="https://github.com/potatoscript/linux/wiki" target="_blank">
