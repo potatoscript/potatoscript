@@ -353,13 +353,15 @@ Best regards,
       </a><br>
     </td>
     <td>
+      <a href="" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/chinese.png" width="30" height="30"> 中文
+      </a><br>
       <a href="https://github.com/potatoscript/MyDocuments/blob/main/potatoTOEIC.png" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/English.png" width="35" height="30"> English
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/English.png" width="30" height="30"> English
       </a><br>
       <a href="https://github.com/potatoscript/Japanese" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" width="35" height="35"> 日本語
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" width="30" height="30"> 日本語
       </a><br>
-      <br>
       <br>
       <br>
     </td>
