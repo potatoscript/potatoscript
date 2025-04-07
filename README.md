@@ -339,7 +339,7 @@ Best regards,
       <a href="https://github.com/potatoscript/asp.net.mvc/wiki" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" height="20"> ASP.NET MVC
       </a><br>
-      <a href="https://github.com/potatoscript/DjangoMastery" target="_blank">
+      <a href="https://github.com/potatoscript/django/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/django.png" width="20" height="20"> Django
       </a><br>
       <a href="https://github.com/potatoscript/ruby/wiki" target="_blank">
