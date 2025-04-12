@@ -12,10 +12,10 @@ My journey into software development began during my final year at university, w
 
 ---
 
-## 💼 From Engineering to Automation and Software ⚙️🛠️ → 🧠💻
+## 💼 From Engineering to Automation and Software ⚙️🛠️ → 🧠💻  
 
 <details>
-  <summary>🥔（Click to continue reading）👇📖</summary>
+  <summary>🥔（Click to continue reading）👇📖</summary> 
   <br>
 
 After graduation, I started my career in **Singapore** as an **Oilseal Product Designer & Production Engineer**, designing components, tooling, and production workflows. I quickly realized the potential of software to streamline processes, so I built an internal **Production Information Management System**, dramatically improving efficiency on the shop floor.
@@ -166,6 +166,8 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
 ---
 
 </details>
+
+(*or refer to my resume: [日本語版](https://potatoscript.github.io/resume-japanese/) & [ENGLISH](https://potatoscript.github.io/resume-english/)*)
 
 
 <!--
