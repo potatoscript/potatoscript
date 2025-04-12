@@ -1,4 +1,4 @@
-# <img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" width="50px"> **～Hi**, I’m Full-Stack System Developer & Engineering Technologist 🧑‍💻
+# <img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" width="50px"> **～Hi**, I’m Full-Stack System Developer 
 
 With over **15 years of hands-on experience** in **web and desktop application development**, I bring a unique blend of engineering precision and programming creativity. My academic foundation was built at **Coventry University (UK)**, where I earned a **First-Class Honours in Mechanical Engineering**.
 
@@ -73,7 +73,7 @@ If you’re looking for a high-impact developer with a strong engineering backbo
   <summary>日本語バージョンはこちら ▶️（Click to expand）👇📖</summary>
 <br>
 
-**<img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" width="50px"> ようこそ、私は フルスタック・システム開発者 ＆ エンジニアリング技術者 🧑‍💻**  
+**<img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" width="50px"> ようこそ、私は フルスタック・システム開発者**  
 Webおよびデスクトップアプリケーションの開発に**15年以上の実務経験**を持ち、**エンジニアリングの精密さ**と**プログラミングの創造性**を兼ね備えた開発者です。  
 イギリスの**コヴェントリー大学**にて**機械工学のファーストクラス優等学士**を取得し、確かな学術基盤を築きました。
 
