@@ -10,7 +10,6 @@ My journey into software development began during my final year at university, w
 
 > _This pivotal experience not only bridged engineering and programming but also unlocked a deep interest in software solutions that solve complex, real-world problems._
 
----
 
 ## 💼 From Engineering to Automation and Software ⚙️🛠️ → 🧠💻  
 
@@ -26,7 +25,7 @@ My three-year assignment at the **Thailand branch** further honed my automation 
 
 ---
 
-## 💻 From Engineer to Full-Stack Developer
+## 💻 Technical Skill Set
 
 As I transitioned into full-time development, I mastered a broad tech stack, including:
 
