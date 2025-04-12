@@ -495,11 +495,24 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
   </tr>
 </table>
 
+---
 
-- 🌱 Windows Server:
-  <img src="https://github.com/potatoscript/MyDocuments/blob/main/windows_server.png?raw=true" />
-- 🌱 Azure Cloud Server:
-  <img src="https://github.com/potatoscript/MyDocuments/blob/main/azure_server.png?raw=true" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <div style="font-size:16px;">🖥️ <strong>Windows Server</strong></div>
+      A robust on-premise server solution for managing applications, databases, and network resources in a controlled environment.<br>
+      <img src="https://github.com/potatoscript/MyDocuments/blob/main/windows_server.png?raw=true" width="450" />
+    </td>
+    <td align="center" width="50%">
+      <div style="font-size:16px;">☁️ <strong>Azure Cloud Server</strong></div>
+      Scalable cloud hosting service for high-availability applications, enabling infrastructure management and deployment in the cloud.<br>
+      <img src="https://github.com/potatoscript/MyDocuments/blob/main/azure_server.png?raw=true" width="450" />
+    </td>
+  </tr>
+</table>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
