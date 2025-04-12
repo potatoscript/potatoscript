@@ -1,120 +1,163 @@
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" width="30px"> **～Hi**
+# <img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" width="50px"> **～Hi**, I’m Full-Stack System Developer & Engineering Technologist 🧑‍💻
 
-🥔I am PotatoScript, a versatile Web and Desktop Application Developer🧑‍💻 with over 15 years of experience in system development, backed by a strong foundation in engineering and programming. My academic journey began at Coventry University, United Kingdom, where I earned a Bachelor of Engineering with Honors (First Class) in Mechanical Engineering.
+With over **15 years of hands-on experience** in **web and desktop application development**, I bring a unique blend of engineering precision and programming creativity. My academic foundation was built at **Coventry University (UK)**, where I earned a **First-Class Honours in Mechanical Engineering**.
 
-During the final year of my undergraduate program, I undertook a transformative project that introduced me to the exciting world of programming. This project involved developing software to analyze natural frequency and damping factors using input data from vibration measurement devices. The application was built using the MATLAB programming language and required a seamless integration of engineering principles with programming expertise.
+## 🔧 Where It All Began
 
-This unique experience ignited a lasting passion for software development, leading me to pursue a career where I can leverage both my engineering background and programming skills to build innovative solutions.
+My journey into software development began during my final year at university, where I led a research project to develop a **vibration analysis tool** using **MATLAB**. The software extracted and analyzed natural frequencies and damping factors from sensor data—blending core engineering with real-world software implementation. That moment sparked a passion that reshaped my career path.
 
-> 🥔私はPotatoScript、システム開発において15年以上の経験を持つ、汎用的なWebおよびデスクトップアプリケーション開発者🧑‍💻です。工学とプログラミングの強固な基盤を持ち、学問的に> はイギリスのコヴェントリー大学で機械工学の優等（ファーストクラス）学士号を取得しました。
-> 
-> 学部課程の最終年には、プログラミングの世界に触れるきっかけとなった重要なプロジェクトに取り組みました。このプロジェクトでは、振動計測デバイスから取得したデータを使用して、固有> 振動数と減衰係数を解析するソフトウェアを開発しました。MathLabプログラミング言語を活用したこの取り組みは、工学的な知識とプログラミングのスキルを融合させたものでした。
-> 
-> この経験を通じてソフトウェア開発に対する情熱が芽生え、その後、エンジニアリングとプログラミングの両方のスキルを活用して革新的なソリューションを構築するキャリアを歩むことを決意> しました。
-
-<!--
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/Potato_Road_Map.png?raw=true" />
--->
-
-<details>
-  <summary>Click to continue（続きを読む）👇📖...</summary>
-<br>
-  
-🎓After graduating, I began my career in Singapore as an Oilseal Product Designer and Production Engineer.
-My primary responsibilities included designing product drawings and preparing the necessary tooling and production information, such as specifications, to ensure seamless manufacturing of the products I designed.
-I was responsible for verifying that every process on the production line adhered to the specifications of my designs. To streamline this, I developed a Production Information Management System to control the flow of product-related information efficiently.
-
-During my three-year assignment at the Thailand branch, I focused on productivity improvement and cost reduction initiatives.
-I also spearheaded automation efforts by designing processes and collaborating with vendors to create the necessary tooling and machinery. These contributions enhanced operational efficiency and optimized resource utilization.
-
-> 🎓卒業後、シンガポールでオイルシール製品のデザイナーおよび生産エンジニアとしてキャリアをスタートしました。
-> 主な業務内容は、製品図面の設計や、工具や生産仕様書などの必要な情報を準備し、設計した製品が問題なく生産ラインで製造できるようにすることでした。
-> また、製品の仕様に従い、生産ラインの各プロセスが適切に実施されていることを確認する責任がありました。この業務を効率化するために、製品情報の流れを管理するための製品情報管理シス> テムを開発しました。
-> 
-> その後、タイの支社での3年間の配属中、主な業務は生産性の向上およびコスト削減活動に取り組むことでした。
-> また、生産プロセスを自動化するアイデアを開発し、プロセスを設計するとともに、必要な工具や機械を製作するベンダーとの連携も行いました。これにより、業務効率が向上し、資源の最適化> が実現しました。<br>
-
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/Design_Engineer_Jobs.png?raw=true" />
-
-
-💻My programming skills encompass a wide range of languages and technologies, including **JAVA**, **C#**, **Python**, **JavaScript**, **HTML**, **CSS**, **PHP**, **SQL**, and **GIT**. Among my notable achievements are the creation of a **JavaScript library**, [Potato.js](https://potatoscript.github.io/homepage/), and the development of an **Android app**, [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0).  
-
-A few years ago, I contributed significantly to a project utilizing **Vue.js** for the frontend and **ASP.NET Core API** for the backend. This dynamic experience exemplifies my dedication to staying at the cutting edge of web development. In addition, I have hands-on experience managing 🌐💾**Windows Server** and ☁️**Azure Cloud Server** environments.  
-
-My career as a **Product Design Engineer** provided me with a solid foundation in engineering principles and problem-solving. However, during my tenure, I frequently encountered inefficiencies in production workflows that sparked my interest in automation and software development. My initiative to create a **Production Information Management System** and other automated solutions made me realize the immense potential of programming to optimize processes and solve real-world problems. This passion eventually inspired me to shift my career path to focus on **system development engineering**.  
-
-Recently, I successfully completed a project for a **semiconductor company**, where I handled approximately **1,000,000 wafer data records in CSV format** daily, transforming and managing this data efficiently in a structured database using Python. This achievement further solidified my ability to manage large-scale data and deliver impactful solutions.  
-
-Currently, I am working on an exciting new project to develop a **CAD system** using **Open CASCADE in C++** for backend geometry handling, and its **UI in C# WPF**. This project represents a significant milestone in my career, combining advanced geometry computation with user interface development. I am thrilled about the progress and the opportunity to create a professional CAD application from the ground up.  
-
-Continuous learning remains a cornerstone of my professional growth, and I am always eager to expand my expertise to take on new challenges and innovate in the field of system and application development.
-
-
-> 💻私のプログラミングスキルには、**JAVA**、**C＃**、**Python**、**JavaScript**、**HTML**、**CSS**、**PHP**、**SQL**、および**GIT**など、多岐にわたる言語や技術が含まれてい> ます。顕著な業績として、**JavaScriptライブラリ** [Potato.js](https://potatoscript.github.io/homepage/) の作成や、**Androidアプリ** [QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0) の開発があります。  
-> 
-> 数年前、**Vue.js**をフロントエンドに、**ASP.NET Core API**をバックエンドに活用したプロジェクトに深く関与しました。この経験は、ウェブ開発の最前線で学び続ける姿勢を示しています。また、**Windows Server**や**Azure Cloud Server**環境の管理経験も有しています。  
-> 
-> 私のキャリアは、**製品設計エンジニア**としてスタートしました。この経験を通じて、工学の基本原理と課題解決能力を習得しました。しかし、業務中にしばしば目にした生産ワークフローの> 非効率性が、私のオートメーションとソフトウェア開発への興味を引き出しました。特に、**製品情報管理システム**やその他の自動化ソリューションを開発したことで、プログラミングがプロ> セスを最適化し、現実世界の問題を解決する可能性を強く実感しました。この情熱が、最終的に私のキャリアを**システム開発エンジニアリング**へと転向させるきっかけとなりました。  
-> 
-> 最近では、**半導体企業**向けのプロジェクトを成功裏に完了しました。このプロジェクトでは、毎日約**100万枚のウェハーデータレコード（CSV形式）**を効率的にデータベースに変換およ> び管理しました。この成果は、大規模データの管理とインパクトのあるソリューション提供能力をさらに強化しました。  
-> 
-> 現在、**C++のOpen CASCADE**を使用して幾何計算を担当し、**C# WPF**でUIを開発する**CADシステム**の新しいプロジェクトに取り組んでいます。このプロジェクトは、私のキャリアにお> ける重要な節目であり、高度な幾何計算とユーザーインターフェイス開発を組み合わせたものです。このプロジェクトの進捗と、プロフェッショナルなCADアプリケーションをゼロから作り上げ> る機会に非常に興奮しています。  
-> 
-> 継続的な学びは私の成長の基盤であり、新たな挑戦に取り組み、システムおよびアプリケーション開発の分野で革新を起こすために、常に意欲を持っています。
-
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" />
-
-
-⚙️To maintain code version control and facilitate collaborative work with my team members, **Git** was employed. We utilized **GitLab** for code sharing and collaboration, and **Microsoft SharePoint** tools were also instrumental in sharing project documentation internally within the team.  
-
-Additionally, I made effective use of GitHub's Projects feature to manage our team project within the team members. This feature helped us track tasks, organize workflows, and improve team productivity.
-
-I am also highly skilled in **web application development**, with strong expertise in both **UI design** and **backend database design**. My ability to create seamless and user-friendly interfaces, coupled with robust backend architecture, ensures that web applications are both intuitive and efficient.  
-
-In terms of package management, I am proficient in using **pip** and **npm**. I have successfully developed and published the **Python library** [**potato.py**](https://pypi.org/project/potatopy) to **PyPI** and the **JavaScript library** <!--[**potato.js**](https://www.npmjs.com/package/potato.js)--> to **npm**, and I also created the NuGet package for my C# project [**Potato.SQLite**](https://www.nuget.org/packages/Potato.SQLite).
-
-> ⚙️コードのバージョン管理を維持し、チームメンバーとの共同作業を容易にするために、**Git**を利用しました。コードの共有と協力のために、**GitLab**を使用し、**Microsoft SharePoint**ツールもチーム内でのプロジェクト文書の共有に重要な役割を果たしました。
-> 
->さらに、GitHubのProjects機能を活用し、チームメンバーと共にプロジェクトを管理しました。
-> この機能により、タスクの追跡、ワークフローの整理、チームの生産性向上が可能になりました。
-> 
-> また、私は**ウェブアプリケーション開発**において、**UIデザイン**と**バックエンドデータベース設計**の両方に優れたスキルを持っています。直感的で効率的なインターフェイスの作成> に加え、堅牢なバックエンドアーキテクチャを構築する能力があり、ウェブアプリケーションを使いやすく、かつ効率的にしています。  
-> 
-> パッケージ管理に関しては、**pip**と**npm**の使用に熟練しており、**Pythonライブラリ** [**potato.py**](https://pypi.org/project/potatopy) を**PyPI**に、**JavaScriptライブラリ** <!--[**potato.js**](https://www.npmjs.com/package/potato.js)--> を**npm**に成功裏に開発して公開しました。  
-> また、C#プロジェクト [**Potato.SQLite**](https://www.nuget.org/packages/Potato.SQLite) のためにNuGetパッケージも作成しました。
-
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/system_dev_process.png?raw=true" />
-
-
-- 🌱 I’m currently learning **CICD** to automate the above processes in the future.  
-- 🌱 I am passionate about automating workflows and deploying continuous integration and delivery pipelines to streamline development.  
-- 🌱 I am also learning **OPEN CASCADE**, a C++ library for creating CAD systems. It has been a challenging but fun journey, starting from scratch and working my way up from zero to hero.  
-
-📚I am the type of person who loves to challenge myself and learn new things. I constantly strive to improve my skills and push the boundaries of what I can achieve.
-
-My next step in my career is to enhance my software management skills, particularly in areas such as upstream processes, requirements definition, and project scheduling, to ensure smooth project execution and successful delivery.
-
-
-> - 🌱 現在は、上記のプロセスを自動化するために **CI/CD** を学んでいます。  
-> - 🌱 ワークフローを自動化し、開発を効率化するために継続的インテグレーションとデリバリーパイプラインを導入することに情熱を持っています。  
-> - 🌱 また、CADシステムを作成するためのC++ライブラリである **OPEN CASCADE** を学んでいます。非常に難しいですが楽しい旅で、ゼロからヒーローまで進んでいる最中です。  
-> 
-> 📚私は新しいことに挑戦し、学ぶことが大好きな人間です。常に自分のスキルを向上させ、達成できる限界を押し広げることを目指しています。
-> 
-> 今後のキャリアの次のステップは、ソフトウェア管理スキルを強化し、特に上流工程を中心に取り組んでいきたいと考えています。
-
-
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD.png?raw=true" />
-
-
-Thank you for visiting, and if you have any questions or collaboration opportunities, do not hesitate to get in touch.  
-Best regards,  
-**potatoscript**  
+> _This pivotal experience not only bridged engineering and programming but also unlocked a deep interest in software solutions that solve complex, real-world problems._
 
 ---
 
+## 💼 From Engineering to Automation and Software
+
+After graduation, I started my career in **Singapore** as an **Oilseal Product Designer & Production Engineer**, designing components, tooling, and production workflows. I quickly realized the potential of software to streamline processes, so I built an internal **Production Information Management System**, dramatically improving efficiency on the shop floor.
+
+My three-year assignment at the **Thailand branch** further honed my automation skills—leading cost-reduction projects and collaborating with vendors to build custom production machinery. These hands-on experiences gave me a rare edge: combining physical systems knowledge with digital transformation expertise.
+
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/Design_Engineer_Jobs.png?raw=true" width=600px />
+
+---
+
+## 💻 From Engineer to Full-Stack Developer
+
+As I transitioned into full-time development, I mastered a broad tech stack, including:
+
+- 🧠 **Languages**: Java, C#, Python, JavaScript, PHP, SQL  
+- 🎨 **Frontend**: HTML, CSS, Vue.js, React.js  
+- 🛠️ **Backend**: ASP.NET Core, Python (Flask/FastAPI), Node.js  
+- 🗄️ **Databases**: SQLite, MySQL, PostgreSQL  
+- ☁️ **Cloud & Infrastructure**: Azure, Windows Server (IIS, Apache)  
+- 🔄 **DevOps & Tools**: Git, GitHub, GitLab, SharePoint, CI/CD pipelines, Docker
+
+---
+
+Key projects include:
+
+- 🧩 **[Potato.js](https://potatoscript.github.io/homepage/)** – a custom JavaScript library  
+- 📱 **[QR Scanner Organizer](https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0)** – an Android app for scanning and organizing QR data  
+- 🌐 **Web system** using **Vue.js + ASP.NET Core API** for full-stack functionality  
+- 🧠 Efficiently handled **1,000,000+ daily wafer data records** in CSV format for a semiconductor company, converting and managing them with Python into a structured database
+
+---
+
+## 🧠 Current Focus: CAD System Development
+
+I'm currently working on a fully custom **2D CAD system**, integrating:
+
+- **C++ (Open CASCADE)** for geometric computations  
+- **C# WPF** for desktop UI/UX development
+
+This project is the culmination of my engineering and programming experience—building a CAD tool from the ground up with precision geometry handling and real-time dimension editing.
+
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" width=600px />
+
+---
+
+## 👨‍💻 Developer Mindset
+
+- 💡 **Problem Solver**: Whether it’s factory automation or database transformation, I love creating scalable, long-term solutions.
+- 🔁 **Continuous Learner**: I regularly upgrade my skill set, from cloud servers to advanced UI frameworks.
+- 🤝 **Team Collaborator**: I’ve led cross-border teams, managed version control using **Git**, and used **GitHub Projects** and **SharePoint** to ensure smooth collaboration and documentation.
+
+---
+
+## 🌟 Let’s Connect
+
+If you’re looking for a high-impact developer with a strong engineering backbone and a love for clean, scalable code—**I’m PotatoScript, and I’m ready to build the future with you.**
+
+---
+
+<details>
+  <summary>日本語バージョンはこちら ▶️（Click to expand）👇📖</summary>
+<br>
+
+**<img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" width="50px"> ようこそ、私は フルスタック・システム開発者 ＆ エンジニアリング技術者 🧑‍💻**  
+Webおよびデスクトップアプリケーションの開発に**15年以上の実務経験**を持ち、**エンジニアリングの精密さ**と**プログラミングの創造性**を兼ね備えた開発者です。  
+イギリスの**コヴェントリー大学**にて**機械工学のファーストクラス優等学士**を取得し、確かな学術基盤を築きました。
+
+---
+
+### 🔧 すべての始まり
+
+ソフトウェア開発の旅は、大学最終年度の研究プロジェクトから始まりました。  
+**MATLAB**を用いて、センサーデータから**固有振動数と減衰係数を抽出・解析する振動解析ツール**を開発。  
+このプロジェクトにより、**エンジニアリングの理論と現実世界のソフトウェア実装**が融合し、  
+私のキャリアを大きく変える情熱が芽生えました。
+
+この転機となる経験は、**工学とプログラミングの橋渡し**となり、  
+**複雑な現場の課題を解決するソフトウェアソリューション**への深い関心を引き出しました。
+
+---
+
+### 💼 エンジニアから自動化・ソフトウェア開発へ
+
+卒業後は、**シンガポールにてオイルシール製品設計・生産エンジニア**としてキャリアをスタート。  
+部品設計、金型設計、製造プロセスの構築を担当しました。
+
+やがて、**ソフトウェアが現場の効率を劇的に改善できる**と気づき、  
+独自の**生産情報管理システム（PIMS）**を開発。現場の業務効率を飛躍的に向上させました。
+
+その後、**タイ支社への3年間の赴任**を通じて自動化スキルをさらに磨き、  
+コスト削減プロジェクトを主導したり、ベンダーと連携して**専用生産装置の設計・導入**を担当。  
+こうした経験により、**物理的システムとデジタル変革の両面に強い開発者**としての基盤を築きました。
+
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/Design_Engineer_Jobs.png?raw=true" width=600px />
+
+---
+
+### 💻 エンジニアからフルスタック開発者へ
+
+その後、本格的に開発者としての道へシフトし、以下の技術スタックを習得しました：
+
+- 🧠 **使用言語**：Java, C#, Python, JavaScript, PHP, SQL など  
+- 🎨 **フロントエンド**：HTML, CSS, Vue.js, React.js  
+- 🛠️ **バックエンド**：ASP.NET Core, Python（Flask/FastAPI）, Node.js  
+- 🗄️ **データベース**：SQLite, MySQL, PostgreSQL  
+- ☁️ **クラウド・インフラ**：Azure, Windows Server（IIS / Apache）  
+- 🔄 **DevOps・開発ツール**：Git, GitHub, GitLab, SharePoint, CI/CD, Docker など
+
+主なプロジェクトには：
+
+🧩 **Potato.js** – 独自のJavaScriptライブラリ  
+📱 **QR Scanner Organizer** – QRコードを読み取り・整理するAndroidアプリ  
+🌐 **Vue.js + ASP.NET Core API**を組み合わせたWebシステム  
+🧠 **半導体企業向けCSVデータ処理** – Pythonで1日100万件超のウェーハデータをデータベースに変換・管理
+
+---
+
+### 🧠 現在の注力分野：CADシステム開発
+
+現在は、**2D CADシステムのフルスクラッチ開発**に取り組んでいます。
+
+- **C++（Open CASCADE）**：ジオメトリ演算  
+- **C# WPF**：デスクトップUI/UX開発  
+
+このプロジェクトは、私の**工学的知見と開発経験**の集大成であり、  
+**精密なジオメトリ処理**と**リアルタイム寸法編集機能**を備えたプロ向けCADツールを目指しています。
+
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" width=600px />
+
+---
+
+### 👨‍💻 開発者マインドセット
+
+💡 **問題解決思考**：工場の自動化からDB変換まで、スケーラブルで持続可能なソリューションが大好きです。  
+🔁 **継続的な学習**：クラウド技術から高度なUIフレームワークまで、常にスキルをアップデートしています。  
+🤝 **チームワーク重視**：海外チームをリードし、GitやSharePointで円滑なバージョン管理・情報共有を実現してきました。
+
+---
+
+### 🌟 つながりましょう！
+
+**エンジニアとしての確かなバックボーン**と  
+**クリーンでスケーラブルなコード愛**を持つ開発者をお探しなら、  
+私は**PotatoScript**。一緒に未来を構築しましょう！
 
 </details>
+
+---
 
 <!--
  - 📗 I had created a JavaScript Library, Python Library and c# SQLite Database Library
