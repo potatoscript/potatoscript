@@ -497,15 +497,17 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
 
 ---
 
+# 🛠️ Infrastructure Setup & Management
+
 <table>
   <tr>
-    <td align="center" width="50%">
-      <div style="font-size:16px;">🖥️ <strong>Windows Server</strong></div>
+    <td align="left" width="50%">
+      <div style="font-size:18px;">  🖥️ <strong>Windows Server</strong></div>
       A robust on-premise server solution for managing applications, databases, and network resources in a controlled environment.<br>
       <img src="https://github.com/potatoscript/MyDocuments/blob/main/windows_server.png?raw=true" width="450" />
     </td>
-    <td align="center" width="50%">
-      <div style="font-size:16px;">☁️ <strong>Azure Cloud Server</strong></div>
+    <td align="left" width="50%">
+      <div style="font-size:18px;">  ☁️ <strong>Azure Cloud Server</strong></div>
       Scalable cloud hosting service for high-availability applications, enabling infrastructure management and deployment in the cloud.<br>
       <img src="https://github.com/potatoscript/MyDocuments/blob/main/azure_server.png?raw=true" width="450" />
     </td>
