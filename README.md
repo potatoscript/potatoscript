@@ -169,6 +169,7 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
 
 (*or refer to my resume @ [日本語版](https://potatoscript.github.io/resume-japanese/) ||  [ENGLISH](https://potatoscript.github.io/resume-english/)*)
 
+---
 
 <!--
  - 📗 I had created a JavaScript Library, Python Library and c# SQLite Database Library
