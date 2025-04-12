@@ -1,6 +1,8 @@
 # <img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" width="50px"> **～Hi**, I’m Full-Stack System Developer 
 
-With over **15 years of hands-on experience** in **web and desktop application development**, I bring a unique blend of engineering precision and programming creativity. My academic foundation was built at **Coventry University (UK)**, where I earned a **First-Class Honours in Mechanical Engineering**.
+<span style="color:blue;">With <strong>15+ years of experience</strong> in <strong>full-stack development</strong>, I specialize in <strong>automating processes</strong>, optimizing workflows, and have a strong expertise in <strong>backend databases</strong>. I’m skilled in <strong>CICD setup</strong>, web and desktop applications, and combining <strong>engineering precision</strong> with <strong>programming creativity</strong>. I hold a <strong>First-Class Honours in Mechanical Engineering</strong> from <strong>Coventry University (UK)</strong>.</span>
+
+
 
 ## 🔧 Where It All Began
 
@@ -10,7 +12,7 @@ My journey into software development began during my final year at university, w
 
 ---
 
-## 💼 From Engineering to Automation and Software
+## 💼 From Engineering to Automation and Software ⚙️🛠️ → 🧠💻
 
 <details>
   <summary>🥔（Click to continue reading）👇📖</summary>
