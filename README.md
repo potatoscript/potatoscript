@@ -517,31 +517,36 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100087801420214" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bruce lim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@PotatoTutorial" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@potatoxcript" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="potatoscript" height="30" width="40" /></a>
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=potatoscript.potatoscript)
 
-<h3 align="left">My Skills:</h3>
-<p> MATLAB / HTML / CSS3 / Bootstrap / JavaScript / TypeScript / React / Vue / C# /  PYTHON / JAVA  / ANDROID / PHP / MYSQL  / PostgreSQL / GIT </p>
-<p align="left"> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/matlab.png" alt="matlab" width="40" height="40"/>  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/html5.png" alt="html5" width="40" height="40"/></a><a>  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/css3.png" alt="css3" width="40" height="40"/></a><a>  </a>
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/bootstrap.png" alt="Bootstrap" width="40" height="40"/></a><a>  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/javascript.png" alt="javascript" width="40" height="40"/> </a><a>  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/typescript.png" alt="Typescript" width="40" height="40"/> </a><a>  </a>
-  <a href="https://react.dev/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="react.js" width="40" height="40"/></a><a>  </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="vue.js" width="40" height="40"/></a><a>  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/c-sharp.png" alt="csharp" width="40" height="40"/></a><a>  </a>
-  <a href="https://pypi.org/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.png" alt="python" width="40" height="40"/></a><a>  </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="java" width="40" height="40"/></a><a>  </a>
-  <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="android" width="40" height="40"/></a><a>  </a> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/php.png" alt="php" width="40" height="40"/></a><a>  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a>  </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><a>  </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/potatoscript/MyDocuments/blob/main/git.png" alt="git" width="40" height="40"/></a><a>  </a>
+<h3 align="left">💼 My Tech Stack</h3>
+
+<p align="left" style="display:flex; flex-wrap: wrap; gap:10px;">
+  <a href="https://www.mathworks.com/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/matlab.png" alt="MATLAB" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/html5.png" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/css3.png" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/bootstrap.png" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/javascript.png" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/typescript.png" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="React" width="40" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="Vue" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/c-sharp.png" alt="C#" width="40" height="40"/></a>
+  <a href="https://pypi.org/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/python.png" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="Java" width="40" height="40"/></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/php.png" alt="PHP" width="40" height="40"/></a>
+  <a href="https://rubyonrails.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="Ruby on Rails" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/git.png" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
 </p>
+
+
 
 [![](https://github-readme-stats.vercel.app/api?username=potatoscript)](https://github.com/potatoscript)
 
