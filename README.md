@@ -488,6 +488,9 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
       <a href="https://github.com/potatoscript/npm" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/npm.png" alt="npm" width="23" height="25"/> npm
       </a><br>
+      <a href="https://github.com/potatoscript/dotnet" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/dotnet.png" alt="dotnet" width="23" height="25"/> dotnet
+      </a><br>
       <a href="https://github.com/potatoscript/ai" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/AI.png" alt="npm" width="23" height="25"/> AI
       </a>
