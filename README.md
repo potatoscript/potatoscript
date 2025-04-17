@@ -224,11 +224,14 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           </td>
         </tr>
         <tr>
-          <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" alt="potatoscript" width="30"/></td>
+          <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/javascript.png" alt="potatoscript" width="30"/></td>
           <td>
             <a href="https://github.com/potatoscript/potatojs" target="_blank">potatoscript.js</a>
+            <a href="https://www.npmjs.com/package/potatoscript" target="_blank">
+              <img src="https://github.com/potatoscript/MyDocuments/blob/main/nodejs.png" alt="npm library" width="25"/>
+            </a>
             <a href="https://potatoscript.github.io/potatojs/" target="_blank">
-              <img src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="Demo" width="25"/>
+              <img src="https://github.com/potatoscript/MyDocuments/blob/main/webapp.png" alt="Demo" width="25" style="margin-left:10px"/>
             </a>
             <p>JS library for web enhancement.</p>
           </td>
