@@ -194,6 +194,16 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
       <b>📚 Libraries</b>
       <table style="width:100%; border-collapse:collapse;">
         <tr>
+          <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/docker.png" alt="convertimagebase64" width="30"/></td>
+          <td>
+            <a href="https://hub.docker.com/r/potatodockerhub/convertimagebase64" target="_blank">C# ConvertImageBase64</a>
+            <a href="https://github.com/potatoscript/ConvertImageToBase64" target="_blank">
+              <img src="https://github.com/potatoscript/MyDocuments/blob/main/github.png" alt="GitHub" width="25"/>
+            </a>
+            <div style="font-size:smaller;">Convert Image to Base64 from the Command Line</div>
+          </td>
+        </tr>
+        <tr>
           <td><img src="https://github.com/potatoscript/MyDocuments/blob/main/asp.net.core.png" alt="ASP.NET CORE" width="30"/></td>
           <td>
             <a href="https://www.nuget.org/packages/Potato.SQLite" target="_blank">C# SQLite DBHelper</a>
@@ -257,6 +267,15 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
             <div style="font-size:smaller;">Full-stack system example.</div>
           </td>
         </tr>
+        <tr>
+          <td><br><br></td>
+          <td>
+            <a href="#" target="_blank"></a>
+            <a href="#" target="_blank">
+            </a>
+            <div style="font-size:smaller;"></div>
+          </td>
+        </tr>
       </table>
     </td>
     <td style="vertical-align:top; width:30%;">
@@ -287,6 +306,15 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           <td>
             <a href="https://github.com/potatoscript/gameboy/wiki" target="_blank">Game Boy Game</a>
             <div style="font-size:smaller;">Retro-style game (in progress).</div>
+          </td>
+        </tr>
+        <tr>
+          <td><br><br></td>
+          <td>
+            <a href="#" target="_blank"></a>
+            <a href="#" target="_blank">
+            </a>
+            <div style="font-size:smaller;"></div>
           </td>
         </tr>
       </table>
