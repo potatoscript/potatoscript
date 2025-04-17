@@ -217,6 +217,9 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="25"/></td>
           <td>
             <a href="https://github.com/potatoscript/potatopy" target="_blank">potato.py</a>
+            <a href="https://pypi.org/project/potatopy/" target="_blank">
+              <img src="https://github.com/potatoscript/MyDocuments/blob/main/pypi.png" alt="Demo" width="25"/>
+            </a>
             <div style="font-size:smaller;">Python utility for data and automation.</div>
           </td>
         </tr>
