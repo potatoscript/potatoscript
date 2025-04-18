@@ -47,14 +47,22 @@ Key projects include:
 
 ---
 
-## 🧠 Current Focus: CAD System Development
+## 🧠 Current Focus: CAD System Development for Architectural Use
 
-I'm currently working on a fully custom **2D CAD system**, integrating:
+I'm currently involved in developing a **CAD system from the ground up** for an **architecture company**, integrating:
 
 - **C++ (Open CASCADE)** for geometric computations  
-- **C# WPF** for desktop UI/UX development
+- **C# WPF** for building the desktop application interface
 
-This project is the culmination of my engineering and programming experience—building a CAD tool from the ground up with precision geometry handling and real-time dimension editing.
+My main responsibilities in this project include:
+
+- Setting up the **development environment**, including **Git version control**, **pull request workflows**, and **CI/CD pipelines** using **GitHub Actions**
+- Designing the **database architecture** to handle project data efficiently
+- Setting up the **cloud server** to enable **multiple users** to run the WPF desktop application locally while accessing shared data stored in the cloud
+- Implementing **REST API** and **WebSocket** communication between the desktop app and the cloud backend for real-time data sync
+
+This project has allowed me to sharpen my skills in system architecture, cloud integration, and collaborative software development in a production environment.
+
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" width=600px />
 
@@ -132,15 +140,22 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
 
 ---
 
-### 🧠 現在の注力分野：CADシステム開発
+### 🧠 現在の取り組み：建築会社向けCADシステム開発
 
-現在は、**2D CADシステムのフルスクラッチ開発**に取り組んでいます。
+現在、**建築会社向けのCADシステムをゼロから開発**するプロジェクトに参加しています。主に以下の技術を使用しています：
 
-- **C++（Open CASCADE）**：ジオメトリ演算  
-- **C# WPF**：デスクトップUI/UX開発  
+- 幾何演算には **C++（Open CASCADE）** を使用  
+- デスクトップアプリのUI/UXには **C# WPF** を採用  
 
-このプロジェクトは、私の**工学的知見と開発経験**の集大成であり、  
-**精密なジオメトリ処理**と**リアルタイム寸法編集機能**を備えたプロ向けCADツールを目指しています。
+このプロジェクトにおける私の主な担当業務は以下の通りです：
+
+- **Gitによるバージョン管理**や**プルリクエストの運用**、**GitHub Actionsを用いたCI/CD環境**の構築  
+- プロジェクトデータを効率的に管理するための**データベース設計**  
+- 複数ユーザーが**ローカル環境のWPFアプリ**を使用しながら、**クラウド上のデータベース**にアクセスできるようにする**クラウドサーバー構築**  
+- **REST API** や **WebSocket** を用いたデスクトップアプリとクラウドバックエンド間のリアルタイム通信の実装
+
+このプロジェクトを通じて、**システムアーキテクチャ設計**、**クラウド連携**、**チーム開発の実践**など、幅広いスキルを実践的に磨いています。
+
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" width=600px />
 
@@ -267,14 +282,14 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
         <tr>
           <td><a href="https://youtu.be/2Gj8fluQQpQ?si=Gfgu63vaptn9pSas" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="YouTube" width="25"/></a></td>
           <td>
-            <a href="https://github.com/potatoscript/XQR-Scanner" target="_blank">QR Scanner <img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="30"/></a>
+            <a href="https://github.com/potatoscript/XQR-Scanner" target="_blank">QR Scanner <img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="25"/></a>
             <p> Scan & manage QR codes.</p>
           </td>
         </tr>
         <tr>
           <td><a href="https://youtu.be/StOMRz5UMhk?si=UyT4rdag-P9pY5EB" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/youtube.png" alt="YouTube" width="25"/></a></td>
           <td>
-            <a href="https://github.com/potatoscript/Ali-Adventure-Android-Game" target="_blank">Puzzle Game <img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="30"/></a>
+            <a href="https://github.com/potatoscript/Ali-Adventure-Android-Game" target="_blank">Puzzle Game <img src="https://github.com/potatoscript/MyDocuments/blob/main/android.png" alt="Android" width="25"/></a>
             <div style="font-size:smaller;">Challenging Android puzzle game.</div>
           </td>
         </tr>
