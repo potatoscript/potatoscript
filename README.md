@@ -212,6 +212,7 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           <td><a href="https://hub.docker.com/r/potatodockerhub/convertimagebase64" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/docker.png" alt="Potato DockerHub" width="30"/></a></td>
           <td>
             <a href="https://github.com/potatoscript/ConvertImageToBase64" target="_blank">C# ConvertImageBase64</a>
+            <img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD_icon2.png" width="25" height="25">
             <div style="font-size:smaller;">Convert Image to Base64 from the Command Line</div>
           </td>
         </tr>
@@ -419,7 +420,7 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/docker.png" width="20" height="20"> Docker
       </a><br>
       <a href="https://github.com/potatoscript/CICD" target="_blank">
-        <img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD_icon2.png" width="20" height="20"> CICD (GitHub Action)
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD_icon2.png" width="25" height="25"> CICD (GitHub Action)
       </a><br>
       <a href="https://github.com/potatoscript/git/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/git.png" width="20" height="20"> Git
