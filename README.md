@@ -267,12 +267,11 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           </td>
         </tr>
         <tr>
-          <td><br><br></td>
+          <td><a href="https://github.com/potatoscript/websocket" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/WebSocket.png" alt="WebSocket" width="30"/></a>
+          </td>
           <td>
-            <a href="#" target="_blank"></a>
-            <a href="#" target="_blank">
-            </a>
-            <div style="font-size:smaller;"></div>
+            <a href="https://github.com/potatoscript/websocket" target="_blank">WebSocket Project</a>
+            <div style="font-size:smaller;">WebSocket and REST API with cloud database integration.</div>
           </td>
         </tr>
       </table>
