@@ -14,7 +14,7 @@ My journey into software development began during my final year at university, w
 ## 💼 From Engineering to Automation and Software ⚙️🛠️ → 🧠💻  
 
 <details>
-  <summary>🥔（Click to continue reading）👇📖</summary> 
+  <summary><strong>✨🥔【Click to continue reading】📖 👉続きを読むにはココをクリック...</strong></summary>
   <br>
 
 After graduation, I started my career in **Singapore** as an **Oilseal Product Designer & Production Engineer**, designing components, tooling, and production workflows. I quickly realized the potential of software to streamline processes, so I built an internal **Production Information Management System**, dramatically improving efficiency on the shop floor.
