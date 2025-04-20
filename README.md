@@ -243,10 +243,10 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
       <b>💻 Web Applications</b>
       <table style="width:100%; border-collapse:collapse;">
         <tr>
-          <td><a href="https://potatoscript.github.io/ReactMastery/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="React" width="30"/></a></td>
+          <td><a href="https://potatoscript.github.io/JavaWebAuth/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="React" width="30"/></a></td>
           <td>
-            <a href="https://github.com/potatoscript/ReactMastery" target="_blank">ReactMastery</a>
-            <div style="font-size:smaller;">Advanced React.js demo app.</div>
+            <a href="https://github.com/potatoscript/JavaWebAuth" target="_blank">JavaWebAuth</a>
+            <div style="font-size:smaller;">Simple Java-based web authentication</div>
           </td>
         </tr>
         <tr>
@@ -272,6 +272,13 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           <td>
             <a href="https://github.com/potatoscript/websocket" target="_blank">WebSocket Project</a>
             <div style="font-size:smaller;">WebSocket and REST API with cloud database integration.</div>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://potatoscript.github.io/ReactMastery/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" alt="React" width="30"/></a></td>
+          <td>
+            <a href="https://github.com/potatoscript/ReactMastery" target="_blank">ReactMastery</a>
+            <div style="font-size:smaller;">Advanced React.js demo app.</div>
           </td>
         </tr>
       </table>
