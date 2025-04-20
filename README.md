@@ -237,6 +237,15 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
             <p>JS library for web enhancement.</p>
           </td>
         </tr>
+        <tr>
+          <td><br><br></td>
+          <td>
+            <a href="#" target="_blank"></a>
+            <a href="#" target="_blank">
+            </a>
+            <div style="font-size:smaller;"></div>
+          </td>
+        </tr>
       </table>
     </td>
     <td style="vertical-align:top; width:30%;">
@@ -305,6 +314,15 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           <td>
             <a href="https://github.com/potatoscript/gameboy/wiki" target="_blank">Game Boy Game</a>
             <div style="font-size:smaller;">Retro-style game (in progress).</div>
+          </td>
+        </tr>
+        <tr>
+          <td><br><br></td>
+          <td>
+            <a href="#" target="_blank"></a>
+            <a href="#" target="_blank">
+            </a>
+            <div style="font-size:smaller;"></div>
           </td>
         </tr>
         <tr>
