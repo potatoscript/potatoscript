@@ -246,16 +246,48 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
             <div style="font-size:smaller;"></div>
           </td>
         </tr>
+        <tr>
+          <td><br><br></td>
+          <td>
+            <a href="#" target="_blank"></a>
+            <a href="#" target="_blank">
+            </a>
+            <div style="font-size:smaller;"></div>
+          </td>
+        </tr>
       </table>
     </td>
     <td style="vertical-align:top; width:30%;">
       <b>💻 Web Applications</b>
       <table style="width:100%; border-collapse:collapse;">
         <tr>
-          <td><a href="https://potatoscript.github.io/JavaWebAuth/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="React" width="30"/></a></td>
           <td>
-            <a href="https://github.com/potatoscript/JavaWebAuth" target="_blank">JavaWebAuth</a>
-            <div style="font-size:smaller;">Simple Java-based web authentication</div>
+            <a href="https://potatoscript.github.io/JavaWebAuth/" target="_blank">
+              <img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" alt="Java" width="30"/>
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/potatoscript/JavaWebAuth" target="_blank">JavaWebAuth</a> 🚧 
+            <div style="font-size:smaller; color: gray;">
+              Simple Java-based web authentication — <strong>currently under development</strong>.
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://potatoscript.github.io/node-auth-app/" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/nodejs.png" alt="NodeJS" width="30"/></a></td>
+          <td>
+            <a href="https://github.com/potatoscript/node-auth-app" target="_blank">Node-Auth-App</a>
+            <div style="font-size:smaller;">
+  A Node.js app using an Express server for the backend and JavaScript frontend hosted on GitHub Pages. Updates JSON data automatically via GitHub Actions.
+</div>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://potatoscript.github.io/system-vuejs" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="VueJS" width="30"/></a>
+          </td>
+          <td>
+            <a href="https://github.com/potatoscript/system-vuejs" target="_blank">VueJS + ASP.NET CORE</a>
+            <div style="font-size:smaller;">Full-stack system example.</div>
           </td>
         </tr>
         <tr>
@@ -265,14 +297,6 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           <td>
             <a href="https://github.com/potatoscript/TaskManagementSystem" target="_blank">Task Management System <img src="https://github.com/potatoscript/MyDocuments/blob/main/asp.net.core.png" alt="ASP.NET CORE" width="30"/></a>
             <div style="font-size:smaller;">ASP.NET CORE task manager web app.</div>
-          </td>
-        </tr>
-        <tr>
-          <td><a href="https://potatoscript.github.io/system-vuejs" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" alt="VueJS" width="30"/></a>
-          </td>
-          <td>
-            <a href="https://github.com/potatoscript/system-vuejs" target="_blank">VueJS + ASP.NET CORE</a>
-            <div style="font-size:smaller;">Full-stack system example.</div>
           </td>
         </tr>
         <tr>
@@ -314,6 +338,15 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           <td>
             <a href="https://github.com/potatoscript/gameboy/wiki" target="_blank">Game Boy Game</a>
             <div style="font-size:smaller;">Retro-style game (in progress).</div>
+          </td>
+        </tr>
+        <tr>
+          <td><br><br></td>
+          <td>
+            <a href="#" target="_blank"></a>
+            <a href="#" target="_blank">
+            </a>
+            <div style="font-size:smaller;"></div>
           </td>
         </tr>
         <tr>
