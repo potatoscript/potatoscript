@@ -278,7 +278,7 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           <td>
             <a href="https://github.com/potatoscript/node-auth-app" target="_blank">Node-Auth-App</a>
             <div style="font-size:smaller;">
-  A Node.js app using an Express server for the backend and JavaScript frontend hosted on GitHub Pages. Updates JSON data automatically via GitHub Actions.
+  A Node.js Express server for the backend + JS frontend hosted on GitHub Pages. <br> Updates JSON data automatically via GitHub Actions.
 </div>
           </td>
         </tr>
