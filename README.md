@@ -510,6 +510,8 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" width="20" height="20"> Markdown
       </a><br>
       <br>
+      <br>
+      <br>
     </td>
     <td>
       <a href="https://github.com/potatoscript/asp.net.mvc/wiki" target="_blank">
@@ -527,6 +529,8 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
       <a href="https://github.com/potatoscript/react/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" width="20" height="20"> React.js
       </a><br>
+      <br>
+      <br>
     </td>
     <td>
       <a href="" target="_blank">
@@ -538,6 +542,8 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
       <a href="https://github.com/potatoscript/Japanese" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Japanese_icon_%28for_user_box%29_2.svg/1200px-Japanese_icon_%28for_user_box%29_2.svg.png" width="30" height="30"> 日本語
       </a><br>
+      <br>
+      <br>
       <br>
       <br>
     </td>
@@ -553,8 +559,12 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
       </a><br>
       <br>
       <br>
+      <br>
+      <br>
     </td>
     <td>
+      <a href="https://github.com/potatoscript/curl/wiki" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/curl.png" width="20" height="20"> curl</a><br>
       <a href="https://github.com/potatoscript/dsa/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/big-o.png" width="20" height="20"> Data Structures & Algorithms</a><br>
       <a href="https://github.com/potatoscript/JMeter/wiki" target="_blank">
