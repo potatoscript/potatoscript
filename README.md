@@ -209,11 +209,10 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
       <b>📚 Libraries</b>
       <table style="width:100%; border-collapse:collapse;">
         <tr>
-          <td><a href="https://hub.docker.com/r/potatodockerhub/convertimagebase64" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/docker.png" alt="Potato DockerHub" width="30"/></a></td>
+          <td><a href="https://www.nuget.org/packages/Potato.NET.SQLite" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/nuget.png" alt="Potato Nuget" width="30"/></a></td>
           <td>
-            <a href="https://github.com/potatoscript/ConvertImageToBase64" target="_blank">C# ConvertImageBase64</a>
-            <a href="https://github.com/potatoscript/ConvertImageToBase64/actions/runs/14504999689/job/40692661468" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD_icon2.png" width="25" height="25"></a>
-            <div style="font-size:smaller;">Convert Image to Base64 from the Command Line</div>
+            <a href="https://github.com/potatoscript/Potato.NET.SQLite" target="_blank">C# .NET SQLite DBHelper</a>
+            <div style="font-size:smaller;">Simplify database connectivity in .NET applications</div>
           </td>
         </tr>
         <tr>
@@ -221,6 +220,14 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           <td>
             <a href="https://github.com/potatoscript/PotatoSQLite" target="_blank">C# SQLite DBHelper</a>
             <div style="font-size:smaller;">Simplifies SQLite DB operations in C#.</div>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://hub.docker.com/r/potatodockerhub/convertimagebase64" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/docker.png" alt="Potato DockerHub" width="30"/></a></td>
+          <td>
+            <a href="https://github.com/potatoscript/ConvertImageToBase64" target="_blank">C# ConvertImageBase64</a>
+            <a href="https://github.com/potatoscript/ConvertImageToBase64/actions/runs/14504999689/job/40692661468" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/CICD_icon2.png" width="25" height="25"></a>
+            <div style="font-size:smaller;">Convert Image to Base64 from the Command Line</div>
           </td>
         </tr>
         <tr>
@@ -235,15 +242,6 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           <td>
             <a href="https://github.com/potatoscript/potatojs" target="_blank">potatoscript.js</a>
             <p>JS library for web enhancement.</p>
-          </td>
-        </tr>
-        <tr>
-          <td><br><br></td>
-          <td>
-            <a href="#" target="_blank"></a>
-            <a href="#" target="_blank">
-            </a>
-            <div style="font-size:smaller;"></div>
           </td>
         </tr>
         <tr>
