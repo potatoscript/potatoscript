@@ -468,6 +468,9 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
       <a href="https://github.com/potatoscript/server/wiki" target="_blank">
         <img src="https://github.com/potatoscript/MyDocuments/blob/main/IIS.png" width="20" height="20"> IIS
       </a><br>
+      <a href="https://github.com/potatoscript/AWS/wiki" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/docker.png" width="20" height="20"> AWS
+      </a><br>
       <a href="https://github.com/potatoscript/Azure/wiki" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="20" height="20"> Azure
       </a><br>
