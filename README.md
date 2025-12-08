@@ -1,6 +1,6 @@
 # <img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif" width="50px"> **～Hi**, I’m PotatoScript the Full-Stack System Developer 
 
-<span style="color:blue;"><strong>🚀 **CURRENT PROJECT: Building a Completely Offline, Free Local AI Chatbot (Streamlit + GPT4All + Local RAG)**</strong></span>
+<span style="color:blue;"><strong>🚀 CURRENT PROJECT: <a href="https://github.com/potatoscript/PotatoGPT" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/chatbot.png" alt="local gpt" width="25"/>Building a Completely Offline, Free Local AI Chatbot (Streamlit + GPT4All + Local RAG)</a></strong></span>
 
 <span style="color:blue;">With <strong>15+ years of experience</strong> in <strong>full-stack development</strong>, I specialize in <strong>automating processes</strong>, optimizing workflows, and have a strong expertise in <strong>backend databases</strong>. I’m skilled in <strong>CICD setup</strong>, web and desktop applications, and combining <strong>engineering precision</strong> with <strong>programming creativity</strong>. I hold a <strong>First-Class Honours in Mechanical Engineering</strong> from <strong>Coventry University (UK)</strong>.</span>
 
