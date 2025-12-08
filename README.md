@@ -1,5 +1,7 @@
 # <img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif" width="50px"> **～Hi**, I’m PotatoScript the Full-Stack System Developer 
 
+<span style="color:blue;"><strong>🚀 **CURRENT PROJECT: Building a Completely Offline, Free Local AI Chatbot (Streamlit + GPT4All + Local RAG)**</strong></span>
+
 <span style="color:blue;">With <strong>15+ years of experience</strong> in <strong>full-stack development</strong>, I specialize in <strong>automating processes</strong>, optimizing workflows, and have a strong expertise in <strong>backend databases</strong>. I’m skilled in <strong>CICD setup</strong>, web and desktop applications, and combining <strong>engineering precision</strong> with <strong>programming creativity</strong>. I hold a <strong>First-Class Honours in Mechanical Engineering</strong> from <strong>Coventry University (UK)</strong>.</span>
 
 
@@ -209,6 +211,13 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
       <b>📚 Libraries</b>
       <table style="width:100%; border-collapse:collapse;">
         <tr>
+          <td><a href="https://github.com/potatoscript/PotatoGPT" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/chatbot.png" alt="local gpt" width="35"/></a></td>
+          <td>
+            <a href="https://github.com/potatoscript/PotatoGPT" target="_blank">PotatoGPT</a>
+            <p>Local AI chatbot powered by GPT4All.</p>
+          </td>
+        </tr>
+        <tr>
           <td><a href="https://www.nuget.org/packages/Potato.NET.SQLite" target="_blank"><img src="https://github.com/potatoscript/MyDocuments/blob/main/nuget.png" alt="Potato Nuget" width="30"/></a></td>
           <td>
             <a href="https://github.com/potatoscript/Potato.NET.SQLite" target="_blank">C# .NET SQLite DBHelper</a>
@@ -242,15 +251,6 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
           <td>
             <a href="https://github.com/potatoscript/potatojs" target="_blank">potatoscript.js</a>
             <p>JS library for web enhancement.</p>
-          </td>
-        </tr>
-        <tr>
-          <td><br><br></td>
-          <td>
-            <a href="#" target="_blank"></a>
-            <a href="#" target="_blank">
-            </a>
-            <div style="font-size:smaller;"></div>
           </td>
         </tr>
       </table>
