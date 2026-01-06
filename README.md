@@ -182,8 +182,9 @@ Webおよびデスクトップアプリケーションの開発に**15年以上�
 ---
 
 </details>
-
+<!--
 (*or refer to my <strong>📝 Resume / CV @</strong> [日本語版](https://potatoscript.github.io/resume-japanese/) ||  [ENGLISH](https://potatoscript.github.io/resume-english/)*)
+-->
 
 ---
 
