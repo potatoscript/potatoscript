@@ -1,3 +1,131 @@
-<html>
-Hello Potato
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>PotatoScript Portfolio</title>
+
+<!-- GitHub Markdown Style -->
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown-dark.min.css">
+
+<!-- AOS Animation Library -->
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+body{
+  background:#0d1117;
+  font-family:Poppins, sans-serif;
+}
+
+.markdown-body{
+  max-width:1100px;
+  margin:auto;
+  padding:40px 20px;
+  line-height:1.7;
+}
+
+/* Smooth hover effects */
+img{
+  transition:0.3s;
+}
+img:hover{
+  transform:scale(1.05);
+}
+
+/* Card style sections */
+.card{
+  background:#161b22;
+  padding:25px;
+  border-radius:14px;
+  margin:30px 0;
+  box-shadow:0 0 20px rgba(0,0,0,0.4);
+}
+
+/* Fancy gradient title */
+.hero{
+  text-align:center;
+  font-size:40px;
+  font-weight:700;
+  background:linear-gradient(90deg,#58a6ff,#3fb950);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  margin-bottom:30px;
+}
+</style>
+</head>
+
+<body>
+
+<article class="markdown-body">
+
+<h1 class="hero" data-aos="fade-down">
+🥔 PotatoScript Portfolio
+</h1>
+
+<!-- ===== START YOUR README CONTENT ===== -->
+<!-- Paste your README content BELOW this line -->
+
+<div class="card" data-aos="fade-up">
+
+<h2>
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif" width="50">
+Hi, I’m PotatoScript
+</h2>
+
+<p>
+Full-Stack System Developer with 15+ years experience in automation,
+databases, CI/CD and scalable systems.
+</p>
+
+</div>
+
+
+<div class="card" data-aos="fade-right">
+<h2>🚀 Current Project</h2>
+
+<a href="https://github.com/potatoscript/PotatoGPT" target="_blank">
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/chatbot.png" width="40">
+PotatoGPT — Offline AI Chatbot
+</a>
+
+</div>
+
+
+<div class="card" data-aos="fade-left">
+<h2>🧠 Leadership</h2>
+
+<a href="https://potatoscript.github.io/potato-leadership/" target="_blank">
+Potato Leadership for Engineers
+</a>
+
+</div>
+
+
+<!-- Example animated image -->
+<div class="card" data-aos="zoom-in">
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" width="100%">
+</div>
+
+
+<!-- ===== You can continue pasting the rest of your README here ===== -->
+
+
+</article>
+
+<!-- AOS Script -->
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+
+<script>
+AOS.init({
+  duration:1000,
+  once:true
+});
+</script>
+
+</body>
 </html>
