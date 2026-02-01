@@ -1,0 +1,133 @@
+/* ===== GLOBAL ===== */
+body{
+  margin:0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background:linear-gradient(135deg,#f8fafc,#eef2ff);
+  color:#1f2933;
+  line-height:1.7;
+}
+
+/* ===== CONTAINER ===== */
+.container{
+  max-width:1100px;
+  margin:auto;
+  padding:40px 20px;
+}
+
+/* ===== GLASS CARD ===== */
+section{
+  background:rgba(255,255,255,0.7);
+  backdrop-filter:blur(14px);
+  padding:35px;
+  margin-bottom:40px;
+  border-radius:18px;
+  border:1px solid rgba(255,255,255,0.4);
+  box-shadow:0 10px 30px rgba(0,0,0,0.08);
+  transition:all .35s ease;
+}
+
+section:hover{
+  transform:translateY(-6px);
+  box-shadow:0 18px 40px rgba(0,0,0,0.12);
+}
+
+/* ===== HEADINGS ===== */
+h1,h2,h3{
+  background:linear-gradient(90deg,#2563eb,#7c3aed);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+}
+
+/* ===== LINKS ===== */
+a{
+  color:#2563eb;
+  text-decoration:none;
+  position:relative;
+}
+
+a::after{
+  content:"";
+  position:absolute;
+  width:0;
+  height:2px;
+  left:0;
+  bottom:-3px;
+  background:linear-gradient(90deg,#2563eb,#7c3aed);
+  transition:.3s;
+}
+
+a:hover::after{
+  width:100%;
+}
+
+/* ===== TABLE ===== */
+table{
+  width:100%;
+  border-collapse:collapse;
+  background:white;
+  border-radius:12px;
+  overflow:hidden;
+}
+
+td,th{
+  padding:14px;
+  border-bottom:1px solid #e5e7eb;
+}
+
+tr:hover{
+  background:#f9fafb;
+  transition:.2s;
+}
+
+/* ===== BUTTON STYLE ===== */
+.btn{
+  display:inline-block;
+  padding:12px 22px;
+  border-radius:10px;
+  background:linear-gradient(90deg,#2563eb,#7c3aed);
+  color:white;
+  font-weight:600;
+  transition:.3s;
+}
+
+.btn:hover{
+  transform:scale(1.05);
+  box-shadow:0 10px 20px rgba(0,0,0,0.15);
+}
+
+/* ===== IMAGE HOVER ===== */
+img{
+  max-width:100%;
+  border-radius:12px;
+  transition:.4s;
+}
+
+img:hover{
+  transform:scale(1.05);
+}
+
+/* ===== LIST ===== */
+ul li{
+  margin:8px 0;
+  transition:.2s;
+}
+
+ul li:hover{
+  transform:translateX(6px);
+  color:#2563eb;
+}
+
+/* ===== CENTER ===== */
+.center{text-align:center;}
+
+/* ===== FADE IN ANIMATION ===== */
+.reveal{
+  opacity:0;
+  transform:translateY(40px);
+  transition:1s;
+}
+
+.reveal.active{
+  opacity:1;
+  transform:translateY(0);
+}
