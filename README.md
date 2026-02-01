@@ -1,8 +1,7 @@
 # <img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif" width="50px"> **～Hi**, I’m PotatoScript the Full-Stack System Developer 
 
-# 🌍 My Portfolio Website
 
-[![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-000?style=for-the-badge)](https://potatoscript.github.io)
+[![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-000?style=for-the-badge)](https://potatoscript.github.io/potatoscript/)
 
 
 <span style="color:blue;"><strong>🚀 CURRENT PROJECT: 
