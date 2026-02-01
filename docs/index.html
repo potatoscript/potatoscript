@@ -6,6 +6,45 @@
 
 <title>PotatoScript Portfolio</title>
 
+<!-- Light mode -->
+<link rel="icon" href="/favicon-light.png" media="(prefers-color-scheme: light)">
+
+<!-- Dark mode -->
+<link rel="icon" href="/favicon-dark.png" media="(prefers-color-scheme: dark)">
+
+
+<link rel="icon" id="favicon">
+
+<script>
+const favicon = document.getElementById("favicon");
+const canvas = document.createElement("canvas");
+const ctx = canvas.getContext("2d");
+
+canvas.width = 64;
+canvas.height = 64;
+
+let angle = 0;
+
+function draw() {
+  ctx.clearRect(0,0,64,64);
+  ctx.save();
+  ctx.translate(32,32);
+  ctx.rotate(angle);
+  ctx.font = "40px serif";
+  ctx.textAlign="center";
+  ctx.textBaseline="middle";
+  ctx.fillText("🥔",0,0);
+  ctx.restore();
+
+  favicon.href = canvas.toDataURL();
+  angle += 0.05;
+}
+
+setInterval(draw, 50);
+</script>
+
+
+
 <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
 <link href="style.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -25,7 +64,7 @@
 </h1>
 
 <p>
-<strong>🚀 CURRENT PROJECT:</strong><br>
+<h3>📦 CURRENT PROJECT:</h3>
 <a href="https://github.com/potatoscript/PotatoGPT" target="_blank">
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/chatbot.png?raw=true" width="25">
 Building a Completely Offline, Free Local AI Chatbot (Streamlit + GPT4All + Local RAG)
@@ -33,16 +72,18 @@ Building a Completely Offline, Free Local AI Chatbot (Streamlit + GPT4All + Loca
 </p>
 
 <p>
-<strong>🧠 LEADERSHIP & ENGINEERING PRACTICES:</strong><br>
+<h3>👩‍💼 LEADERSHIP & ENGINEERING PRACTICES:</h3>
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/chatbot.png?raw=true" width="25">
 <a href="https://potatoscript.github.io/potato-leadership/" target="_blank">
 Potato Leadership – Practical Leadership Tutorials for Engineers & Tech Leads
 </a>
 </p>
 
 <p>
-With <strong>15+ years of experience</strong> in full-stack development,
-automation, backend databases, CI/CD, and scalable systems.
-First-Class Honours in Mechanical Engineering (Coventry University UK).
+With over <strong>10+ years of experience</strong> in full-stack development, <br>
+I specialize in automating processes, optimizing workflows, and have strong expertise in backend databases.<br> 
+I’m skilled in CI/CD setup, web and desktop applications, and combining engineering precision with programming creativity.<br> 
+I hold a First-Class Honours in Mechanical Engineering (<a href="https://www.coventry.ac.uk/" target="_blank">Coventry University UK</a>).
 </p>
 
 </section>
@@ -50,7 +91,7 @@ First-Class Honours in Mechanical Engineering (Coventry University UK).
 <!-- STORY -->
 <section data-aos="fade-up">
 
-<h2>🔧 Where It All Began</h2>
+<h2>🌱   Where It All Began</h2>
 
 <p>
 My journey started by building a MATLAB vibration analysis tool

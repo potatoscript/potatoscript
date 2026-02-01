@@ -1,8 +1,8 @@
 /* ===== GLOBAL ===== */
 body{
   margin:0;
-  font-family: "Segoe UI", system-ui, sans-serif;
-  background:linear-gradient(135deg,#f8fafc,#eef2ff);
+  font-family:"Segoe UI", system-ui, sans-serif;
+  background:linear-gradient(135deg,#f8faf9,#edf7f1);
   color:#1f2933;
   line-height:1.7;
 }
@@ -16,48 +16,88 @@ body{
 
 /* ===== GLASS CARD ===== */
 section{
-  background:rgba(255,255,255,0.7);
-  backdrop-filter:blur(14px);
+  background:linear-gradient(
+    145deg,
+    rgba(243, 246, 245, 0.7),
+    rgba(183, 201, 193, 0.7)
+  );
+
+  backdrop-filter:blur(18px);
+  border-radius:18px;
   padding:35px;
   margin-bottom:40px;
-  border-radius:18px;
-  border:1px solid rgba(255,255,255,0.4);
-  box-shadow:0 10px 30px rgba(0,0,0,0.08);
-  transition:all .35s ease;
+
+  border:1px solid rgba(255,255,255,0.5);
+
+  box-shadow:
+    0 20px 40px rgba(0,0,0,0.06);
+
+  transition:.35s;
 }
+
 
 section:hover{
   transform:translateY(-6px);
   box-shadow:0 18px 40px rgba(0,0,0,0.12);
 }
 
-/* ===== HEADINGS ===== */
+/* ===== HEADINGS (Deep Green Gradient) ===== */
 h1,h2,h3{
-  background:linear-gradient(90deg,#2563eb,#7c3aed);
+  background:linear-gradient(90deg,#065f46,#047857);
   -webkit-background-clip:text;
   -webkit-text-fill-color:transparent;
+  font-weight:700;
 }
 
-/* ===== LINKS ===== */
+/* ===== LINKS (Background Fill Animation) ===== */
 a{
-  color:#2563eb;
+  color:#3d468e;
   text-decoration:none;
   position:relative;
+  font-weight:500;
+  padding:2px 4px;
+  border-radius:7px;
+  z-index:1;
 }
 
+/* animated background layer */
+a::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:rgba(16,185,129,0.15);
+  backdrop-filter:blur(4px);
+  border-radius:6px;
+  z-index:-1;
+
+  transform:scaleX(0);
+  transform-origin:left;
+  transition:.25s;
+}
+
+/* hover effect */
+a:hover::before{
+  transform:scaleX(1);
+}
+/* ACCENT BAR */
 a::after{
   content:"";
   position:absolute;
-  width:0;
-  height:2px;
-  left:0;
-  bottom:-3px;
-  background:linear-gradient(90deg,#2563eb,#7c3aed);
-  transition:.3s;
+  left:8px;
+  bottom:2px;
+  height:1px;
+  width:0%;
+  background:linear-gradient(90deg,#10b981,#059669);
+  border-radius:3px;
+  transition:.15s ease;
 }
 
 a:hover::after{
-  width:100%;
+  width:97%;
+}
+/* SOFT GLOW PULSE */
+a:hover{
+  box-shadow:0 0 8px rgba(134, 134, 129, 0.61);
 }
 
 /* ===== TABLE ===== */
@@ -75,16 +115,15 @@ td,th{
 }
 
 tr:hover{
-  background:#f9fafb;
-  transition:.2s;
+  background:#ecfdf5;
 }
 
-/* ===== BUTTON STYLE ===== */
+/* ===== BUTTON ===== */
 .btn{
   display:inline-block;
   padding:12px 22px;
   border-radius:10px;
-  background:linear-gradient(90deg,#2563eb,#7c3aed);
+  background:linear-gradient(90deg,#065f46,#047857);
   color:white;
   font-weight:600;
   transition:.3s;
@@ -92,10 +131,10 @@ tr:hover{
 
 .btn:hover{
   transform:scale(1.05);
-  box-shadow:0 10px 20px rgba(0,0,0,0.15);
+  box-shadow:0 10px 20px rgba(6,95,70,0.25);
 }
 
-/* ===== IMAGE HOVER ===== */
+/* ===== IMAGE ===== */
 img{
   max-width:100%;
   border-radius:12px;
@@ -114,13 +153,13 @@ ul li{
 
 ul li:hover{
   transform:translateX(6px);
-  color:#2563eb;
+  color:#065f46;
 }
 
 /* ===== CENTER ===== */
 .center{text-align:center;}
 
-/* ===== FADE IN ANIMATION ===== */
+/* ===== FADE IN ===== */
 .reveal{
   opacity:0;
   transform:translateY(40px);
@@ -131,3 +170,4 @@ ul li:hover{
   opacity:1;
   transform:translateY(0);
 }
+
