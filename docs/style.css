@@ -39,6 +39,7 @@ section{
 section:hover{
   transform:translateY(-6px);
   box-shadow:0 18px 40px rgba(0,0,0,0.12);
+  border:1px solid rgba(0, 0, 0, 0.5);
 }
 
 /* ===== HEADINGS (Deep Green Gradient) ===== */
