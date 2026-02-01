@@ -113,6 +113,7 @@ table{
 td,th{
   padding:14px;
   border-bottom:1px solid #e5e7eb;
+  vertical-align: top;
 }
 
 tr:hover{
@@ -200,6 +201,10 @@ ul li:hover{
   font-size:18px;
 }
 
+.project-category :hover{
+  border:1px solid black;
+}
+
 /* ===== ITEM ROW ===== */
 
 .project-item{
@@ -211,6 +216,10 @@ ul li:hover{
   border:1px solid #d1d5db;
   padding:12px;
   margin-top:12px;
+  border-radius:12px;
+}
+.project-item :hover{
+  border:1px solid #ffffff;
 }
 
 .project-item img{
@@ -234,6 +243,7 @@ ul li:hover{
   font-size:14px;
   color:#374151;
 }
+
 
 /* ===== RESPONSIVE ===== */
 
