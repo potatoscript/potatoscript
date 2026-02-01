@@ -3,88 +3,159 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>PotatoScript Portfolio</title>
+
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
 <style>
 body{
-  font-family: Arial, sans-serif;
+  margin:0;
+  font-family:Segoe UI, sans-serif;
   background:#0d1117;
   color:white;
-  line-height:1.6;
-  max-width:1100px;
-  margin:auto;
-  padding:20px;
+  line-height:1.7;
 }
 
-a{color:#58a6ff;}
-h1,h2,h3{color:#58a6ff;}
-hr{border:1px solid #30363d;}
-table{border-collapse:collapse; width:100%;}
-td,th{padding:8px; vertical-align:top;}
-details{background:#161b22; padding:15px; border-radius:8px;}
-section{margin-bottom:40px;}
+.container{
+  max-width:1100px;
+  margin:auto;
+  padding:40px 20px;
+}
+
+section{
+  background:#161b22;
+  padding:30px;
+  margin-bottom:40px;
+  border-radius:12px;
+  box-shadow:0 0 15px rgba(0,0,0,0.4);
+}
+
+h1,h2,h3{
+  color:#58a6ff;
+}
+
+a{
+  color:#58a6ff;
+  text-decoration:none;
+}
+
+a:hover{
+  text-decoration:underline;
+}
+
+table{
+  width:100%;
+  border-collapse:collapse;
+}
+
+td,th{
+  padding:12px;
+  vertical-align:top;
+}
+
+img{
+  max-width:100%;
+}
+
+ul li{
+  margin:6px 0;
+}
+
+.center{
+  text-align:center;
+}
 </style>
 </head>
 
 <body>
 
+<div class="container">
+
+<!-- HEADER -->
+<section data-aos="fade-down">
+
 <h1>
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif" width="50px">
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif" width="50">
 ～Hi, I’m PotatoScript the Full-Stack System Developer
 </h1>
 
-<p style="color:lightblue;"><strong>🚀 CURRENT PROJECT:
+<p>
+<strong>🚀 CURRENT PROJECT:</strong><br>
 <a href="https://github.com/potatoscript/PotatoGPT" target="_blank">
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/chatbot.png" width="25">
 Building a Completely Offline, Free Local AI Chatbot (Streamlit + GPT4All + Local RAG)
-</a></strong></p>
-
-<p style="color:lightgreen;"><strong>🧠 LEADERSHIP & ENGINEERING PRACTICES:
-<a href="https://potatoscript.github.io/potato-leadership/" target="_blank">
-Potato Leadership – Practical Leadership Tutorials
-</a></strong></p>
-
-<p style="color:lightblue;">
-With <strong>15+ years of experience</strong> in full-stack development, automation, backend databases,
-CI/CD setup, and scalable systems. First-Class Honours in Mechanical Engineering
-from Coventry University (UK).
+</a>
 </p>
 
-<hr>
+<p>
+<strong>🧠 LEADERSHIP & ENGINEERING PRACTICES:</strong><br>
+<a href="https://potatoscript.github.io/potato-leadership/" target="_blank">
+Potato Leadership – Practical Leadership Tutorials for Engineers & Tech Leads
+</a>
+</p>
+
+<p>
+With <strong>15+ years of experience</strong> in full-stack development,
+automation, backend databases, CI/CD, and scalable systems.
+First-Class Honours in Mechanical Engineering (Coventry University UK).
+</p>
+
+</section>
+
+<!-- STORY -->
+<section data-aos="fade-up">
 
 <h2>🔧 Where It All Began</h2>
+
 <p>
-My journey began with a MATLAB vibration analysis tool extracting natural
-frequencies and damping from sensor data — blending engineering with software.
+My journey started by building a MATLAB vibration analysis tool
+to extract natural frequencies and damping from sensor data.
+That project bridged engineering and software.
 </p>
 
-<hr>
+</section>
 
-<h2>💼 From Engineering to Automation and Software</h2>
+<!-- EXPERIENCE -->
+<section data-aos="fade-up">
+
+<h2>💼 From Engineering → Automation → Software</h2>
 
 <details>
-<summary><strong>✨🥔 Click to continue reading</strong></summary>
+<summary><strong>✨ Click to expand</strong></summary>
 
 <p>
-Started in Singapore as Oilseal Product Designer & Production Engineer.
-Built Production Information Management System. Thailand assignment strengthened
-automation and machinery collaboration experience.
+Started career in Singapore as Oilseal Product Designer & Production Engineer.
+Built internal Production Information Management System.
+Thailand assignment strengthened automation expertise.
 </p>
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/Design_Engineer_Jobs.png?raw=true" width="600">
 
-<h3>💻 Technical Skill Set</h3>
+</details>
+
+</section>
+
+<!-- SKILLS -->
+<section data-aos="fade-up">
+
+<h2>💻 Technical Skill Set</h2>
 
 <ul>
-<li>Java, C#, Python, JavaScript, PHP, SQL</li>
-<li>HTML, CSS, Vue.js, React.js</li>
-<li>ASP.NET Core, Flask/FastAPI, Node.js</li>
-<li>SQLite, MySQL, PostgreSQL</li>
-<li>Azure, Windows Server (IIS, Apache)</li>
-<li>Git, GitHub, GitLab, CI/CD, Docker</li>
+<li>Languages: Java, C#, Python, JavaScript, PHP, SQL</li>
+<li>Frontend: HTML, CSS, Vue.js, React.js</li>
+<li>Backend: ASP.NET Core, Flask/FastAPI, Node.js</li>
+<li>Databases: SQLite, MySQL, PostgreSQL</li>
+<li>Cloud: Azure, IIS, Apache</li>
+<li>DevOps: Git, GitHub, Docker, CI/CD</li>
 </ul>
 
-<h3>🧠 CAD System Development</h3>
+</section>
+
+<!-- CAD -->
+<section data-aos="fade-up">
+
+<h2>🧠 CAD System Development</h2>
 
 <ul>
 <li>C++ (Open CASCADE)</li>
@@ -96,127 +167,99 @@ automation and machinery collaboration experience.
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" width="600">
 
-<h3>👨‍💻 Developer Mindset</h3>
+</section>
 
-<ul>
-<li>Problem Solver</li>
-<li>Continuous Learner</li>
-<li>Team Collaborator</li>
-</ul>
+<!-- PROJECTS -->
+<section data-aos="fade-up">
 
-</details>
-
-<hr>
-
-<h1>🧩 My Projects</h1>
-
-<!-- (PROJECT TABLE — FULLY PRESERVED) -->
-<!-- Your entire table content below is kept exactly -->
+<h2>🧩 My Projects</h2>
 
 <table>
 <tr>
-<td><b>📚 Libraries</b>
-<table>
-<tr>
-<td><a href="https://github.com/potatoscript/PotatoGPT"><img src="https://github.com/potatoscript/MyDocuments/blob/main/chatbot.png" width="35"></a></td>
-<td><a href="https://github.com/potatoscript/PotatoGPT">PotatoGPT</a><p>Local AI chatbot</p></td>
+<th>📚 Libraries</th>
+<th>💻 Web Applications</th>
+<th>📱 Android & Games</th>
 </tr>
 
-<tr>
-<td><a href="https://www.nuget.org/packages/Potato.NET.SQLite"><img src="https://github.com/potatoscript/MyDocuments/blob/main/nuget.png" width="30"></a></td>
-<td><a href="https://github.com/potatoscript/Potato.NET.SQLite">C# .NET SQLite DBHelper</a></td>
-</tr>
-
-<tr>
-<td><a href="https://pypi.org/project/potatopy/"><img src="https://github.com/potatoscript/MyDocuments/blob/main/pypi.png" width="25"></a></td>
-<td><a href="https://github.com/potatoscript/potatopy">potato.py</a></td>
-</tr>
-
-<tr>
-<td><a href="https://www.npmjs.com/package/potatoscript"><img src="https://github.com/potatoscript/MyDocuments/blob/main/nodejs.png" width="25"></a></td>
-<td><a href="https://github.com/potatoscript/potatojs">potatoscript.js</a></td>
-</tr>
-</table>
-</td>
-
-<td><b>💻 Web Apps</b>
-<ul>
-<li><a href="https://github.com/potatoscript/JavaWebAuth">JavaWebAuth</a></li>
-<li><a href="https://github.com/potatoscript/node-auth-app">Node Auth</a></li>
-<li><a href="https://github.com/potatoscript/system-vuejs">Vue + ASP.NET</a></li>
-<li><a href="https://github.com/potatoscript/ReactMastery">ReactMastery</a></li>
-</ul>
-</td>
-
-<td><b>📱 Android & Games</b>
-<ul>
-<li><a href="https://github.com/potatoscript/XQR-Scanner">QR Scanner</a></li>
-<li><a href="https://github.com/potatoscript/Ali-Adventure-Android-Game">Puzzle Game</a></li>
-<li><a href="https://github.com/potatoscript/gameboy/wiki">Game Boy Game</a></li>
-</ul>
-</td>
-
-</tr>
-</table>
-
-<hr>
-
-<h1>🎯 My Skills</h1>
-
-<p>
-(Your full skills table from above can be pasted here directly —
-it already works as HTML.)
-</p>
-
-<hr>
-
-<h1>🛠 Infrastructure Setup</h1>
-
-<table>
 <tr>
 <td>
-🖥️ <b>Windows Server</b><br>
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/windows_server.png?raw=true" width="450">
+
+<a href="https://github.com/potatoscript/PotatoGPT">PotatoGPT</a><br>
+<a href="https://github.com/potatoscript/Potato.NET.SQLite">Potato.NET.SQLite</a><br>
+<a href="https://github.com/potatoscript/potatopy">potato.py</a><br>
+<a href="https://github.com/potatoscript/potatojs">potatoscript.js</a>
+
 </td>
 
 <td>
-☁️ <b>Azure Cloud</b><br>
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/azure_server.png?raw=true" width="450">
+
+<a href="https://github.com/potatoscript/JavaWebAuth">JavaWebAuth</a><br>
+<a href="https://github.com/potatoscript/node-auth-app">Node Auth App</a><br>
+<a href="https://github.com/potatoscript/system-vuejs">Vue + ASP.NET</a><br>
+<a href="https://github.com/potatoscript/ReactMastery">ReactMastery</a>
+
+</td>
+
+<td>
+
+<a href="https://github.com/potatoscript/XQR-Scanner">QR Scanner</a><br>
+<a href="https://github.com/potatoscript/Ali-Adventure-Android-Game">Puzzle Game</a><br>
+<a href="https://github.com/potatoscript/gameboy/wiki">GameBoy Game</a>
+
 </td>
 </tr>
 </table>
 
-<hr>
+</section>
+
+<!-- INFRA -->
+<section data-aos="fade-up">
+
+<h2>🛠 Infrastructure Setup</h2>
+
+<p>🖥️ Windows Server</p>
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/windows_server.png?raw=true">
+
+<br><br>
+
+<p>☁️ Azure Cloud Server</p>
+<img src="https://github.com/potatoscript/MyDocuments/blob/main/azure_server.png?raw=true">
+
+</section>
+
+<!-- SOCIAL -->
+<section class="center" data-aos="fade-up">
 
 <h3>Connect with me</h3>
 
-<a href="https://www.facebook.com/profile.php?id=100087801420214">Facebook</a><br>
-<a href="https://www.youtube.com/@potatoxcript">YouTube</a>
+<a href="https://www.facebook.com/profile.php?id=100087801420214" target="_blank">Facebook</a><br>
+<a href="https://www.youtube.com/@potatoxcript" target="_blank">YouTube</a>
 
 <br><br>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=potatoscript.potatoscript">
 
-<hr>
+</section>
 
-<h3>💼 My Tech Stack</h3>
+<!-- STATS -->
+<section class="center" data-aos="fade-up">
 
-<p>
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/html5.png" width="40">
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/css3.png" width="40">
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/javascript.png" width="40">
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/react.png" width="40">
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/vue.png" width="40">
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/python.png" width="40">
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/java.png" width="40">
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/docker.png" width="40">
-</p>
-
-<hr>
+<h3>GitHub Stats</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=potatoscript">
-<br>
+
+<br><br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatoscript&langs_count=10">
+
+</section>
+
+</div>
+
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script>
+AOS.init({duration:1000});
+</script>
 
 </body>
 </html>
