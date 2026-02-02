@@ -120,6 +120,10 @@ tr:hover{
   background:#ecfdf5;
 }
 
+.table-skill th{
+  text-align: left;
+}
+
 /* ===== BUTTON ===== */
 .btn{
   display:inline-block;
@@ -255,4 +259,97 @@ ul li:hover{
 
 summary.clickable {
   cursor: pointer;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+
+
+.skills-card {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 30px 40px;
+  border-radius: 16px;
+  width: 420px;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(12px);
+}
+
+.skills-card h2 {
+  text-align: center;
+  margin-bottom: 24px;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+}
+
+.skill {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 14px 0;
+}
+
+.label {
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+
+/* ⭐ Star container */
+.stars {
+  display: inline-flex;
+  gap: 6px;
+  cursor: pointer;
+}
+
+/* ⭐ Base star */
+.stars span {
+  font-size: 0.8rem;
+  color: #cfd5de;
+  transition:
+    color 0.3s ease,
+    transform 0.25s ease,
+    text-shadow 0.3s ease;
+}
+
+/* ⭐ Filled stars based on rating */
+.stars[data-rating="1"] span:nth-child(-n+1),
+.stars[data-rating="2"] span:nth-child(-n+2),
+.stars[data-rating="3"] span:nth-child(-n+3),
+.stars[data-rating="4"] span:nth-child(-n+4),
+.stars[data-rating="5"] span:nth-child(-n+5) {
+  color: #dfa003;
+  text-shadow: 0 0 10px rgba(250, 204, 21, 0.6);
+}
+
+/* ⭐ Hover animation */
+.stars:hover span {
+  color: #f59e0b;
+  transform: scale(1.15);
+}
+
+/* ⭐ Subtle row hover */
+.skill:hover {
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 10px;
+  padding: 6px 10px;
+  transition: background 0.25s ease;
+}
+
+.legend-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 6px 0;
+}
+
+.legend-text {
+  font-size: 0.85rem;
+  opacity: 0.9;
+}
+
+/* Smaller stars for legend */
+.stars.small span {
+  font-size: 0.9rem;
 }
