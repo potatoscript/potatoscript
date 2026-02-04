@@ -353,3 +353,34 @@ summary.clickable {
 .stars.small span {
   font-size: 0.9rem;
 }
+
+
+/* ===== INTRO SCREEN ===== */
+#intro {
+  position: fixed;
+  inset: 0;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  z-index: 9999;
+  animation: fadeOut 1.2s ease forwards;
+  animation-delay: 2.2s;
+}
+
+#intro h1 {
+  font-size: 48px;
+  letter-spacing: 2px;
+  animation: fadeIn 1.5s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity:0; filter: blur(10px);}
+  to { opacity:1; filter: blur(0);}
+}
+
+@keyframes fadeOut {
+  to { opacity:0; filter: blur(8px); visibility:hidden;}
+}

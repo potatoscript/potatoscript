@@ -51,7 +51,31 @@ setInterval(draw, 50);
 
 </head>
 
+
+<script>
+setTimeout(() => {
+  const intro = document.getElementById("intro");
+  if (!intro) return;
+
+  intro.style.opacity = "0";
+
+  setTimeout(() => {
+    intro.remove();
+  }, 2000);
+
+}, 3000);
+</script>
+
+
+
+
 <body>
+
+<div id="intro">
+  <h1><img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif?raw=true" width="50px"> PotatoScript</h1>
+  <p>Initializing Portfolio...</p>
+</div>
+
 
 <div class="container">
 
@@ -310,6 +334,16 @@ C++ (Open CASCADE) と C# WPF を使用し、
 
 <div class="project-category">
 <b>📚 Libraries</b>
+
+<div class="project-item">
+<a href="https://github.com/potatoscript/LeadOps" target="_blank">
+<img src="https://img.icons8.com/fluency/96/dashboard-layout.png">
+</a>
+<div>
+<a href="https://github.com/potatoscript/LeadOps" target="_blank">LeadOps</a>
+<p>GitHub-based leadership & project operations system with automated issue tracking and live dashboard reporting.</p>
+</div>
+</div>
 
 <div class="project-item">
 <a href="https://github.com/potatoscript/PotatoGPT" target="_blank">
