@@ -50,7 +50,6 @@ setInterval(draw, 50);
 
 <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
 <link href="style.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 </head>
 
@@ -116,13 +115,18 @@ I hold a First-Class Honours in Mechanical Engineering (<a href="https://www.cov
 </section>
 
 <!-- STORY -->
-<section data-aos="fade-up">
+<section data-aos="fade-up" style="position:relative;">
+
+<!-- Pie Chart on Right -->
+<div style="width:250px; position:absolute; right:20px; top:40px;">
+  <canvas id="expChart"></canvas>
+</div>
 
 <h2>💼 From Engineering⚙️ → Automation🤖 → Software💻</h2>  
 <h3>🌱   Where It All Began</h2>
 
 <p>
-My journey started by building a <a href="https://www.mathworks.com/products/matlab.html" target="_blank">MATLAB</a> vibration analysis tool
+My journey started by building a <a href="https://www.mathworks.com/products/matlab.html" target="_blank">MATLAB</a> vibration analysis tool<br>
 to extract natural frequencies and damping from sensor data.<br>
 That project bridged engineering and software.
 </p>
@@ -1049,6 +1053,8 @@ C++ (Open CASCADE) と C# WPF を使用し、
 </div>
 
 <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
 <script src="script.js"></script>
 <script>
 AOS.init({duration:1000});

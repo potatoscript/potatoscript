@@ -1,3 +1,53 @@
+document.addEventListener("DOMContentLoaded", function(){
+
+  const ctx = document.getElementById('expChart');
+  if(!ctx) return;
+
+  new Chart(ctx, {
+    type: 'pie',
+    data: {
+      labels: ['Eng', 'Auto', 'Soft'], // shorter legend text
+      datasets: [{
+        data: [30,10,60],
+        backgroundColor: [
+          '#2c678e',
+          '#5298b3',
+          '#72a579'
+        ]
+      }]
+    },
+
+    options: {
+      responsive:true,
+
+      plugins:{
+        legend:{
+          position:'bottom',
+          labels: {
+            boxWidth: 12,
+            boxHeight: 12   // ← makes it square
+          }
+        },
+
+        datalabels:{
+          color:'#fff',
+          font:{
+            weight:'bold',
+            size:14
+          },
+          formatter:(value)=> value + "%"
+        }
+      }
+    },
+
+    plugins:[ChartDataLabels]
+  });
+
+});
+
+
+
+
 function reveal(){
   document.querySelectorAll(".reveal").forEach(el=>{
     let top = el.getBoundingClientRect().top;

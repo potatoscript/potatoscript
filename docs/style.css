@@ -197,8 +197,9 @@ ul li:hover{
 
 .project-category{
   border:1px solid #d1d5db;
-  background:#f9fafb;
+  background:#e8f7e9;
   padding:15px;
+  border-radius: 10px;
 }
 
 .project-category b{
@@ -433,7 +434,7 @@ summary.clickable {
 .project-item .back {
   padding: 10px;
   transform: rotateY(180deg);
-  background: linear-gradient(135deg,#687863,#515c50);
+  background: linear-gradient(135deg,#869283,#788278);
 }
 
 /* Image */
