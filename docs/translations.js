@@ -8,7 +8,7 @@ const translations = {
     langBtn: "🇯🇵 日本語",
 
     // ===== HEADER =====
-    heroTitle: "～Hi, I’m PotatoScript the Full-Stack System Developer",
+    heroTitle: "Hi, I’m PotatoScript the Full-Stack System Developer",
 
     profTitle: "🧠 Engineer by Training, Full-Stack Developer by Profession",
 
@@ -112,7 +112,7 @@ Passionate about continuous learning and actively exploring emerging technologie
     initText: "ポートフォリオを初期化中...",
     langBtn: "🇺🇸 English",
 
-    heroTitle: "～こんにちは、フルスタック開発者のPotatoScriptです",
+    heroTitle: "こんにちは、フルスタック開発者のPotatoScriptです",
 
     profTitle: "🧠 工学出身・フルスタック開発者",
 

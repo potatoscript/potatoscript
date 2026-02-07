@@ -65,6 +65,7 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       options: {
         responsive: true,
+        maintainAspectRatio: false, // allow height to adjust
         plugins: {
           legend: {
             position: 'bottom',
@@ -96,18 +97,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
   reveals.forEach(el => observer.observe(el));
 
-  /* =========================
-     LANGUAGE TOGGLE
-  ========================= */
-  const elements = document.querySelectorAll("[data-i18n]");
-  const toggleBtn = document.getElementById("langToggle");
+/* =========================
+   LANGUAGE TOGGLE
+    ========================= */
+    const elements = document.querySelectorAll("[data-i18n]");
+  const toggleInput = document.getElementById("langToggle"); // checkbox
 
-  // Default language
-  let currentLang = localStorage.getItem("lang") || (navigator.language.startsWith("ja") ? "jp" : "en");
+  // Default language: English if nothing saved
+  let currentLang = localStorage.getItem("lang") || "en";
 
-  // Apply translations to page
   function applyLanguage(lang) {
-    // Update all data-i18n elements
+    // Update page text
     elements.forEach(el => {
       const key = el.dataset.i18n;
       if (translations[lang]?.[key]) {
@@ -115,24 +115,26 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
 
-    // Update toggle button text to show the OTHER language
-    if (toggleBtn) {
-      toggleBtn.innerHTML = lang === "en" ? translations["jp"].langBtn : translations["en"].langBtn;
+    // Sync checkbox state: checked = JP, unchecked = EN
+    if (toggleInput) {
+      toggleInput.checked = lang === "jp";
     }
 
     // Save selected language
     localStorage.setItem("lang", lang);
   }
 
-  // Button click: toggle language
-  if (toggleBtn) {
-    toggleBtn.addEventListener("click", () => {
-      currentLang = currentLang === "en" ? "jp" : "en";
+  // Initialize page
+  applyLanguage(currentLang);
+
+  // Toggle event
+  if (toggleInput) {
+    toggleInput.addEventListener("change", () => {
+      currentLang = toggleInput.checked ? "jp" : "en"; // checkbox = JP
       applyLanguage(currentLang);
     });
   }
 
-  // Initialize page with current language
-  applyLanguage(currentLang);
+
 
 });
