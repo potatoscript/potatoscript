@@ -37,18 +37,23 @@ Passionate about continuous learning and actively exploring emerging technologie
     storyTitle: "💼 From Engineering → Automation → Software",
     storyStart: "🌱 Where It All Began",
 
-    storyIntro: `My journey started by building a MATLAB vibration analysis tool to extract natural frequencies and damping from sensor data. That project bridged engineering and software.`,
+    storyIntro: `My journey started by building a <a href="https://www.mathworks.com/products/matlab.html" target="_blank">MATLAB</a> vibration analysis tool<br>
+                  to extract natural frequencies and damping from sensor data.<br>
+                  That project bridged engineering and software.`,
 
-    readMore: "Click to continue reading",
+    readMore: `<strong>✨👉【Click to continue...】👈</strong>`,
 
-    storySG: `After graduating, I began my career in Singapore as an Oil Seal Product Designer & Production Engineer, handling design, tooling, and workflows.`,
+    storySG: `After graduating, I began my career in <b>Singapore</b> as an 
+              <b>Oil Seal Product Designer & Production Engineer</b>, where I was responsible for component design, tooling development, and production workflow optimization.
+              `,
 
-    storySystem: `I built an internal Production Information Management System to improve efficiency and traceability.`,
+    storySoftware: `Recognizing the transformative potential of software in manufacturing, I independently developed an internal <b>Production Information Management System</b> that significantly improved shop-floor efficiency, traceability, and data visibility.`,
+    
+    storyThailand: `During a three-year assignment at the <b>Thailand branch</b>, I expanded my expertise in industrial automation by leading cost-reduction initiatives and collaborating with vendors to design and deploy custom production machinery.`,
+    
+    storyExperience: `These experiences built a strong foundation in both physical systems and digital transformation — enabling me to bridge engineering and software with practical, results-driven solutions.`,
 
-    storyTH: `During my Thailand assignment, I led automation and cost-reduction projects.`,
-
-    storyBridge: `These experiences allowed me to bridge physical systems and digital transformation.`,
-
+    
     // ===== SKILLS SUMMARY =====
     techSkills: "💻 Technical Skill Set",
     progLang: "Programming Languages",
@@ -57,6 +62,12 @@ Passionate about continuous learning and actively exploring emerging technologie
     databases: "Databases",
     cloud: "Cloud & Infrastructure",
     devops: "DevOps & Collaboration",
+    skillSet: `<li>🧠 <b>Programming Languages:</b> Java, C#, Python, JavaScript, PHP, SQL</li>
+  <li>🎨 <b>Frontend:</b> HTML, CSS, Vue.js, React.js</li>
+  <li>🛠️ <b>Backend:</b> ASP.NET Core, Flask/FastAPI, Node.js</li>
+  <li>🗄️ <b>Databases:</b> SQLite, MySQL, PostgreSQL</li>
+  <li>☁️ <b>Cloud & Infrastructure:</b> Microsoft Azure, Windows Server (IIS, Apache)</li>
+  <li>🔄 <b>DevOps & Collaboration:</b> Git, GitHub, GitLab, SharePoint, CI/CD, Docker</li>`,
 
     // ===== PROJECT HIGHLIGHTS =====
     keyProjects: "🚀 Key Projects",
@@ -139,17 +150,22 @@ CI/CDパイプライン、システム統合、アプリケーションのライ
     storyTitle: "💼 エンジニア → 自動化 → ソフトウェア",
     storyStart: "🌱 原点",
 
-    storyIntro: `MATLAB振動解析ツール開発がキャリアの始まりでした。`,
+    storyIntro: `私のキャリアは、<a href="https://www.mathworks.com/products/matlab.html" target="_blank">MATLAB</a> を使った振動解析ツールの開発から始まりました。<br>
+センサーから得られたデータをもとに、固有振動数や減衰を抽出するツールです。<br>
+このプロジェクトを通じて、エンジニアリングとソフトウェアの橋渡しを経験しました。`,
 
-    readMore: "続きを読む",
 
-    storySG: "シンガポールで設計・生産エンジニアとしてキャリア開始。",
+    readMore: `<strong>✨👉【続きを読む...】👈</strong>`,
 
-    storySystem: "社内生産管理システムを独自開発。",
+    storySG: `卒業後、<b>シンガポール</b>でキャリアをスタートし、<b>オイルシール製品デザイナー兼生産エンジニア</b>として勤務しました。<br>
+              この職務では、部品設計、治具開発、そして生産フローの最適化を担当しました。`,
 
-    storyTH: "タイ拠点で自動化・コスト削減を推進。",
+    storySoftware: `製造業におけるソフトウェアの変革力を認識し、私は独自に社内の<b>生産情報管理システム</b>を開発しました。これにより、現場の効率、トレーサビリティ、データの可視化が大幅に向上しました。`,
+    
+    storyThailand: `3年間の<b>タイ支社</b>での勤務期間中、コスト削減プロジェクトを主導し、ベンダーと協力してカスタム生産機械の設計・導入を行うことで、産業用自動化の専門知識をさらに深めました。`,
+    
+    storyExperience: `これらの経験により、物理システムとデジタルトランスフォーメーションの両方に強固な基盤が築かれ、エンジニアリングとソフトウェアを実務的かつ成果志向で橋渡しできるようになりました。`,
 
-    storyBridge: "物理システムとデジタル変革を橋渡しする経験。",
 
     techSkills: "💻 技術スキル",
     progLang: "プログラミング言語",
@@ -158,6 +174,12 @@ CI/CDパイプライン、システム統合、アプリケーションのライ
     databases: "データベース",
     cloud: "クラウド",
     devops: "DevOps",
+    skillSet: `<li>🧠 <b>プログラミング言語:</b> Java, C#, Python, JavaScript, PHP, SQL</li>
+  <li>🎨 <b>フロントエンド:</b> HTML, CSS, Vue.js, React.js</li>
+  <li>🛠️ <b>バックエンド:</b> ASP.NET Core, Flask/FastAPI, Node.js</li>
+  <li>🗄️ <b>データベース:</b> SQLite, MySQL, PostgreSQL</li>
+  <li>☁️ <b>クラウド & インフラ:</b> Microsoft Azure, Windows Server (IIS, Apache)</li>
+  <li>🔄 <b>DevOps & コラボレーション:</b> Git, GitHub, GitLab, SharePoint, CI/CD, Docker</li>`,
 
     keyProjects: "🚀 主なプロジェクト",
 
