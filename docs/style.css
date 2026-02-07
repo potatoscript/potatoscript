@@ -49,6 +49,10 @@ h1,h2,h3{
   -webkit-text-fill-color:transparent;
   font-weight:700;
 }
+h3 a {
+  -webkit-text-fill-color: initial; /* or a specific color */
+  color: #2563eb; /* fallback */
+}
 
 /* ===== LINKS (Background Fill Animation) ===== */
 a{
@@ -149,6 +153,29 @@ img{
 
 img:hover{
   transform:scale(1.05);
+}
+
+.zoom-hover-left, .zoom-hover-right {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 12px;
+  border:1px solid black;
+  padding: 5px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.zoom-hover-left:hover {
+  transform: translate(20%, -20%) scale(1.5);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+  z-index: 10;
+  position: relative;
+}
+
+.zoom-hover-right:hover {
+  transform: translate(-20%, -20%) scale(1.5);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+  z-index: 10;
+  position: relative;
 }
 
 /* ===== LIST ===== */
@@ -456,3 +483,94 @@ summary.clickable {
   color: #ffffff;
   font-weight:700;
 }
+
+.lang-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 9999;
+  display: inline-block;
+  width: 73px;
+  height: 34px;
+  border-radius: 34px; /* match toggle height for fully rounded ends */
+  background-color: #444;
+
+  /* Rounded shadow */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  transition: box-shadow 0.3s;
+}
+
+.lang-toggle:hover {
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.35);
+}
+
+
+
+.lang-toggle input {
+  display: none; /* hide checkbox */
+}
+
+.slider {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: #444;  /* dark background */
+  border-radius: 34px;
+  padding: 0 6px;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.slider::before {
+  content: "";
+  position: absolute;
+  height: 27px;
+  width: 27px;
+  background-color: #0e573f; /* green slider */
+  border-radius: 50%;
+  border:2px solid white;
+  top: 2px;
+  left: 3px;
+  transition: transform 0.3s, background-color 0.3s;
+  z-index: 2;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+
+.lang-label {
+  position: relative;
+  z-index: 3;
+  font-size: 12px;
+  font-weight: bold;
+  color: #bbb; /* inactive color */
+  user-select: none;
+}
+
+.lang-en { margin-left: 4px; }
+.lang-jp { margin-right: 4px; }
+
+/* When JP is active */
+.lang-toggle input:checked + .slider::before {
+  transform: translateX(36px); /* moves slider circle */
+}
+
+.lang-toggle input:checked + .slider .lang-jp {
+  color: #bbb; /* inactive */
+}
+
+.lang-toggle input:checked + .slider .lang-en {
+  color: white; /* active */
+}
+
+/* When EN is active */
+.lang-toggle input:not(:checked) + .slider .lang-jp {
+  color: white; /* active */
+}
+
+.lang-toggle input:not(:checked) + .slider .lang-en {
+  color: #bbb; /* inactive */
+}
+

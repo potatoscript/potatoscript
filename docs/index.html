@@ -8,70 +8,31 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap" rel="stylesheet">
 
-
 <!-- Light mode -->
 <link rel="icon" href="/favicon-light.png" media="(prefers-color-scheme: light)">
 
 <!-- Dark mode -->
 <link rel="icon" href="/favicon-dark.png" media="(prefers-color-scheme: dark)">
 
-
 <link rel="icon" id="favicon">
-
-<script>
-const favicon = document.getElementById("favicon");
-const canvas = document.createElement("canvas");
-const ctx = canvas.getContext("2d");
-
-canvas.width = 64;
-canvas.height = 64;
-
-let angle = 0;
-
-function draw() {
-  ctx.clearRect(0,0,64,64);
-  ctx.save();
-  ctx.translate(32,32);
-  ctx.rotate(angle);
-  ctx.font = "40px serif";
-  ctx.textAlign="center";
-  ctx.textBaseline="middle";
-  ctx.fillText("🥔",0,0);
-  ctx.restore();
-
-  favicon.href = canvas.toDataURL();
-  angle += 0.05;
-}
-
-setInterval(draw, 50);
-</script>
-
-
 
 <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
 <link href="style.css" rel="stylesheet">
-
 </head>
 
-
-<script>
-setTimeout(() => {
-  const intro = document.getElementById("intro");
-  if (!intro) return;
-
-  intro.style.opacity = "0";
-
-  setTimeout(() => {
-    intro.remove();
-  }, 2000);
-
-}, 3000);
-</script>
-
-
-
-
 <body>
+
+  <label class="lang-toggle">
+    <input type="checkbox" id="langToggle" />
+    <span class="slider">
+      <span class="lang-label lang-en">EN</span>
+      <span class="lang-label lang-jp">JP</span>
+    </span>
+  </label>
+
+
+
+
 
 <div id="intro">
   <h1 class="logo"><img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif?raw=true" width="50px"> PotatoScript</h1>
@@ -85,31 +46,34 @@ setTimeout(() => {
 <section data-aos="fade-down">
 
 <h1>
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif?raw=true" width="50px">  
-～Hi, I’m PotatoScript the Full-Stack System Developer
+  <img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif?raw=true" width="50px">  
+  <span data-i18n="heroTitle">～Hi, I’m PotatoScript the Full-Stack System Developer</span>
 </h1>
 
+
+
+<h3 data-i18n="profTitle"></h3>
+<p data-i18n="profDesc"></p>
+
+
+<h3 data-i18n="degree"></h3>
+
+
+<h3 data-i18n="currentProject">📦 CURRENT PROJECT:</h3>
 <p>
-<h3>📦 CURRENT PROJECT:</h3>
 <a href="https://github.com/potatoscript/PotatoGPT" target="_blank">
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/chatbot.png?raw=true" width="25">
 Building a Completely Offline, Free Local AI Chatbot (Streamlit + GPT4All + Local RAG)
 </a>
 </p>
 
-<p>
+
 <h3>👩‍💼 LEADERSHIP & ENGINEERING PRACTICES:</h3>
+<p>
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/chatbot.png?raw=true" width="25">
 <a href="https://potatoscript.github.io/potato-leadership/" target="_blank">
 Potato Leadership – Practical Leadership Tutorials for Engineers & Tech Leads
 </a>
-</p>
-
-<p>
-With over <strong>10+ years of experience</strong> in full-stack development, <br>
-I specialize in automating processes, optimizing workflows, and have strong expertise in backend databases.<br> 
-I’m skilled in CI/CD setup, web and desktop applications, and combining engineering precision with programming creativity.<br> 
-I hold a First-Class Honours in Mechanical Engineering (<a href="https://www.coventry.ac.uk/" target="_blank">Coventry University UK</a>).
 </p>
 
 </section>
@@ -132,31 +96,25 @@ That project bridged engineering and software.
 </p>
 
 <details>
-<summary class="clickable"><strong>✨👉【Click to continue reading】📖 続きを読むにはココをクリック...👈</strong></summary>
+<summary class="clickable"><strong>✨👉【Click to continue reading】📖 👈</strong></summary>
 
 <br>
 
 <p>
-After graduation, I started my career in <b>Singapore</b> as an 
-<b>Oilseal Product Designer & Production Engineer</b>, designing components,
-tooling, and production workflows.
+After graduating, I began my career in <b>Singapore</b> as an 
+<b>Oil Seal Product Designer & Production Engineer</b>, where I was responsible for component design, tooling development, and production workflow optimization.
 </p>
 
 <p>
-I quickly realized the potential of software to streamline processes, so I built
-an internal <b>Production Information Management System</b>, dramatically improving
-efficiency on the shop floor.
+Recognizing the transformative potential of software in manufacturing, I independently developed an internal <b>Production Information Management System</b> that significantly improved shop-floor efficiency, traceability, and data visibility.
 </p>
 
 <p>
-My three-year assignment at the <b>Thailand branch</b> further honed my automation
-skills — leading cost-reduction projects and collaborating with vendors to build
-custom production machinery.
+During a three-year assignment at the <b>Thailand branch</b>, I expanded my expertise in industrial automation by leading cost-reduction initiatives and collaborating with vendors to design and deploy custom production machinery.
 </p>
 
 <p>
-These hands-on experiences gave me a rare edge: combining physical systems
-knowledge with digital transformation expertise.
+These experiences built a strong foundation in both physical systems and digital transformation — enabling me to bridge engineering and software with practical, results-driven solutions.
 </p>
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/Design_Engineer_Jobs.png?raw=true" width="600">
@@ -166,12 +124,12 @@ knowledge with digital transformation expertise.
 <h2>💻 Technical Skill Set</h2>
 
 <ul>
-<li>🧠 <b>Languages:</b> Java, C#, Python, JavaScript, PHP, SQL</li>
+<li>🧠 <b>Programming Languages:</b> Java, C#, Python, JavaScript, PHP, SQL</li>
 <li>🎨 <b>Frontend:</b> HTML, CSS, Vue.js, React.js</li>
 <li>🛠️ <b>Backend:</b> ASP.NET Core, Flask/FastAPI, Node.js</li>
 <li>🗄️ <b>Databases:</b> SQLite, MySQL, PostgreSQL</li>
-<li>☁️ <b>Cloud & Infrastructure:</b> Azure, Windows Server (IIS, Apache)</li>
-<li>🔄 <b>DevOps & Tools:</b> Git, GitHub, GitLab, SharePoint, CI/CD pipelines, Docker</li>
+<li>☁️ <b>Cloud & Infrastructure:</b> Microsoft Azure, Windows Server (IIS, Apache)</li>
+<li>🔄 <b>DevOps & Collaboration:</b> Git, GitHub, GitLab, SharePoint, CI/CD, Docker</li>
 </ul>
 
 <hr>
@@ -179,13 +137,13 @@ knowledge with digital transformation expertise.
 <h3>🚀 Key Projects</h3>
 
 <ul>
-<li>🧩 <b><a href="https://potatoscript.github.io/homepage/">Potato.js</a></b> – custom JavaScript library</li>
+<li>🧩 <b><a href="https://potatoscript.github.io/homepage/">Potato.js</a></b> – Lightweight custom JavaScript library</li>
 
-<li>📱 <b><a href="https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0">QR Scanner Organizer</a></b> – Android QR organizer app</li>
+<li>📱 <b><a href="https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0">QR Scanner Organizer</a></b> – Android application for QR management</li>
 
-<li>🌐 Web system using <b>Vue.js + ASP.NET Core API</b></li>
+<li>🌐 Enterprise web system built with <b>Vue.js + ASP.NET Core API</b></li>
 
-<li>🧠 Processed <b>1,000,000+ daily wafer records</b> for a semiconductor company using Python</li>
+<li>🧠 High-volume data processing system handling <b>1M+ wafer records daily</b> for a semiconductor client using Python</li>
 </ul>
 
 <hr>
@@ -193,33 +151,32 @@ knowledge with digital transformation expertise.
 <h2>🧠 Current Focus: CAD System Development</h2>
 
 <p>
-I'm currently developing a <b>CAD system from the ground up</b> for an architecture company:
+Currently developing a <b>CAD platform from the ground up</b> for an architecture firm, covering both core computation and user-facing systems:
 </p>
 
 <ul>
-<li>C++ (Open CASCADE) for geometric computation</li>
-<li>C# WPF for desktop UI</li>
-<li>Git version control + PR workflow</li>
-<li>CI/CD with GitHub Actions</li>
-<li>Cloud server for multi-user data access</li>
-<li>REST API + WebSocket real-time sync</li>
+<li>C++ with Open CASCADE for geometric modeling</li>
+<li>C# WPF for desktop application UI</li>
+<li>Git-based version control with PR workflow</li>
+<li>CI/CD automation via GitHub Actions</li>
+<li>Cloud-backed multi-user data architecture</li>
+<li>REST APIs and WebSocket-based real-time synchronization</li>
 </ul>
 
 <p>
-This project sharpened my skills in system architecture,
-cloud integration, and collaborative development.
+This work has strengthened my expertise in software architecture, cloud integration, and collaborative development at scale.
 </p>
 
 <img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" width="600">
 
 <hr>
 
-<h2>👨‍💻 Developer Mindset</h2>
+<h2>👨‍💻 Professional Mindset</h2>
 
 <ul>
-<li>💡 <b>Problem Solver:</b> scalable long-term solutions</li>
-<li>🔁 <b>Continuous Learner:</b> constant skill upgrades</li>
-<li>🤝 <b>Team Collaborator:</b> cross-border teamwork using Git & SharePoint</li>
+<li>💡 <b>Analytical Problem Solver:</b> focused on scalable, long-term solutions</li>
+<li>🔁 <b>Continuous Learner:</b> actively exploring AI, LLMs, and emerging technologies</li>
+<li>🤝 <b>Collaborative Team Player:</b> experienced in cross-border teamwork and distributed development</li>
 </ul>
 
 <hr>
@@ -227,105 +184,12 @@ cloud integration, and collaborative development.
 <h2>🌟 Let’s Connect</h2>
 
 <p>
-If you’re looking for a high-impact developer with strong engineering
-backbone and love for scalable code —
-<b>I’m PotatoScript, and I’m ready to build the future with you.</b>
-</p>
-
-<hr>
-
-<!-- ===== JAPANESE VERSION ===== -->
-
-<details>
-<summary><b>日本語バージョンはこちら ▶️（Click to expand）👇📖</b></summary>
-
-<br>
-
-<p>
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/potato.png" width="50">
-ようこそ、私は <b>フルスタック・システム開発者</b>。
-</p>
-
-<p>
-Webおよびデスクトップアプリケーションの開発に
-<b>15年以上の実務経験</b>を持ち、
-エンジニアリングの精密さとプログラミングの創造性を兼ね備えています。
-</p>
-
-<p>
-イギリスの<b>コヴェントリー大学</b>で
-機械工学のファーストクラス優等学士を取得しました。
-</p>
-
-<hr>
-
-<h3>🔧 すべての始まり</h3>
-
-<p>
-大学最終年度にMATLABで振動解析ツールを開発し、
-ソフトウェアと工学の融合に強い情熱を持ちました。
-</p>
-
-<hr>
-
-<h3>💼 エンジニアから自動化・開発へ</h3>
-
-<p>
-シンガポールでオイルシール設計・生産エンジニアとして勤務し、
-PIMS（生産情報管理システム）を独自開発しました。
-</p>
-
-<p>
-タイ赴任では自動化設備導入とコスト削減を主導しました。
-</p>
-
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/Design_Engineer_Jobs.png?raw=true" width="600">
-
-<hr>
-
-<h3>💻 フルスタック開発者へ転向</h3>
-
-<ul>
-<li>使用言語：Java, C#, Python, JavaScript, PHP, SQL</li>
-<li>フロントエンド：HTML, CSS, Vue.js, React.js</li>
-<li>バックエンド：ASP.NET Core, Flask/FastAPI, Node.js</li>
-<li>DB：SQLite, MySQL, PostgreSQL</li>
-<li>クラウド：Azure, IIS, Apache</li>
-<li>DevOps：Git, GitHub, Docker, CI/CD</li>
-</ul>
-
-<hr>
-
-<h3>🧠 建築CADシステム開発</h3>
-
-<p>
-C++ (Open CASCADE) と C# WPF を使用し、
-クラウド連携型CADを開発中。
-</p>
-
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/python.dev.env.png?raw=true" width="600">
-
-<hr>
-
-<h3>👨‍💻 開発者マインドセット</h3>
-
-<ul>
-<li>問題解決思考</li>
-<li>継続的な学習</li>
-<li>チームワーク重視</li>
-</ul>
-
-<hr>
-
-<p>
-エンジニアリングのバックボーンと
-クリーンなコードを愛する開発者をお探しなら、
-私はPotatoScriptです。
+If you are seeking a developer who combines strong engineering fundamentals with modern software expertise and a passion for building scalable systems —
+<b>I’m PotatoScript, and I look forward to creating impactful solutions together.</b>
 </p>
 
 </details>
 
-</details>
 
 
 </section>
@@ -1022,18 +886,35 @@ C++ (Open CASCADE) と C# WPF を使用し、
 
 <td align="center" width="50%">
 <p>🖥️ <b>Windows Server</b></p>
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/windows_server.png?raw=true" width="90%">
+
+<p>
+Deployment and administration of IIS-hosted applications, 
+API services, and internal enterprise systems.  
+Experienced in server configuration, access control, 
+and performance tuning for stable production environments.
+</p>
+
+<img class="zoom-hover-left" src="https://github.com/potatoscript/MyDocuments/blob/main/windows_server.png?raw=true" width="90%">
 </td>
 
 <td align="center" width="50%">
 <p>☁️ <b>Azure Cloud Server</b></p>
-<img src="https://github.com/potatoscript/MyDocuments/blob/main/azure_server.png?raw=true" width="90%">
+
+<p>
+Cloud infrastructure setup for scalable web applications, 
+REST APIs, and database-backed systems.  
+Skilled in VM deployment, networking, and cloud-based 
+data access for multi-user environments.
+</p>
+
+<img class="zoom-hover-right" src="https://github.com/potatoscript/MyDocuments/blob/main/azure_server.png?raw=true" width="90%">
 </td>
 
 </tr>
 </table>
 
 </section>
+
 
 
 <!-- SOCIAL -->
@@ -1055,7 +936,9 @@ C++ (Open CASCADE) と C# WPF を使用し、
 <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+<script src="translations.js"></script>
 <script src="script.js"></script>
+
 <script>
 AOS.init({duration:1000});
 </script>
