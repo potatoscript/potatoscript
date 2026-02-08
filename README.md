@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://potatoscript.github.io/potatoscript/">
+  <a href="https://potatoscript.github.io/potatoscript/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Visit_Portfolio-000000?style=for-the-badge">
   </a>
 </p>
@@ -22,7 +22,7 @@
 
 # 👨‍💻 Professional Summary
 
-> Full-stack developer with 15+ years of experience designing and building  
+> Full-stack developer with 10+ years of experience designing and building  
 > scalable, reliable, production-grade systems.
 >
 > I combine **engineering precision** with **modern software design**  
@@ -50,33 +50,29 @@ Coventry University (UK)
 
 | Python | C# | C++ | Java | PHP | JS/TS |
 |--------|----|----|------|-----|------|
-| ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| ◎ | ◎ | △ | 〇 | 〇 | ◎ |
 
----
 
 ### ⚙ Frameworks
 
 | ASP.NET Core | Django | FastAPI | Node.js | React | Vue |
 |-------------|--------|--------|--------|------|-----|
-| ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| ◎ | 〇 | 〇 | 〇 | △ | 〇 |
 
----
 
 ### ☁ Cloud & DevOps
 
-| Azure | Docker | GitHub Actions | CI/CD | IIS |
-|------|--------|---------------|------|----|
-| ✔ | ✔ | ✔ | ✔ | ✔ |
+| Azure | Docker | GitHub Actions | CI/CD | IIS | Apache |
+|------|--------|---------------|------|----|--------|
+| 〇 | 〇 | ◎ | 〇 | 〇 | ◎ |
 
----
 
 ### 🗄 Databases
 
 | PostgreSQL | MySQL | SQLite |
 |-----------|------|--------|
-| ✔ | ✔ | ✔ |
+| ◎ | 〇 | ◎ |
 
----
 
 # 🚀 Selected Projects
 
@@ -89,16 +85,13 @@ Coventry University (UK)
 | **CAD System Development** | C++ / C# WPF architecture tools |
 
 ---
+# 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://potatoscript.github.io/potatoscript/">
     <img src="https://img.shields.io/badge/🚀_Explore_Full_Portfolio-000000?style=for-the-badge">
   </a>
 </p>
-
----
-
-# 🤝 Let’s Connect
 
 <p align="center">
 Open to collaboration and impactful technical projects.<br>
