@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PotatoScript Portfolio</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap" rel="stylesheet">
+
+<!-- Light/Dark mode favicon -->
+<link rel="icon" href="/favicon-light.png" media="(prefers-color-scheme: light)">
+<link rel="icon" href="/favicon-dark.png" media="(prefers-color-scheme: dark)">
+<link rel="icon" id="favicon">
+
+<!-- AOS animations -->
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+<!-- Your CSS files -->
+<link href="css/global.css" rel="stylesheet">
+<link href="css/container.css" rel="stylesheet">
+<link href="css/table.css" rel="stylesheet">
+<link href="css/video.css" rel="stylesheet">
+<link href="css/cards.css" rel="stylesheet">
+<link href="css/skills.css" rel="stylesheet">
+<link href="css/intro.css" rel="stylesheet">
+<link href="css/toggle.css" rel="stylesheet">
+<link href="css/images.css" rel="stylesheet">
+<link href="css/buttons.css" rel="stylesheet">
+
+</head>
+<body>
+
+<!-- Language toggle -->
+<label class="lang-toggle">
+  <input type="checkbox" id="langToggle" />
+  <span class="slider">
+    <span class="lang-label lang-en">EN</span>
+    <span class="lang-label lang-jp">JP</span>
+  </span>
+</label>
+
+<!-- Intro Section -->
+<div id="intro">
+  <h1 class="logo">
+    <img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif?raw=true" alt="PotatoScript Logo">
+    <span>PotatoScript</span>
+  </h1>
+  <p>Initializing Portfolio...</p>
+</div>
+
+<!-- Main Content Container -->
+<div class="container" id="mainContent"></div>
+
+<!-- Templates for SPA (no server needed) -->
+<script type="text/template" id="projects-template">
+  <section data-aos="fade-up">
+    <h2>Projects</h2>
+    <div class="project-item">
+      <a href="https://github.com/potatoscript/PotatoGPT" target="_blank">
+        <img src="https://github.com/potatoscript/MyDocuments/blob/main/chatbot.png?raw=true" alt="PotatoGPT">
+      </a>
+      <div>
+        <a href="https://github.com/potatoscript/PotatoGPT" target="_blank">PotatoGPT</a>
+        <p>Local AI chatbot powered by GPT4All.</p>
+      </div>
+    </div>
+    <!-- Add more project items here -->
+  </section>
+</script>
+
+<script type="text/template" id="skills-template">
+  <section data-aos="fade-up">
+    <h2>Skills</h2>
+    <table>
+      <tr><th>Skill</th><th>Level</th></tr>
+      <tr><td>Web Development</td><td>Advanced</td></tr>
+      <tr><td>Python</td><td>Advanced</td></tr>
+      <tr><td>AI / Chatbot</td><td>Intermediate</td></tr>
+      <!-- Add more skills here -->
+    </table>
+  </section>
+</script>
+
+<script type="text/template" id="infra-template">
+  <section data-aos="fade-up">
+    <h2>Infrastructure</h2>
+    <ul>
+      <li>Windows Server 2019 / 2022</li>
+      <li>Azure Cloud</li>
+      <li>Linux Containers</li>
+      <li>CI/CD Pipelines</li>
+    </ul>
+  </section>
+</script>
+
+<script type="text/template" id="social-template">
+  <section data-aos="fade-up" class="center">
+    <h3>Connect With Me</h3>
+    <a href="https://www.facebook.com/">Facebook</a><br>
+    <a href="https://www.youtube.com/">YouTube</a><br>
+    <a href="https://github.com/potatoscript">GitHub</a>
+  </section>
+</script>
+
+<!-- JS Libraries -->
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+
+<!-- SPA JS -->
+<script>
+  // Initialize AOS animations
+  AOS.init({duration:1000});
+
+  // Sections to inject
+  const sections = ['projects', 'skills', 'infra', 'social'];
+  const container = document.getElementById('mainContent');
+
+  sections.forEach(section => {
+    const template = document.getElementById(`${section}-template`);
+    if (template) {
+      container.insertAdjacentHTML('beforeend', template.innerHTML);
+    } else {
+      container.insertAdjacentHTML('beforeend', `<p>Could not load ${section} section.</p>`);
+    }
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+/* ===== IMAGE ===== */
+img{
+  max-width:100%;
+  border-radius:12px;
+  transition:.4s;
+}
+
+img:hover{
+  transform:scale(1.05);
+}
+
+.zoom-hover-left, .zoom-hover-right {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 12px;
+  border:1px solid black;
+  padding: 5px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.zoom-hover-left:hover {
+  transform: translate(20%, -20%) scale(1.5);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+  z-index: 10;
+  position: relative;
+}
+
+.zoom-hover-right:hover {
+  transform: translate(-20%, -20%) scale(1.5);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+  z-index: 10;
+  position: relative;
+}

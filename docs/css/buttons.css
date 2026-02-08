@@ -1,0 +1,15 @@
+/* ===== BUTTON ===== */
+.btn{
+  display:inline-block;
+  padding:12px 22px;
+  border-radius:10px;
+  background:linear-gradient(90deg,#065f46,#047857);
+  color:white;
+  font-weight:600;
+  transition:.3s;
+}
+
+.btn:hover{
+  transform:scale(1.05);
+  box-shadow:0 10px 20px rgba(6,95,70,0.25);
+}

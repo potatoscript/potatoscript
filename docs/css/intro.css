@@ -1,0 +1,62 @@
+/* ===== INTRO SCREEN ===== */
+#intro {
+  position: fixed;
+  inset: 0;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  z-index: 9999;
+  animation: fadeOut 1.2s ease forwards;
+  animation-delay: 2.2s;
+}
+
+#intro h1 {
+  font-size: clamp(24px, 6vw, 48px); /* min 24px, preferred 6% of viewport width, max 48px */
+  font-weight: bold;
+  line-height: 1.2;
+  letter-spacing: 2px;
+  animation: fadeIn 1.5s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity:0; filter: blur(10px);}
+  to { opacity:1; filter: blur(0);}
+}
+
+@keyframes fadeOut {
+  to { opacity:0; filter: blur(8px); visibility:hidden;}
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px; /* space between image and text */
+  font-weight: bold;
+
+  background: linear-gradient(90deg,#38bdf8,#22c55e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  font-size: clamp(24px, 6vw, 48px); /* responsive text size */
+  line-height: 1.2;
+}
+
+.logo img {
+  width: clamp(30px, 6vw, 50px); /* responsive image width */
+  height: auto;
+}
+
+/* Optional mobile tweak */
+@media (max-width: 480px) {
+  .logo {
+    flex-direction: column; /* stack image above text on small screens */
+    gap: 6px;
+    text-align: center;
+  }
+  .logo img {
+    width: clamp(24px, 20vw, 40px); /* smaller image on very small screens */
+  }
+}
