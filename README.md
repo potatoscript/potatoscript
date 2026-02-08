@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center"><a href="https://potatoscript.github.io/potatoscript/">PotatoScript</a></h1>
+<h1 align="center"><a href="https://potatoscript.github.io/potatoscript/" target="_blank">PotatoScript</a></h1>
 
 <p align="center">
   <b>Full-Stack System Developer</b><br>
