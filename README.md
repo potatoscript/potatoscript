@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif" width="80px">
+  <a href="https://potatoscript.github.io/potatoscript/" target="_blank">
+    <img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif" width="80px">
+  </a>
 </p>
 
-<h1 align="center">PotatoScript</h1>
+
+<h1 align="center"><a href="https://potatoscript.github.io/potatoscript/">PotatoScript</a></h1>
 
 <p align="center">
   <b>Full-Stack System Developer</b><br>
-  15+ Years Experience • Automation • Scalable Systems
+  10+ Years Experience • Automation • Scalable Systems
 </p>
 
 <p align="center">
