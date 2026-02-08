@@ -338,6 +338,55 @@ summary.clickable {
   font-family: "Segoe UI", system-ui, sans-serif;
 }
 
+summary {
+  cursor: pointer;
+  list-style: none;
+  color:#2563eb;
+}
+
+summary::before {
+  content: " ➕";
+}
+
+details[open] summary::before {
+  content: " ➖";
+}
+
+.smooth-details summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+/* Remove default arrow */
+.smooth-details summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Custom arrow */
+.smooth-details summary::after {
+  content: " 👈";
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+/* Rotate arrow when open */
+.smooth-details[open] summary::after {
+  transform: rotate(-90deg);
+}
+
+/* Smooth content animation */
+.smooth-details .content {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.4s ease;
+}
+
+
+.smooth-details[open] .content {
+  max-height: 500px; /* adjust if needed */
+}
+
+
 
 
 .skills-card {
@@ -661,5 +710,49 @@ summary.clickable {
     width: 90%;
     height: 300px;        /* maintain aspect ratio */
     margin: 20px auto;
+  }
+}
+
+.center-img{
+  display:block;
+  margin:20px auto;
+  max-width:100%;
+}
+
+
+.cad-flex{
+  display:flex;
+  gap:30px;
+  align-items:flex-start;
+  margin-top:20px;
+}
+
+/* text side */
+.cad-text{
+  flex:1;
+  margin-left: 30px;
+  color:#2563eb
+}
+
+/* video side */
+.cad-video{
+  flex:1;
+  max-width:420px;
+}
+
+.cad-video video{
+  width:100%;
+  border-radius:12px;
+  box-shadow:0 10px 25px rgba(0,0,0,0.15);
+  transition:opacity 0.4s ease;
+}
+
+@media (max-width:768px){
+  .cad-flex{
+    flex-direction:column;
+  }
+
+  .cad-video{
+    max-width:100%;
   }
 }

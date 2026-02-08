@@ -41,7 +41,8 @@ Passionate about continuous learning and actively exploring emerging technologie
                   to extract natural frequencies and damping from sensor data.<br>
                   That project bridged engineering and software.`,
 
-    readMore: `<strong>✨👉【Click to continue...】👈</strong>`,
+    readMore: `<strong>【Read more...】</strong>`,
+    showLess: `<strong>【Show less...】</strong>`,
 
     storySG: `After graduating, I began my career in <b>Singapore</b> as an 
               <b>Oil Seal Product Designer & Production Engineer</b>, where I was responsible for component design, tooling development, and production workflow optimization.
@@ -62,21 +63,58 @@ Passionate about continuous learning and actively exploring emerging technologie
     databases: "Databases",
     cloud: "Cloud & Infrastructure",
     devops: "DevOps & Collaboration",
-    skillSet: `<li>🧠 <b>Programming Languages:</b> Java, C#, Python, JavaScript, PHP, SQL</li>
-  <li>🎨 <b>Frontend:</b> HTML, CSS, Vue.js, React.js</li>
-  <li>🛠️ <b>Backend:</b> ASP.NET Core, Flask/FastAPI, Node.js</li>
-  <li>🗄️ <b>Databases:</b> SQLite, MySQL, PostgreSQL</li>
-  <li>☁️ <b>Cloud & Infrastructure:</b> Microsoft Azure, Windows Server (IIS, Apache)</li>
-  <li>🔄 <b>DevOps & Collaboration:</b> Git, GitHub, GitLab, SharePoint, CI/CD, Docker</li>`,
+    skillSet: `<ul>
+    <li>🧠 <b>Programming Languages:</b> Java, C#, Python, JavaScript, PHP, SQL</li>
+    <li>🎨 <b>Frontend:</b> HTML, CSS, Vue.js, React.js</li>
+    <li>🛠️ <b>Backend:</b> ASP.NET Core, Flask/FastAPI, Node.js</li>
+    <li>🗄️ <b>Databases:</b> SQLite, MySQL, PostgreSQL</li>
+    <li>☁️ <b>Cloud & Infrastructure:</b> Microsoft Azure, Windows Server (IIS, Apache)</li>
+    <li>🔄 <b>DevOps & Collaboration:</b> Git, GitHub, GitLab, SharePoint, CI/CD, Docker</li>
+    </ul>`,
 
     // ===== PROJECT HIGHLIGHTS =====
     keyProjects: "🚀 Key Projects",
+    projectList: `
+      <ul>
+        <li>🧩 <b><a href="https://potatoscript.github.io/homepage/" target="_blank">Potato.js</a></b> – Lightweight custom JavaScript library</li>
 
-    cadFocus: "🧠 Current Focus: CAD System Development",
-    cadDesc: "Developing a CAD platform from the ground up.",
+        <li>📱 <b><a href="https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0" target="_blank">QR Scanner Organizer</a></b> – Android application for QR management</li>
 
+        <li>🌐 Enterprise web system built with <b>Vue.js + ASP.NET Core API</b></li>
+
+        <li>🧠 High-volume data processing system handling <b>1M+ wafer records daily</b> for a semiconductor client using Python</li>
+      </ul>
+      `,
+    cadIntro: `Currently developing a <b>CAD platform from the ground up</b> for an architecture firm, covering both core computation and user-facing systems:`,
+    cadList: `
+            <li>C++ with Open CASCADE for geometric modeling</li>
+            <li>C# WPF for desktop application UI</li>
+            <li>Git-based version control with PR workflow</li>
+            <li>CI/CD automation via GitHub Actions</li>
+            <li>Cloud-backed multi-user data architecture</li>
+            <li>REST APIs and WebSocket-based real-time synchronization</li>
+          `,
+
+
+    storyStrength:`This work has strengthened my expertise in software architecture, cloud integration, and collaborative development at scale.`,
+      
     mindset: "👨‍💻 Professional Mindset",
+    mindsetList: `
+                <ul>
+                  <li>💡 <b>Analytical Problem Solver:</b> focused on scalable, long-term solutions</li>
+                  <li>🔁 <b>Continuous Learner:</b> actively exploring AI, LLMs, and emerging technologies</li>
+                  <li>🤝 <b>Collaborative Team Player:</b> experienced in cross-border teamwork and distributed development</li>
+                </ul>
+                `,
+
+
     connect: "🌟 Let’s Connect",
+    connectPitch: `
+            If you are seeking a developer who combines strong engineering fundamentals with modern software expertise and a passion for building scalable systems —
+            <b>I’m PotatoScript, and I look forward to creating impactful solutions together.</b>
+            `,
+
+
 
     // ===== PROJECTS SECTION =====
     projects: "🧩 My Projects",
@@ -109,6 +147,20 @@ Passionate about continuous learning and actively exploring emerging technologie
     windowsDesc: "Deployment and administration of IIS-hosted enterprise systems.",
     azureServer: "Azure Cloud Server",
     azureDesc: "Cloud infrastructure for scalable web and API systems.",
+
+    iisExperience: `
+      Deployment and administration of IIS-hosted applications, 
+      API services, and internal enterprise systems.  
+      Experienced in server configuration, access control, 
+      and performance tuning for stable production environments.
+      `,
+
+    cloudExperience: `
+      Cloud infrastructure setup for scalable web applications, 
+      REST APIs, and database-backed systems.  
+      Skilled in VM deployment, networking, and cloud-based 
+      data access for multi-user environments.
+      `,
 
     // ===== SOCIAL =====
     connectMe: "Connect with me"
@@ -155,7 +207,8 @@ CI/CDパイプライン、システム統合、アプリケーションのライ
 このプロジェクトを通じて、エンジニアリングとソフトウェアの橋渡しを経験しました。`,
 
 
-    readMore: `<strong>✨👉【続きを読む...】👈</strong>`,
+    readMore: `<strong>【続きを読む...】</strong>`,
+    showLess: `<strong>【閉じる.......】</strong>`,
 
     storySG: `卒業後、<b>シンガポール</b>でキャリアをスタートし、<b>オイルシール製品デザイナー兼生産エンジニア</b>として勤務しました。<br>
               この職務では、部品設計、治具開発、そして生産フローの最適化を担当しました。`,
@@ -174,20 +227,53 @@ CI/CDパイプライン、システム統合、アプリケーションのライ
     databases: "データベース",
     cloud: "クラウド",
     devops: "DevOps",
-    skillSet: `<li>🧠 <b>プログラミング言語:</b> Java, C#, Python, JavaScript, PHP, SQL</li>
-  <li>🎨 <b>フロントエンド:</b> HTML, CSS, Vue.js, React.js</li>
-  <li>🛠️ <b>バックエンド:</b> ASP.NET Core, Flask/FastAPI, Node.js</li>
-  <li>🗄️ <b>データベース:</b> SQLite, MySQL, PostgreSQL</li>
-  <li>☁️ <b>クラウド & インフラ:</b> Microsoft Azure, Windows Server (IIS, Apache)</li>
-  <li>🔄 <b>DevOps & コラボレーション:</b> Git, GitHub, GitLab, SharePoint, CI/CD, Docker</li>`,
+    skillSet: `<ul>
+    <li>🧠 <b>プログラミング言語:</b> Java, C#, Python, JavaScript, PHP, SQL</li>
+    <li>🎨 <b>フロントエンド:</b> HTML, CSS, Vue.js, React.js</li>
+    <li>🛠️ <b>バックエンド:</b> ASP.NET Core, Flask/FastAPI, Node.js</li>
+    <li>🗄️ <b>データベース:</b> SQLite, MySQL, PostgreSQL</li>
+    <li>☁️ <b>クラウド & インフラ:</b> Microsoft Azure, Windows Server (IIS, Apache)</li>
+    <li>🔄 <b>DevOps & コラボレーション:</b> Git, GitHub, GitLab, SharePoint, CI/CD, Docker</li></ul>`,
 
     keyProjects: "🚀 主なプロジェクト",
+    projectList: `
+        <ul>
+          <li>🧩 <b><a href="https://potatoscript.github.io/homepage/" target="_blank">Potato.js</a></b> – 開発効率を向上させる独自JavaScriptライブラリ</li>
 
-    cadFocus: "🧠 CAD開発に注力中",
-    cadDesc: "ゼロからCADシステムを開発。",
+          <li>📱 <b><a href="https://youtu.be/2Gj8fluQQpQ?si=Q4U6LB6IctjtIGM0" target="_blank">QR Scanner Organizer</a></b> – QRコード管理用のAndroidアプリケーション</li>
+
+          <li>🌐 <b>Vue.js + ASP.NET Core API</b>で構築されたエンタープライズWebシステム</li>
+
+          <li>🧠 Pythonを用いた、半導体クライアント向けの<b>日次100万件以上のウェハーデータ</b>を処理する大規模データ処理システム</li>
+        </ul>
+        `,
+
+    cadIntro: `現在、建築設計事務所向けに、<b>ゼロから構築するCADプラットフォーム</b>を開発しており、コア計算機能からユーザー向けシステムまで幅広く対応しています：`,
+    cadList: `
+              <li>Open CASCADE を用いたC++による幾何モデリング</li>
+              <li>C# WPFによるデスクトップアプリケーションUI開発</li>
+              <li>PRワークフローを活用したGitベースのバージョン管理</li>
+              <li>GitHub ActionsによるCI/CD自動化</li>
+              <li>クラウド対応のマルチユーザーデータアーキテクチャ</li>
+              <li>REST APIおよびWebSocketによるリアルタイム同期</li>
+            `,
+    storyStrength:`これらの経験を通じて、ソフトウェアアーキテクチャ、クラウド統合、そして大規模な協調開発における専門性を高めてきました。`,
 
     mindset: "👨‍💻 プロフェッショナルマインド",
+    mindsetList: `
+            <ul>
+              <li>💡 <b>分析型の問題解決者:</b> スケーラブルで長期的な解決策を重視</li>
+              <li>🔁 <b>継続的な学習者:</b> AI・LLM・最新技術を積極的に学習</li>
+              <li>🤝 <b>協調的なチームプレイヤー:</b> 国際チームや分散開発の経験あり</li>
+            </ul>
+            `,
+
     connect: "🌟 お問い合わせ",
+    connectPitch: `
+            堅実なエンジニアリング基盤と最新のソフトウェア知識を兼ね備え、スケーラブルなシステム構築に情熱を持つ開発者をお探しでしたら —
+            <b>PotatoScriptとして、共に価値あるソリューションを生み出せることを楽しみにしています。</b>
+            `,
+
 
     projects: "🧩 プロジェクト",
     libraries: "📚 ライブラリ",
@@ -217,6 +303,21 @@ CI/CDパイプライン、システム統合、アプリケーションのライ
     windowsDesc: "IIS企業システム運用経験。",
     azureServer: "Azureクラウド",
     azureDesc: "スケーラブルなクラウド構築。",
+
+    iisExperience: `
+      IIS上で稼働するアプリケーション、APIサービス、および社内向けエンタープライズシステムの
+      デプロイおよび運用管理に対応。  
+      サーバー構成、アクセス制御、安定した本番環境を維持するための
+      パフォーマンスチューニングに精通しています。
+      `,
+
+    cloudExperience: `
+      スケーラブルなWebアプリケーション、REST API、データベース連携システム向けの
+      クラウドインフラ構築に対応。  
+      VM展開、ネットワーク設計、複数ユーザー環境における
+      クラウドベースのデータアクセスに精通しています。
+      `,
+
 
     connectMe: "連絡する"
 
