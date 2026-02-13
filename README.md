@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://potatoscript.github.io/potatoscript/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Visit_Portfolio-000000?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🌟_View_My_Portfolio_ポートフォリオ-FFD700?style=for-the-badge">
   </a>
 </p>
 
@@ -88,8 +88,8 @@ Coventry University (UK)
 # 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://potatoscript.github.io/potatoscript/">
-    <img src="https://img.shields.io/badge/🚀_Explore_Full_Portfolio-000000?style=for-the-badge">
+  <a href="https://potatoscript.github.io/potatoscript/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Click_to_View_作品を見る-important?style=for-the-badge">
   </a>
 </p>
 
