@@ -183,10 +183,8 @@ document.addEventListener("DOMContentLoaded", () => {
   // auto play video
   const cadVideo = document.getElementById("cadVideo");
   if (cadVideo) {
-
     const observer = new IntersectionObserver(entries => {
       entries.forEach(entry => {
-
         if (entry.isIntersecting) {
           cadVideo.style.opacity = 1;
           cadVideo.play().catch(()=>{});
@@ -194,13 +192,16 @@ document.addEventListener("DOMContentLoaded", () => {
           cadVideo.style.opacity = 0.5;
           cadVideo.pause();
         }
-
       });
     }, {
       threshold: 0.5 // play when 50% visible
     });
 
     observer.observe(cadVideo);
+
+    cadVideo.addEventListener("error", () => {
+      console.log("Video failed to load, Please reload page");
+    });
   }
 
     // auto play video
@@ -223,6 +224,9 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     observer.observe(rubberflowVideo);
+    rubberflowVideo.addEventListener("error", () => {
+      console.log("Video failed to load, Please reload page");
+    });
   }
 
 
