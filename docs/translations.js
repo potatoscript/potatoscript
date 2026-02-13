@@ -44,15 +44,25 @@ Passionate about continuous learning and actively exploring emerging technologie
     readMore: `<strong>【Read more...】</strong>`,
     showLess: `<strong>【Show less...】</strong>`,
 
-    storySG: `After graduating, I began my career in <b>Singapore</b> as an 
-              <b>Oil Seal Product Designer & Production Engineer</b>, where I was responsible for component design, tooling development, and production workflow optimization.
-              `,
+    storySG: `After graduating, I began my career in <b>Singapore</b> as an <br>
+<b>Oil Seal Product Designer & Production Engineer</b>. <br>
+I was entrusted with designing precision components, developing tooling solutions, <br>
+and optimizing production workflows to improve efficiency and consistency.<br>
 
-    storySoftware: `Recognizing the transformative potential of software in manufacturing, I independently developed an internal <b>Production Information Management System</b> that significantly improved shop-floor efficiency, traceability, and data visibility.`,
+Working in a high-volume manufacturing environment, <br>
+I partnered with R&D and production teams to translate design concepts <br>
+into manufacturable products. I contributed to process improvements that <br>
+enhanced product quality, minimized waste, and increased throughput.<br>
+
+This early career experience built my mindset for structured problem solving,<br> 
+data-driven decision making, and continuous improvement — principles that <br>
+continue to influence my approach in software and system design today.`,
+
+    storySoftware: `Recognizing the transformative potential of software in manufacturing, I independently developed an internal <br><b>Production Information Management System</b> that significantly improved shop-floor efficiency, traceability, and data visibility.`,
     
-    storyThailand: `During a three-year assignment at the <b>Thailand branch</b>, I expanded my expertise in industrial automation by leading cost-reduction initiatives and collaborating with vendors to design and deploy custom production machinery.`,
+    storyThailand: `During a three-year assignment at the <b>Thailand branch</b>,<br> I expanded my expertise in industrial automation by leading cost-reduction initiatives and collaborating with vendors to design and deploy custom production machinery.`,
     
-    storyExperience: `These experiences built a strong foundation in both physical systems and digital transformation — enabling me to bridge engineering and software with practical, results-driven solutions.`,
+    storyExperience: `These experiences built a strong foundation in both physical systems and digital transformation —<br> enabling me to bridge engineering and software with practical, results-driven solutions.`,
 
     
     // ===== SKILLS SUMMARY =====
@@ -210,14 +220,27 @@ CI/CDパイプライン、システム統合、アプリケーションのライ
     readMore: `<strong>【続きを読む...】</strong>`,
     showLess: `<strong>【閉じる.......】</strong>`,
 
-    storySG: `卒業後、<b>シンガポール</b>でキャリアをスタートし、<b>オイルシール製品デザイナー兼生産エンジニア</b>として勤務しました。<br>
-              この職務では、部品設計、治具開発、そして生産フローの最適化を担当しました。`,
+    storySG: `大学卒業後、私は<b>シンガポール</b>にて  <br>
+<b>オイルシール製品設計・生産エンジニア</b>としてキャリアをスタートしました。  <br>
+精密部品の設計、治工具ソリューションの開発、生産工程の最適化を任され、  <br>
+効率性と品質の安定化向上に取り組みました。<br>
 
-    storySoftware: `製造業におけるソフトウェアの変革力を認識し、私は独自に社内の<b>生産情報管理システム</b>を開発しました。これにより、現場の効率、トレーサビリティ、データの可視化が大幅に向上しました。`,
+大量生産環境において、R&D部門および製造チームと連携し、<br>  
+設計コンセプトを量産可能な製品へと落とし込む役割を担いました。<br>  
+また、品質向上、廃棄ロス削減、生産性向上につながる  
+工程改善にも貢献しました。<br>
+
+これらの初期キャリアでの経験により、
+体系的な問題解決力、データに基づく意思決定、<br>  
+そして継続的改善（カイゼン）の考え方を培いました。<br>  
+これらの原則は現在も、ソフトウェアおよびシステム設計における
+私のアプローチの基盤となっています。`,
+
+    storySoftware: `製造業におけるソフトウェアの変革力を認識し、私は独自に社内の<b>生産情報管理システム</b>を開発しました。<br>これにより、現場の効率、トレーサビリティ、データの可視化が大幅に向上しました。`,
     
-    storyThailand: `3年間の<b>タイ支社</b>での勤務期間中、コスト削減プロジェクトを主導し、ベンダーと協力してカスタム生産機械の設計・導入を行うことで、産業用自動化の専門知識をさらに深めました。`,
+    storyThailand: `3年間の<b>タイ支社</b>での勤務期間中、コスト削減プロジェクトを主導し、ベンダーと協力してカスタム生産機械の設計・導入を行うことで、<br>産業用自動化の専門知識をさらに深めました。`,
     
-    storyExperience: `これらの経験により、物理システムとデジタルトランスフォーメーションの両方に強固な基盤が築かれ、エンジニアリングとソフトウェアを実務的かつ成果志向で橋渡しできるようになりました。`,
+    storyExperience: `これらの経験により、物理システムとデジタルトランスフォーメーションの両方に強固な基盤が築かれ、<br>エンジニアリングとソフトウェアを実務的かつ成果志向で橋渡しできるようになりました。`,
 
 
     techSkills: "💻 技術スキル",
