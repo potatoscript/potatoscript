@@ -209,6 +209,28 @@ document.addEventListener("DOMContentLoaded", () => {
     observer.observe(cadVideo);
   }
 
+    // auto play video
+  const rubberflowVideo = document.getElementById("rubberflowVideo");
+  if (rubberflowVideo) {
+
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+
+        if (entry.isIntersecting) {
+          rubberflowVideo.style.opacity = 1;
+          rubberflowVideo.play().catch(()=>{});
+        } else {
+          rubberflowVideo.style.opacity = 0.5;
+          rubberflowVideo.pause();
+        }
+      });
+    }, {
+      threshold: 0.5 // play when 50% visible
+    });
+
+    observer.observe(rubberflowVideo);
+  }
+
 
 
 
