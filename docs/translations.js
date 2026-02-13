@@ -116,15 +116,11 @@ continue to influence my approach in software and system design today.`,
                   <li>🤝 <b>Collaborative Team Player:</b> experienced in cross-border teamwork and distributed development</li>
                 </ul>
                 `,
-
-
-    connect: "🌟 Let’s Connect",
+    connect: `🌟 Let’s Connect`,
     connectPitch: `
             If you are seeking a developer who combines strong engineering fundamentals with modern software expertise and a passion for building scalable systems —
             <b>I’m PotatoScript, and I look forward to creating impactful solutions together.</b>
             `,
-
-
 
     // ===== PROJECTS SECTION =====
     projects: "🧩 My Projects",
