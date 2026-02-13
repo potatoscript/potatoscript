@@ -195,12 +195,6 @@ document.addEventListener("DOMContentLoaded", () => {
           cadVideo.pause();
         }
 
-        // if (entry.isIntersecting) {
-        //   cadVideo.play().catch(()=>{});
-        // } else {
-        //   cadVideo.pause();
-        // }
-
       });
     }, {
       threshold: 0.5 // play when 50% visible
