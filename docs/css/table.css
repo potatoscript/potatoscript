@@ -19,6 +19,7 @@ tr:hover{
 
 .table-skill th{
   text-align: left;
+  margin-left: 10px;
 }
 
 .table-skill a {
@@ -27,6 +28,7 @@ tr:hover{
 
 .table-skill td {
   line-height: 1.6em;
+  vertical-align: top;
 }
 
 
@@ -45,4 +47,69 @@ tr:hover{
 /* Keep the content upright */
 .table-skill a > * {
   backface-visibility: hidden;
+}
+
+
+/* ===== MOBILE RESPONSIVE ===== */
+@media (max-width: 768px){
+
+  .table-skill,
+  .table-skill tbody,
+  .table-skill tr,
+  .table-skill td,
+  .table-skill th{
+    display:block;
+    width:100%;
+  }
+
+  .table-skill tr{
+    margin-bottom:20px;
+    background:white;
+    border-radius:12px;
+    padding:10px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.05);
+  }
+
+  .table-skill th{
+    font-size:18px;
+    font-weight:700;
+    background:#f3f4f6;
+    border-radius:8px;
+    margin-bottom:8px;
+  }
+
+  .table-skill td{
+    border:none;
+    padding:8px 4px;
+  }
+
+  .table-skill a{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  padding:6px 10px;
+  border-radius:8px;
+  transition:0.2s;
+}
+
+.table-skill a:hover{
+  background:#f0fdf4;
+  transform:translateY(-2px);
+}
+.stars{
+  color:#f59e0b;
+  font-size:14px;
+  margin-left:auto;
+}
+.table-skill img{
+  width:20px;
+  height:20px;
+  object-fit:contain;
+}
+.skills-grid{
+  display:grid;
+  grid-template-columns: repeat(auto-fit,minmax(260px,1fr));
+  gap:20px;
+}
+
 }

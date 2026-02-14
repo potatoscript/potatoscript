@@ -175,6 +175,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
     applyLanguage(currentLang);
   });
+
+  document.querySelectorAll(".stars").forEach(el => {
+    const rating = parseInt(el.dataset.rating);
+    const stars = el.querySelectorAll("span");
+
+    stars.forEach((star, i) => {
+      star.textContent = i < rating ? "⭐" : "☆";
+    });
+  });
+
+
 });
 
 
