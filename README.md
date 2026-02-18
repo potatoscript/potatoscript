@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://potatoscript.github.io/potatoscript/" target="_blank">
+  <a href="https://potatoscript.pages.dev/" target="_blank">
     <img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif" width="80px">
   </a>
 </p>
 
 
-<h1 align="center"><a href="https://potatoscript.github.io/potatoscript/" target="_blank">PotatoScript</a></h1>
+<h1 align="center"><a href="https://potatoscript.pages.dev/" target="_blank">PotatoScript</a></h1>
 
 <p align="center">
   <b>Full-Stack System Developer</b><br>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://potatoscript.github.io/potatoscript/" target="_blank">
+  <a href="https://potatoscript.pages.dev/" target="_blank">
     <img src="https://img.shields.io/badge/🌟_View_My_Portfolio_ポートフォリオ-FFD700?style=for-the-badge">
   </a>
 </p>
@@ -88,7 +88,7 @@ Coventry University (UK)
 # 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://potatoscript.github.io/potatoscript/" target="_blank">
+  <a href="https://potatoscript.pages.dev/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Click_to_View_作品を見る-important?style=for-the-badge">
   </a>
 </p>
