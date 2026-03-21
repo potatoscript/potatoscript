@@ -79,11 +79,10 @@ Coventry University (UK)
 | **CAD System Development** | C++ / C# WPF architecture tools |
 
 ---
-# 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://potatoscript.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/🌟_View_My_Portfolio_ポートフォリオ-FFD700?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🌟_View_My_Portfolio_-FFD700?style=for-the-badge">
   </a>
 </p>
 
