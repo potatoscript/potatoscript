@@ -12,12 +12,6 @@
   10+ Years Experience • Automation • Scalable Systems
 </p>
 
-<p align="center">
-  <a href="https://potatoscript.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/🌟_View_My_Portfolio_ポートフォリオ-FFD700?style=for-the-badge">
-  </a>
-</p>
-
 ---
 
 # 👨‍💻 Professional Summary
@@ -89,7 +83,7 @@ Coventry University (UK)
 
 <p align="center">
   <a href="https://potatoscript.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Click_to_View_作品を見る-important?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🌟_View_My_Portfolio_ポートフォリオ-FFD700?style=for-the-badge">
   </a>
 </p>
 
