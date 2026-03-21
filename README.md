@@ -1,7 +1,5 @@
 <p align="center">
-
     <img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif" width="80px">
-  
 </p>
 
 
