@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://potatoscript.pages.dev/" target="_blank">
+
     <img src="https://github.com/potatoscript/MyDocuments/blob/main/potatoscript.gif" width="80px">
-  </a>
+  
 </p>
 
 
-<h1 align="center"><a href="https://potatoscript.pages.dev/" target="_blank">PotatoScript</a></h1>
+<h1 align="center">PotatoScript</h1>
 
 <p align="center">
   <b>Full-Stack System Developer</b><br>
